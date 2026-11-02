@@ -1,5 +1,5 @@
-# Handoff
+# PakhiAtlas handoff
 
-Read AGENTS.md, COVERAGE.md, RESEARCH_STANDARDS.md and CONTENT_GUIDE.md. The implementation is static and functional, but the content is explicitly draft and the requested large verified library is unfinished. Start by restoring permitted research access, retrieve authoritative references, map claims, verify current Bangladesh law and obtain correctly licensed species photographs. Do not expand page count by copying common prose. Run all checks and browser tests after changes. Verify Pages API settings and actual final deployed URL; never infer a live URL from the owner name.
+Start with [CHAT_HANDOFF.md](CHAT_HANDOFF.md), which records the latest user instructions, implementation, tests, exact blockers and failed UI-setting guesses. It supersedes older handoff guidance about displaying public draft labels. Then read AGENTS.md, COVERAGE.md, CONTENT_GUIDE.md and RESEARCH_STANDARDS.md.
 
-Git remote read access works through HTTPS proxy. Inherited Git identity is Tanzil Ahmed / existing inherited Git configuration. API access was denied, so authenticated API identity and Pages metadata could not initially be checked. No custom-domain setting is authorized. Actions determines origin/base from configure-pages.
+The public site uses reader-facing articles without process diagnostics. Internal evidence status must remain honest. Real licensed photos, direct source verification and live deployment verification remain outstanding; no false completion claims.
