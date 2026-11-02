@@ -1,7 +1,7 @@
 ---
 {
   "title": "African Grey",
-  "summary": "A cognitively demanding parrot. The Timneh is a different species, not a colour mutation of this bird. Talking is never guaranteed.",
+  "summary": "A large African parrot with substantial cognitive and social needs. The Timneh grey is a different species, not a colour form. A vocabulary or sales claim does not predict welfare, suitability or speech.",
   "language": "en",
   "slug": "african-grey",
   "reviewedAt": "2026-11-02",
@@ -9,55 +9,48 @@
     "taxonomy",
     "aav",
     "vcadiet",
-    "law",
-    "cites"
+    "merck"
   ],
   "contentStatus": "editorial-draft"
 }
 ---
 
-## Meet the bird
+## Identity and varieties
 
-A cognitively demanding parrot. The Timneh is a different species, not a colour mutation of this bird. Talking is never guaranteed.
+A large African parrot with substantial cognitive and social needs. The Timneh grey is a different species, not a colour form. A vocabulary or sales claim does not predict welfare, suitability or speech.
 
-Natural origin: Equatorial Africa. This describes wild ancestry, not where a bird offered for sale was bred. Ask for lawful provenance and individual records. Bangladesh availability has not been independently established for this entry.
+Natural ancestry: Equatorial Africa. This is not proof of where an offered bird was born. Ask for accurate identification, hatch and health records. A market name alone may confuse species, mutations and domestic breeds.
 
-## Before making a commitment
+## Living space and companionship
 
-Plan for daily feeding, cleaning, observation, social contact and safe exercise. A bird's individual history matters as much as a general species description. Our comparison labels are broad research aids, not a promise about noise or temperament. A small bird still needs room to fly.
+Provide gradual introductions to changes, varied foraging and daily safe activity. Encourage independence as well as social contact. Feather damaging behavior has medical and environmental possibilities; do not reduce it to “attention seeking” or try punishment.
 
-## Housing, companionship and enrichment
+Provide secure usable space rather than decorative crowding, stable perches where suitable, clean feeding areas and an undisturbed retreat. Supervise introductions; keep newcomers separate with a veterinary screening plan. Never rely on body size alone to predict compatibility.
 
-Choose secure housing that permits unrestricted wing movement and useful flight or exercise, with bar spacing appropriate to the individual. Avoid sharp edges, loose threads and access to toxic metals. Offer stable perches of varied suitable diameters and inspect feet, toys and fittings regularly. Introduce new objects gradually and leave a retreat.
+## Feeding and daily care
 
-Do not put unfamiliar birds straight into a shared cage. Arrange separation and a veterinary quarantine plan first. Supervise introductions and be ready to maintain separate housing. Observe access to food and resting places, not just the absence of fighting.
+Use a species-appropriate balanced feeding plan, not a bowl made mainly of favourite seeds. Introduce suitable vegetables and other foods gradually while observing actual intake. A bowl of husks can look full. Never withhold familiar food to force pellet conversion; ask a bird-experienced veterinarian about the individual’s needs.
 
-## Food and daily routine
+Change drinking water and clean bowls whenever soiled. Keep a predictable rest routine and offer suitable bathing without force. Observe activity, appetite and droppings every day. Clean spoiled food and damp waste promptly; safe ventilation matters in Bangladesh’s humid weather.
 
-Use a species-appropriate feeding plan agreed with an avian veterinarian. A seed-only ration can be nutritionally incomplete; do not abruptly remove a familiar diet to force conversion. Track what is actually eaten. Fresh water, clean bowls and prompt removal of spoiled food are daily essentials. Lorikeet feeding requirements cannot be inferred from a parrot seed mixture.
+## Breeding age and readiness
 
-Allow a predictable quiet sleep routine and safe daytime activity. Offer bathing without forcing or soaking a frightened bird. Do not clip feathers, trim a beak or administer supplements as a routine home experiment.
+**Sexual maturity is not a recommended breeding age.** A first egg, mating behaviour or a seller calling a bird “adult” is not enough. Use a known hatch date, an appropriate species-specific age assessment, healthy body condition and a compatible unrelated pair.
 
-## Trust and behavior
+Do not transfer small-parrot maturity assumptions to a grey. Confirm documented adult age, health and pair compatibility with qualified help. Avoid amateur hand-rearing as a way to produce a “tamer” bird; acquire fully weaned individuals.
 
-Reward voluntary approaches with something the bird values. Start at a distance where it remains relaxed. Stop when it withdraws, freezes or becomes distressed; avoid chasing and forced handling. Talking and tolerance of touch are not guaranteed. Feather damage needs assessment of medical and environmental causes, not punishment.
+An exact recommended minimum breeding age has not yet been confirmed against a retrieved source for this entry. Rather than publish an unsupported number, this field remains open. Do not use this page alone to schedule breeding. See the linked breeding-readiness guide for the practical checks to complete first.
 
-## Health observation
+## Eggs, chicks and warning signs
 
-Learn this individual's usual appetite, activity and droppings. Birds may hide illness. Persistent changes, reduced food intake, fewer droppings or a change in posture warrant veterinary advice. Breathing difficulty, collapse, bleeding or suspected toxin exposure require urgent professional assessment. Never diagnose from droppings colour alone.
+Before providing a nest, plan for parent health, daily unobtrusive observation, veterinary access and a suitable destination for every chick. More eggs are not a welfare target. Do not force pairing or keep an exhausted bird breeding.
 
-## Breeding, sexing and acquisition
+Straining, weakness, unusual posture, sitting low or breathing difficulty need prompt veterinary assessment. Do not massage an abdomen, manipulate an egg or give a guessed supplement dose. A chick that is weak or not being fed needs experienced help; amateur syringe feeding risks serious injury. Choose fully weaned birds.
 
-Colour or behavior is not a universal sexing test, especially across mutations. Ask a qualified professional which identification method is appropriate. Breeding requires a welfare plan, known parentage, suitable housing and access to veterinary help. Repeated laying, straining, weakness or sitting on the cage floor need prompt assessment. Do not buy an unweaned bird or attempt amateur syringe feeding.
+## Handling and health
 
-## Questions worth asking
+Use voluntary, reward-based interaction and allow withdrawal. Not every species wants hand contact. Never chase, punish or promise speech. Sudden behavior changes, poor intake or persistent droppings changes warrant assessment; collapse, major bleeding, suspected toxins or breathing difficulty are urgent.
 
-**Is this a beginner bird?** Experience labels describe relative demands only. Check household noise, time, veterinary access and lifetime care before deciding.
+## Before bringing one home
 
-**Can it live with another species?** Do not assume compatibility from body size. Separate secure housing is the starting point.
-
-**Can I buy it legally in Bangladesh?** This entry does not establish permission. Current national law, provenance and any applicable CITES requirements must be checked. Do not acquire wild-caught native birds.
-
-## Evidence limits
-
-Direct source retrieval was blocked during preparation. This is an editorial draft, not a verified species monograph. Numerical lifespan, weight, cage dimensions, reproductive timings and claims of local availability are deliberately withheld pending source checks. See the research inventory and source ledger before relying on this entry for a purchase decision.
+Check daily care time, household noise tolerance, safe space, ongoing costs and who will care during travel. Look at individual behavior and records instead of a colour or breed label. See the first-bird and acquisition guides for a checklist; species-level Bangladesh availability has not been independently established here.

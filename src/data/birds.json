@@ -13,7 +13,8 @@
     "originBn": "অস্ট্রেলিয়া",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg"
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Psittaculidae"
   },
   {
     "slug": "cockatiel",
@@ -29,7 +30,8 @@
     "originBn": "অস্ট্রেলিয়া",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg"
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Cacatuidae"
   },
   {
     "slug": "peach-faced-lovebird",
@@ -45,7 +47,8 @@
     "originBn": "দক্ষিণ-পশ্চিম আফ্রিকা",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg"
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Psittaculidae"
   },
   {
     "slug": "green-cheeked-conure",
@@ -61,7 +64,8 @@
     "originBn": "দক্ষিণ আমেরিকা",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg"
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Psittacidae"
   },
   {
     "slug": "sun-conure",
@@ -77,7 +81,8 @@
     "originBn": "দক্ষিণ আমেরিকার উত্তর-পূর্বাঞ্চল",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg"
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Psittacidae"
   },
   {
     "slug": "african-grey",
@@ -93,7 +98,8 @@
     "originBn": "নিরক্ষীয় আফ্রিকা",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg"
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Psittacidae"
   },
   {
     "slug": "zebra-finch",
@@ -109,7 +115,8 @@
     "originBn": "অস্ট্রেলিয়া ও আশপাশের দ্বীপ; শ্রেণিবিন্যাসে ভিন্নতা রয়েছে",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg"
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Estrildidae"
   },
   {
     "slug": "canary",
@@ -125,6 +132,211 @@
     "originBn": "আটলান্টিক দ্বীপপুঞ্জের ক্যানারি থেকে গৃহপালিত বংশ",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg"
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Fringillidae"
+  },
+  {
+    "slug": "fischers-lovebird",
+    "en": "Fischer’s Lovebird",
+    "bn": "ফিশার্স লাভবার্ড",
+    "scientificName": "Agapornis fischeri",
+    "family": "Parrots",
+    "size": "small",
+    "noise": "high",
+    "experience": "intermediate",
+    "aliases": "ফিশার ফিশার্স ফিশারস লাভবার্ড fischer eye ring",
+    "origin": "East Africa",
+    "originBn": "পূর্ব আফ্রিকা",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Psittaculidae"
+  },
+  {
+    "slug": "masked-lovebird",
+    "en": "Masked Lovebird",
+    "bn": "মাস্কড লাভবার্ড",
+    "scientificName": "Agapornis personatus",
+    "family": "Parrots",
+    "size": "small",
+    "noise": "high",
+    "experience": "intermediate",
+    "aliases": "মাস্ক মাস্কড ব্ল্যাক মাস্কড lovebird black masked",
+    "origin": "East Africa",
+    "originBn": "পূর্ব আফ্রিকা",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Psittaculidae"
+  },
+  {
+    "slug": "society-finch",
+    "en": "Society / Bengalese Finch",
+    "bn": "সোসাইটি বা বেঙ্গলিজ ফিঞ্চ",
+    "scientificName": "Lonchura striata domestica",
+    "family": "Finches",
+    "size": "small",
+    "noise": "low",
+    "experience": "beginner",
+    "aliases": "সোসাইটি বেঙ্গলি বেঙ্গলিজ bengalese society",
+    "origin": "Domesticated lineage; not a separate wild species",
+    "originBn": "গৃহপালিত বংশ; আলাদা বন্য প্রজাতি নয়",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Estrildidae"
+  },
+  {
+    "slug": "gouldian-finch",
+    "en": "Gouldian Finch",
+    "bn": "গোল্ডিয়ান ফিঞ্চ",
+    "scientificName": "Chloebia gouldiae",
+    "family": "Finches",
+    "size": "small",
+    "noise": "low",
+    "experience": "intermediate",
+    "aliases": "গোল্ডিয়ান গোল্ডেন গুলডিয়ান gouldian Erythrura",
+    "origin": "Northern Australia",
+    "originBn": "উত্তর অস্ট্রেলিয়া",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Estrildidae"
+  },
+  {
+    "slug": "java-sparrow",
+    "en": "Java Sparrow",
+    "bn": "জাভা স্প্যারো",
+    "scientificName": "Padda oryzivora",
+    "family": "Finches",
+    "size": "small",
+    "noise": "moderate",
+    "experience": "intermediate",
+    "aliases": "জাভা জাবা java finch rice bird Lonchura oryzivora",
+    "origin": "Java and nearby Indonesian islands",
+    "originBn": "জাভা ও কাছাকাছি ইন্দোনেশীয় দ্বীপপুঞ্জ",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Estrildidae"
+  },
+  {
+    "slug": "domestic-pigeon",
+    "en": "Domestic Pigeon",
+    "bn": "গৃহপালিত কবুতর",
+    "scientificName": "Columba livia domestica",
+    "family": "Doves",
+    "size": "medium",
+    "noise": "low",
+    "experience": "beginner",
+    "aliases": "কবুতর পায়রা pigeon tumbler fantail giribaz গিরিবাজ লোটন ফ্যানটেইল",
+    "origin": "Domestic lineage of the rock dove",
+    "originBn": "রক ডোভের গৃহপালিত বংশ",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Columbidae"
+  },
+  {
+    "slug": "diamond-dove",
+    "en": "Diamond Dove",
+    "bn": "ডায়মন্ড ডাভ",
+    "scientificName": "Geopelia cuneata",
+    "family": "Doves",
+    "size": "small",
+    "noise": "low",
+    "experience": "intermediate",
+    "aliases": "ডায়মন্ড ডাভ ঘুঘু diamond dove",
+    "origin": "Australia",
+    "originBn": "অস্ট্রেলিয়া",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Columbidae"
+  },
+  {
+    "slug": "japanese-quail",
+    "en": "Japanese Quail",
+    "bn": "জাপানি কোয়েল",
+    "scientificName": "Coturnix japonica",
+    "family": "Quail",
+    "size": "small",
+    "noise": "moderate",
+    "experience": "intermediate",
+    "aliases": "কোয়েল বটের quail coturnix japanese",
+    "origin": "Domesticated lineage of an East Asian quail",
+    "originBn": "পূর্ব এশীয় কোয়েলের গৃহপালিত বংশ",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Phasianidae"
+  },
+  {
+    "slug": "jenday-conure",
+    "en": "Jenday Conure",
+    "bn": "জেন্ডে কনিউর",
+    "scientificName": "Aratinga jandaya",
+    "family": "Parrots",
+    "size": "medium",
+    "noise": "high",
+    "experience": "experienced",
+    "aliases": "জেন্ডে জেনডে জেন্ডায় jenday jandaya conure",
+    "origin": "Brazil",
+    "originBn": "ব্রাজিল",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Psittacidae"
+  },
+  {
+    "slug": "nanday-conure",
+    "en": "Nanday Conure",
+    "bn": "নানডে কনিউর",
+    "scientificName": "Aratinga nenday",
+    "family": "Parrots",
+    "size": "medium",
+    "noise": "high",
+    "experience": "experienced",
+    "aliases": "নানডে ন্যান্ডে কালোমাথা nanday black hooded Nandayus",
+    "origin": "Central South America",
+    "originBn": "দক্ষিণ আমেরিকার মধ্যাঞ্চল",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Psittacidae"
+  },
+  {
+    "slug": "senegal-parrot",
+    "en": "Senegal Parrot",
+    "bn": "সেনেগাল প্যারট",
+    "scientificName": "Poicephalus senegalus",
+    "family": "Parrots",
+    "size": "medium",
+    "noise": "moderate",
+    "experience": "experienced",
+    "aliases": "সেনেগাল সেনেগ্যাল senegal poicephalus",
+    "origin": "West Africa",
+    "originBn": "পশ্চিম আফ্রিকা",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Psittacidae"
+  },
+  {
+    "slug": "pacific-parrotlet",
+    "en": "Pacific Parrotlet",
+    "bn": "প্যাসিফিক প্যারটলেট",
+    "scientificName": "Forpus coelestis",
+    "family": "Parrots",
+    "size": "small",
+    "noise": "moderate",
+    "experience": "intermediate",
+    "aliases": "প্যারটলেট প্যারোটলেট pacific celestial parrotlet",
+    "origin": "Western South America",
+    "originBn": "দক্ষিণ আমেরিকার পশ্চিমাঞ্চল",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "image": "/illustrations/bird.svg",
+    "taxonomicFamily": "Psittacidae"
   }
 ]

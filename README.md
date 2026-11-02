@@ -4,7 +4,7 @@
 
 Bilingual, entirely static bird encyclopedia and care reference for Bangladesh. Astro 7, TypeScript, Tailwind 4, Markdown Content Collections and local multilingual Pagefind. No backend, accounts, analytics, AI/API runtime or paid service.
 
-**Research edition, not a complete verified encyclopedia.** Eight species introductions and nine guides in both languages remain transparently labelled editorial drafts. Direct source research was network-blocked. No legal permission, local availability or veterinary review is claimed. See [coverage](docs/COVERAGE.md).
+**Research edition, not a complete verified encyclopedia.** Twenty species introductions and twelve guides in both languages remain transparently labelled editorial drafts. Direct source research was network-blocked. No legal permission, local availability or veterinary review is claimed. See [coverage](docs/COVERAGE.md).
 
 ## Develop
 

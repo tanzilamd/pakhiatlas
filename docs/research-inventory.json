@@ -8,15 +8,14 @@
     "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Require documented captive-bred provenance; never infer from sale",
-    "legalConcerns": "Current national law and CITES requirements unverified",
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
     "sources": [
       "taxonomy",
       "aav",
-      "law",
-      "cites"
+      "merck"
     ],
-    "coverageStatus": "bilingual editorial draft"
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "Cockatiel",
@@ -27,15 +26,14 @@
     "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Require documented captive-bred provenance; never infer from sale",
-    "legalConcerns": "Current national law and CITES requirements unverified",
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
     "sources": [
       "taxonomy",
       "aav",
-      "law",
-      "cites"
+      "merck"
     ],
-    "coverageStatus": "bilingual editorial draft"
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "Peach-faced Lovebird",
@@ -46,15 +44,14 @@
     "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Require documented captive-bred provenance; never infer from sale",
-    "legalConcerns": "Current national law and CITES requirements unverified",
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
     "sources": [
       "taxonomy",
       "aav",
-      "law",
-      "cites"
+      "merck"
     ],
-    "coverageStatus": "bilingual editorial draft"
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "Green-cheeked Conure",
@@ -65,15 +62,14 @@
     "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Require documented captive-bred provenance; never infer from sale",
-    "legalConcerns": "Current national law and CITES requirements unverified",
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
     "sources": [
       "taxonomy",
       "aav",
-      "law",
-      "cites"
+      "merck"
     ],
-    "coverageStatus": "bilingual editorial draft"
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "Sun Conure",
@@ -84,15 +80,14 @@
     "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Require documented captive-bred provenance; never infer from sale",
-    "legalConcerns": "Current national law and CITES requirements unverified",
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
     "sources": [
       "taxonomy",
       "aav",
-      "law",
-      "cites"
+      "merck"
     ],
-    "coverageStatus": "bilingual editorial draft"
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "African Grey",
@@ -103,15 +98,14 @@
     "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Require documented captive-bred provenance; never infer from sale",
-    "legalConcerns": "Current national law and CITES requirements unverified",
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
     "sources": [
       "taxonomy",
       "aav",
-      "law",
-      "cites"
+      "merck"
     ],
-    "coverageStatus": "bilingual editorial draft"
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "Zebra Finch",
@@ -122,15 +116,14 @@
     "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Require documented captive-bred provenance; never infer from sale",
-    "legalConcerns": "Current national law and CITES requirements unverified",
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
     "sources": [
       "taxonomy",
       "aav",
-      "law",
-      "cites"
+      "merck"
     ],
-    "coverageStatus": "bilingual editorial draft"
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "Domestic Canary",
@@ -141,15 +134,14 @@
     "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Require documented captive-bred provenance; never infer from sale",
-    "legalConcerns": "Current national law and CITES requirements unverified",
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
     "sources": [
       "taxonomy",
       "aav",
-      "law",
-      "cites"
+      "merck"
     ],
-    "coverageStatus": "bilingual editorial draft"
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "English/Exhibition Budgie (domestic variety)",
@@ -167,45 +159,57 @@
   },
   {
     "commonName": "Fischer’s Lovebird",
-    "scientificName": null,
-    "banglaName": null,
-    "aliases": [],
-    "family": null,
-    "category": "backlog",
+    "scientificName": "Agapornis fischeri",
+    "banglaName": "ফিশার্স লাভবার্ড",
+    "aliases": "ফিশার ফিশার্স ফিশারস লাভবার্ড fischer eye ring",
+    "family": "Parrots",
+    "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Research captive provenance; native parakeets require particular caution",
-    "legalConcerns": "No legal permission established",
-    "sources": [],
-    "coverageStatus": "unpublished; taxonomy and sources required"
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "Masked Lovebird",
-    "scientificName": null,
-    "banglaName": null,
-    "aliases": [],
-    "family": null,
-    "category": "backlog",
+    "scientificName": "Agapornis personatus",
+    "banglaName": "মাস্কড লাভবার্ড",
+    "aliases": "মাস্ক মাস্কড ব্ল্যাক মাস্কড lovebird black masked",
+    "family": "Parrots",
+    "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Research captive provenance; native parakeets require particular caution",
-    "legalConcerns": "No legal permission established",
-    "sources": [],
-    "coverageStatus": "unpublished; taxonomy and sources required"
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "Pacific Parrotlet",
-    "scientificName": null,
-    "banglaName": null,
-    "aliases": [],
-    "family": null,
-    "category": "backlog",
+    "scientificName": "Forpus coelestis",
+    "banglaName": "প্যাসিফিক প্যারটলেট",
+    "aliases": "প্যারটলেট প্যারোটলেট pacific celestial parrotlet",
+    "family": "Parrots",
+    "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Research captive provenance; native parakeets require particular caution",
-    "legalConcerns": "No legal permission established",
-    "sources": [],
-    "coverageStatus": "unpublished; taxonomy and sources required"
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "Bourke’s Parakeet",
@@ -279,31 +283,39 @@
   },
   {
     "commonName": "Jenday Conure",
-    "scientificName": null,
-    "banglaName": null,
-    "aliases": [],
-    "family": null,
-    "category": "backlog",
+    "scientificName": "Aratinga jandaya",
+    "banglaName": "জেন্ডে কনিউর",
+    "aliases": "জেন্ডে জেনডে জেন্ডায় jenday jandaya conure",
+    "family": "Parrots",
+    "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Research captive provenance; native parakeets require particular caution",
-    "legalConcerns": "No legal permission established",
-    "sources": [],
-    "coverageStatus": "unpublished; taxonomy and sources required"
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "Nanday Conure",
-    "scientificName": null,
-    "banglaName": null,
-    "aliases": [],
-    "family": null,
-    "category": "backlog",
+    "scientificName": "Aratinga nenday",
+    "banglaName": "নানডে কনিউর",
+    "aliases": "নানডে ন্যান্ডে কালোমাথা nanday black hooded Nandayus",
+    "family": "Parrots",
+    "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Research captive provenance; native parakeets require particular caution",
-    "legalConcerns": "No legal permission established",
-    "sources": [],
-    "coverageStatus": "unpublished; taxonomy and sources required"
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "Blue-crowned Conure",
@@ -363,17 +375,21 @@
   },
   {
     "commonName": "Senegal Parrot",
-    "scientificName": null,
-    "banglaName": null,
-    "aliases": [],
-    "family": null,
-    "category": "backlog",
+    "scientificName": "Poicephalus senegalus",
+    "banglaName": "সেনেগাল প্যারট",
+    "aliases": "সেনেগাল সেনেগ্যাল senegal poicephalus",
+    "family": "Parrots",
+    "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Research captive provenance; native parakeets require particular caution",
-    "legalConcerns": "No legal permission established",
-    "sources": [],
-    "coverageStatus": "unpublished; taxonomy and sources required"
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "Eclectus (resolve species)",
@@ -503,31 +519,39 @@
   },
   {
     "commonName": "Gouldian Finch",
-    "scientificName": null,
-    "banglaName": null,
-    "aliases": [],
-    "family": null,
-    "category": "backlog",
+    "scientificName": "Chloebia gouldiae",
+    "banglaName": "গোল্ডিয়ান ফিঞ্চ",
+    "aliases": "গোল্ডিয়ান গোল্ডেন গুলডিয়ান gouldian Erythrura",
+    "family": "Finches",
+    "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Research captive provenance; native parakeets require particular caution",
-    "legalConcerns": "No legal permission established",
-    "sources": [],
-    "coverageStatus": "unpublished; taxonomy and sources required"
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "Java Sparrow",
-    "scientificName": null,
-    "banglaName": null,
-    "aliases": [],
-    "family": null,
-    "category": "backlog",
+    "scientificName": "Padda oryzivora",
+    "banglaName": "জাভা স্প্যারো",
+    "aliases": "জাভা জাবা java finch rice bird Lonchura oryzivora",
+    "family": "Finches",
+    "category": "captive-research",
     "bangladeshEvidence": null,
     "availabilityConfidence": "unverified",
-    "originConsiderations": "Research captive provenance; native parakeets require particular caution",
-    "legalConcerns": "No legal permission established",
-    "sources": [],
-    "coverageStatus": "unpublished; taxonomy and sources required"
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   },
   {
     "commonName": "Doves (resolve species)",
@@ -570,5 +594,77 @@
     "legalConcerns": "No legal permission established",
     "sources": [],
     "coverageStatus": "unpublished; taxonomy and sources required"
+  },
+  {
+    "commonName": "Society / Bengalese Finch",
+    "scientificName": "Lonchura striata domestica",
+    "banglaName": "সোসাইটি বা বেঙ্গলিজ ফিঞ্চ",
+    "aliases": "সোসাইটি বেঙ্গলি বেঙ্গলিজ bengalese society",
+    "family": "Finches",
+    "category": "captive-research",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "unverified",
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+  },
+  {
+    "commonName": "Domestic Pigeon",
+    "scientificName": "Columba livia domestica",
+    "banglaName": "গৃহপালিত কবুতর",
+    "aliases": "কবুতর পায়রা pigeon tumbler fantail giribaz গিরিবাজ লোটন ফ্যানটেইল",
+    "family": "Doves",
+    "category": "captive-research",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "unverified",
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+  },
+  {
+    "commonName": "Diamond Dove",
+    "scientificName": "Geopelia cuneata",
+    "banglaName": "ডায়মন্ড ডাভ",
+    "aliases": "ডায়মন্ড ডাভ ঘুঘু diamond dove",
+    "family": "Doves",
+    "category": "captive-research",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "unverified",
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+  },
+  {
+    "commonName": "Japanese Quail",
+    "scientificName": "Coturnix japonica",
+    "banglaName": "জাপানি কোয়েল",
+    "aliases": "কোয়েল বটের quail coturnix japanese",
+    "family": "Quail",
+    "category": "captive-research",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "unverified",
+    "originConsiderations": "Verify documented captive origin",
+    "legalConcerns": "No assurance of legality",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual editorial draft; direct source checks pending"
   }
 ]
