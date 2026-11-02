@@ -2,6 +2,8 @@
 
 # PakhiAtlas · পাখির যত্ন, জানার সবকিছু।
 
+**লেখা সম্পাদনা করতে চান?** [বাংলায় ধাপে ধাপে সম্পাদনার নির্দেশনা](docs/EDITING_BN.md)—GitHub থেকে লেখা বদলানো, সঠিক ফাইল খোঁজা, দুই ভাষায় আপডেট, ছবি/নতুন নিবন্ধ যোগ করা এবং প্রকাশের ফল দেখা।
+
 Bilingual, entirely static bird encyclopedia and care reference for Bangladesh. Astro 7, TypeScript, Tailwind 4, Markdown Content Collections and local multilingual Pagefind. No backend, accounts, analytics, AI/API runtime or paid service.
 
 **Research edition, not a complete verified encyclopedia.** Forty companion profiles, five native-bird identification entries and twenty-four guides in both languages are presented as reader-facing articles, with internal research status recorded in docs/COVERAGE.md. Direct source research was network-blocked. No legal permission, local availability or veterinary review is claimed. See [coverage](docs/COVERAGE.md).

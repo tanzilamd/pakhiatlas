@@ -1,5 +1,7 @@
 # Edit content without a paid tool
 
+বাংলায় সহজ নির্দেশনা: [লেখা কীভাবে সম্পাদনা করবেন](EDITING_BN.md)।
+
 1. Open the repository on GitHub. Navigate to `src/content/birds/en/budgerigar.md` (or another guide/profile). Use the pencil to edit. Keep the JSON frontmatter between `---` intact.
 2. Edit the matching `bn` file with the same filename. Keep the same slug and essential information. Use natural Bangla and preserve scientific names.
 3. Add sources in `src/data/references.ts`, recording retrieval status honestly. Update the article source keys and actual editorial date. Do not claim a clinical review.
