@@ -11,7 +11,11 @@
     "aav",
     "vcadiet"
   ],
-  "contentStatus": "editorial-draft"
+  "contentStatus": "editorial-draft",
+  "relatedGuides": [
+    "illness-emergency",
+    "responsible-acquisition"
+  ]
 }
 ---
 
@@ -38,7 +42,3 @@ Avoid making high-fat seeds the main food. Monitor variety, exercise, weight and
 ## Pairing and breeding welfare
 
 A pair and a box are not sufficient for responsible breeding. Plan health, compatibility, enclosure safety and future chick care without pushing repeated breeding.
-
-## Before bringing one home
-
-Choose an independently feeding bird with documented identity and responsible provenance. Keep new birds separate and discuss an initial examination with a veterinarian. Persistent fluffed posture, breathing difficulty or stopping eating need prompt assessment. Do not take an unweaned chick and start inexperienced hand-feeding.

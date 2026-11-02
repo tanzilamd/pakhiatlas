@@ -11,7 +11,12 @@
     "merck",
     "vcadiet"
   ],
-  "contentStatus": "editorial-draft"
+  "contentStatus": "editorial-draft",
+  "relatedGuides": [
+    "first-bird",
+    "illness-emergency",
+    "quarantine"
+  ]
 }
 ---
 
@@ -25,30 +30,22 @@ Natural range: Central and South America. Ask for accurate identity, hatch histo
 
 Offer stable routes for climbing as well as flight opportunities. Introduce new perches and tasks gradually and keep food easy to locate. Social needs do not disappear because a bird is less conspicuous or spends time quietly.
 
-Keep movement routes clear, position bowls away from droppings and check doors and fittings. Before supervised exercise, control fans, exits, hot surfaces and other pets. Provide a predictable quiet rest period.
+[Housing & a bird-safe home](../../guides/safe-home/)
 
 ## Feeding and water
 
 A favourite-seed ration can be incomplete. Introduce appropriate balanced foods gradually and watch actual consumption; never starve a bird into accepting a new food.
 
-Offer clean water and wash soiled bowls. Inspect food frequently in hot humid weather. Do not add medicine, reproductive boosters or supplements without an individual professional plan.
+[A practical daily bird-care routine](../../guides/daily-routine/)
 
 ## Droppings, odour and cleaning
 
 Favourite perches outside the enclosure also collect droppings. Plan washable protection and remove spoiled food, damp lining and accumulated waste rather than masking odour.
 
-Formed feces may be surrounded by varying amounts of liquid urine. Wetness or colour alone does not diagnose diarrhea or another disease. A new strong smell, persistent change or changes accompanied by poor intake or lethargy need veterinary advice.
-
-## Trust and companionship
-
-Start interaction at a comfortable distance, reward voluntary approaches and allow withdrawal. Do not chase or force handling. Keep newcomers separate and discuss screening with a veterinarian before introductions. Sharing a species does not guarantee two birds can share housing.
+[Understanding bird droppings](../../guides/droppings/)
 
 ## Before planned breeding
 
-A nest and a male/female pair are not enough. Establish documented age, health, unrelated ancestry, compatibility, separate housing options and a plan for every chick. Do not pursue repeated clutches without regard for parental recovery.
+[Before the nest: pairing and breeding readiness](../../guides/breeding-readiness/)
 
 Weakness, straining, sitting low or breathing difficulty need prompt professional assessment. Do not manipulate eggs or attempt amateur syringe feeding of unweaned chicks.
-
-## Before acquisition
-
-Discuss sound, daily attention, cleaning work, veterinary access and lifetime costs with the household. Appearance is only part of the choice; the individual bird’s needs must also fit the home.

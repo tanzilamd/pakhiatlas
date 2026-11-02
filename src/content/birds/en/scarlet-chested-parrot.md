@@ -11,7 +11,11 @@
     "aav",
     "vcadiet"
   ],
-  "contentStatus": "editorial-draft"
+  "contentStatus": "editorial-draft",
+  "relatedGuides": [
+    "illness-emergency",
+    "responsible-acquisition"
+  ]
 }
 ---
 
@@ -38,7 +42,3 @@ Use a balanced small-parakeet feeding plan. A colourful seed mix is not proof of
 ## Pairing and breeding welfare
 
 Plan pair safety, health and recovery time. Colour demand is not a reason for repeated breeding or premature chick separation.
-
-## Before bringing one home
-
-Choose an independently feeding bird with documented identity and responsible provenance. Keep new birds separate and discuss an initial examination with a veterinarian. Persistent fluffed posture, breathing difficulty or stopping eating need prompt assessment. Do not take an unweaned chick and start inexperienced hand-feeding.

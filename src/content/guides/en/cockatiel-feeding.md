@@ -15,11 +15,9 @@
 }
 ---
 
-## Build the daily foundation first
+## Planning cockatiel meals
 
-Favourite food and balanced food are different. A cockatiel can eat plenty of seed and still have an inadequate diet. Plan species-appropriate complete food, vegetable variety and measured seed or treats. If using pellets, choose an appropriate formulation and never suddenly remove familiar food.
-
-Provide clean water every day. Rather than vegetables on only three days and seed alone on the rest, introduce suitable vegetables regularly. Actual consumption, discarded food and weight trends matter more than a rigid weekly calendar.
+This guide covers choosing suitable staple food, vegetables and limited extras for cockatiels. Whole-diet principles are in [balanced feeding](../balanced-diet/); seed ratios, shopping and stock arithmetic are in the [seed-mix planner](../seed-mix/).
 
 ## Rotate a small vegetable selection
 
@@ -39,12 +37,6 @@ Overnight soaking does not sterilise legumes or make them equivalent to cooked f
 
 Plain thoroughly cooked egg can be a limited extra in some feeding plans, but healthy adult pets do not universally need it twice weekly. Do not automatically increase protein or supplements for every molt or breeding attempt.
 
-## Two birds do not share one universal spoon allowance
-
-Do not use a single spoon measure as the daily ration for every cockatiel. Body condition, activity, staple type, seed density and actual consumption differ. Seed offered is also different from the edible portion consumed after hulling.
-
-Husks can make an empty bowl look full. Provide separate feeding positions when one bird excludes another. Never starve birds into accepting a new diet; falling intake requires attention.
-
 ## Grit, cuttlebone and mineral blocks
 
 Cockatiels hull seeds and generally do not need insoluble grit for digestion. Do not copy pigeon-feeding practice. A soluble calcium source such as cuttlebone is different from insoluble stone grit.
@@ -55,15 +47,6 @@ A block does not make an otherwise incomplete diet balanced. Do not automaticall
 
 Neem or tulsi twice monthly should not be treated as preventive medical care. Plant identity, preparation and species matter; herbal remedies must not delay assessment of illness. Clean water, appropriate food, safe air, rest and early illness recognition are the practical foundation.
 
-Offer bathing according to preference and conditions without forcibly soaking a bird. Provide ventilation without smoke or strong direct drafts. Sun exposure needs shade, supervision and temperature awareness; do not leave a bird beside glass and walk away.
 
-## Check at the end of the day
 
-- Was new food eaten, or just shredded?
-- Is water clean and soft food removed?
-- Is edible seed present beneath the husks?
-- Have behaviour, weight trends or droppings changed persistently?
-
-Stopping eating, weakness or breathing difficulty needs prompt veterinary assessment rather than continued diet experiments. Read the [seed-mix guide](../seed-mix/) for preparation and storage.
-
-Use the [food-transition steps](../food-transition/) to introduce changes gradually while observing actual intake.
+See the separate [food-transition method](../food-transition/) and [daily routine](../daily-routine/).

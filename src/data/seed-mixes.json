@@ -1,5 +1,103 @@
 [
   {
+    "id": "cockatiel-owner-note",
+    "species": "cockatiel",
+    "titleEn": "Your cockatiel seed-mix plan",
+    "titleBn": "আপনার ককাটেলের সিড মিক্সের পরিকল্পনা",
+    "source": "ownerseed",
+    "evidence": "ownerseed",
+    "completeDiet": false,
+    "nutritionValidated": false,
+    "kind": "owner-note",
+    "originalTotalGrams": 10700,
+    "ingredients": [
+      {
+        "id": "proso-millet",
+        "bn": "চিনা",
+        "en": "China (local millet name)",
+        "grams": 2000,
+        "needsIdentity": false
+      },
+      {
+        "id": "foxtail-millet",
+        "bn": "কাউন",
+        "en": "Kaun (local millet name)",
+        "grams": 1000,
+        "needsIdentity": false
+      },
+      {
+        "id": "paddy",
+        "bn": "বড় ধান",
+        "en": "Large paddy",
+        "grams": 2000,
+        "needsIdentity": false
+      },
+      {
+        "id": "safflower",
+        "bn": "কুসুম ফুলের বীজ",
+        "en": "Safflower seed",
+        "grams": 1000,
+        "needsIdentity": false
+      },
+      {
+        "id": "barley",
+        "bn": "যব",
+        "en": "Barley",
+        "grams": 500,
+        "needsIdentity": false
+      },
+      {
+        "id": "wheat",
+        "bn": "গম",
+        "en": "Wheat",
+        "grams": 500,
+        "needsIdentity": false
+      },
+      {
+        "id": "guji-tili",
+        "bn": "গুজিতিল",
+        "en": "Guji til",
+        "grams": 250,
+        "needsIdentity": true
+      },
+      {
+        "id": "flax",
+        "bn": "তিসি",
+        "en": "Flaxseed",
+        "grams": 250,
+        "needsIdentity": false
+      },
+      {
+        "id": "canary-seed",
+        "bn": "ক্যানারি সিড",
+        "en": "Canary seed",
+        "grams": 500,
+        "needsIdentity": false
+      },
+      {
+        "id": "millet-blend",
+        "bn": "মিলেট ৪ পদ",
+        "en": "Four-millet blend",
+        "grams": 500,
+        "needsIdentity": false
+      },
+      {
+        "id": "sunflower",
+        "bn": "ছোট সূর্যমুখী বীজ",
+        "en": "Small sunflower seed",
+        "grams": 2000,
+        "needsIdentity": false
+      },
+      {
+        "id": "hemp",
+        "bn": "হেম্পসিড",
+        "en": "Hemp seed",
+        "grams": 200,
+        "needsIdentity": false
+      }
+    ]
+  },
+  {
     "id": "budgie-5050",
     "species": "budgerigar",
     "titleEn": "Budgie seed portion: a 50/50 example",
@@ -12,14 +110,16 @@
         "id": "canary-seed",
         "en": "Canary seed",
         "bn": "ক্যানারি সিড",
-        "percent": 50
+        "grams": 500
       },
       {
         "id": "millet",
         "en": "Millet",
         "bn": "মিলেট",
-        "percent": 50
+        "grams": 500
       }
-    ]
+    ],
+    "kind": "manufacturer-example",
+    "originalTotalGrams": 1000
   }
 ]

@@ -15,14 +15,28 @@
 }
 ---
 
-## Match the species
+## Start with the species
 
-A parrot, finch and nectar-feeding lorikeet cannot be assigned one universal ration. Discuss a nutritionally balanced plan with an avian veterinarian. Seed selection alone does not ensure adequate nutrition. Supplements can also cause harm when used without a reason.
+Parrots, finches, quail, pigeons, mynas and lorikeets do not share one feeding pattern. Being able to eat seeds or grains does not make the same blend suitable for all. Nectar feeders cannot be maintained on an ordinary parrot seed list, and softbills have their own nutritional considerations.
 
-## Change gradually and observe
+Choose finch food for the species and condition. A single favourite grain, bread or parrot treat is not a complete pigeon or dove diet. Grit and mineral needs also differ between bird groups.
 
-Offer suitable new foods alongside familiar food and check actual consumption. A bowl of discarded husks can look full. Never starve a bird into accepting pellets. If intake falls or behavior changes, contact a veterinarian.
+## Favourite food and complete nutrition
 
-## Water, storage and spoilage
+A full stomach is not proof of adequate nutrition. A selective eater does not consume ingredients in the proportions offered. Adding more seed types or sprinkling guessed vitamins does not ensure nutritional completeness.
 
-Provide clean water and wash bowls daily and whenever soiled. Store food dry and protected from pests; discard moldy or spoiled food. Warm humid weather speeds spoilage, so inspect fresh food frequently. Keep food preparation equipment separate and wash hands.
+Consider appropriate formulated food, suitable fresh ingredients and the role of seeds or treats across the whole diet. Age, activity, condition and reproduction can require individual planning. Another keeper's spoon allowance is not a fixed rule for your bird.
+
+## Seeds, nuts and supplements
+
+Do not fill the diet with energy-dense seeds or nuts simply because they are preferred. Treats contribute to total intake too. Food offered, discarded husks and food actually eaten are different quantities.
+
+Discuss the whole diet and individual condition with a bird-experienced veterinarian before supplements. Unnecessary iron, iodine or calcium does not replace a balanced feeding plan.
+
+## Practical procedures in one place
+
+- [Cockatiel daily food and ingredient choices](../cockatiel-feeding/)
+- [Seed ratios, entered prices and stock planning](../seed-mix/)
+- [Introducing new food](../food-transition/)
+- [Daily water, bowl and care routines](../daily-routine/)
+- [Food and ingredient precautions](../../feeding/#food)

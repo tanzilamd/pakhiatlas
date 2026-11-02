@@ -11,7 +11,11 @@
     "aav",
     "vcadiet"
   ],
-  "contentStatus": "editorial-draft"
+  "contentStatus": "editorial-draft",
+  "relatedGuides": [
+    "illness-emergency",
+    "responsible-acquisition"
+  ]
 }
 ---
 
@@ -38,7 +42,3 @@ Combine a balanced cockatoo diet with suitable vegetables and foraging. Nuts or 
 ## Pairing and breeding welfare
 
 Body stroking, nest-like cavities and mate-like dependency can influence reproductive behaviour. Seek veterinary advice for laying or persistent behaviour problems.
-
-## Before bringing one home
-
-Choose an independently feeding bird with documented identity and responsible provenance. Keep new birds separate and discuss an initial examination with a veterinarian. Persistent fluffed posture, breathing difficulty or stopping eating need prompt assessment. Do not take an unweaned chick and start inexperienced hand-feeding.

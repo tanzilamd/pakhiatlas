@@ -21,6 +21,14 @@ References linked: VCA Cockatiels: Feeding; VCA Birds: General Nutrition; AAV ow
 
 The owner specifically requested ingredient quantities. A real secondary source registry in Crypto-Shroom/Bird-Feed-Calculator at bbef1a4eb7e9085c5816009b3e8b5faefaedfdf6 documents the manufacturer’s Prestige Budgies English Mixture50/50 as50% canary seed and50% millet. This record was retrieved and read on2026-11-02; its reported original URL is preserved. The manufacturer page itself was not directly retrieved.
 
-We publish only that bounded composition example and derived dry-batch arithmetic. No complete-nutrition, daily-ration, breeding-food or cross-species recommendation is inferred. In particular it is not a cockatiel formulation. Evidence and exact scope: evidence/seed-composition-5050.json; canonical data: src/data/seed-mixes.json; UI: SeedMixPlanner.astro. The previous prohibition on invented universal recipes remains in force; it does not prohibit an explicitly scoped, traceable composition example.
+That bounded composition example remains as a separate budgie-only option. No complete-nutrition, daily-ration, breeding-food or cross-species recommendation is inferred. In particular it is not a cockatiel formulation. Evidence and exact scope: evidence/seed-composition-5050.json; canonical data: src/data/seed-mixes.json; UI: SeedMixPlanner.astro. The previous prohibition on invented universal recipes remains in force; it does not prohibit an explicitly scoped, traceable composition example.
 
 New food-transition guidance covers actual intake, voluntary acceptance, gradual changes, body-condition observation and when assessment matters. New travel-care guidance provides caregiver notes, carrier preparation and veterinary transport without invasive care or emergency feeding instructions.
+
+## Owner cockatiel plan and exclusions — current revision
+
+The owner later supplied all12 weights again and explicitly chose sunflower/hemp **inside** the main mix, not a separate treat batch. Total10.7kg. This exact owner record is preserved in evidence/cockatiel-owner-note.json, distinguished from nutritional evidence. It is now the planner default. No complete-diet, daily-ration or cross-species approval was inferred.
+
+The corrected local label is গুজিতিল. The owner could not identify its botanical species; no Niger/other identity was guessed. Public guidance asks for identification before feeding. An ingredient can be omitted by unchecking it, including this one. Remaining relative proportions are renormalized mathematically; omissions do not establish nutritional adequacy. All-excluded plans have no result.
+
+Target-batch and limiting-stock modes use actual gram weights. Readers enter their own taka/kg prices and measured daily dry allocation; no current market prices, recommended dose or shelf-life is invented. Missing prices remain unknown rather than zero. See SEED_PLANNER.md and CONTENT_OWNERSHIP.md for calculations and canonical guide boundaries.

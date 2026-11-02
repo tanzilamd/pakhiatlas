@@ -11,7 +11,11 @@
     "aav",
     "vcadiet"
   ],
-  "contentStatus": "editorial-draft"
+  "contentStatus": "editorial-draft",
+  "relatedGuides": [
+    "illness-emergency",
+    "responsible-acquisition"
+  ]
 }
 ---
 
@@ -38,7 +42,3 @@ Choose appropriate feed and look beneath seed husks to check food availability. 
 ## Pairing and breeding welfare
 
 Behaviour can change around pairing and nesting. Hanging a nest in a crowded mixed cage is not a sound breeding plan.
-
-## Before bringing one home
-
-Choose an independently feeding bird with documented identity and responsible provenance. Keep new birds separate and discuss an initial examination with a veterinarian. Persistent fluffed posture, breathing difficulty or stopping eating need prompt assessment. Do not take an unweaned chick and start inexperienced hand-feeding.

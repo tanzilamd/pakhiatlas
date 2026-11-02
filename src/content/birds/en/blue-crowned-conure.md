@@ -12,7 +12,10 @@
     "merck",
     "trgcatalog"
   ],
-  "contentStatus": "editorial-draft"
+  "contentStatus": "editorial-draft",
+  "relatedGuides": [
+    "illness-emergency"
+  ]
 }
 ---
 

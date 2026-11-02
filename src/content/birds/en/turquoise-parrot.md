@@ -11,7 +11,11 @@
     "aav",
     "vcadiet"
   ],
-  "contentStatus": "editorial-draft"
+  "contentStatus": "editorial-draft",
+  "relatedGuides": [
+    "illness-emergency",
+    "responsible-acquisition"
+  ]
 }
 ---
 
@@ -38,7 +42,3 @@ Use a balanced plan appropriate for a small grass parrot. Verify actual consumpt
 ## Pairing and breeding welfare
 
 Breeding requires calm conditions and a compatible pair. In shared aviaries, watch chasing and exclusion from food rather than assuming all pairs coexist safely.
-
-## Before bringing one home
-
-Choose an independently feeding bird with documented identity and responsible provenance. Keep new birds separate and discuss an initial examination with a veterinarian. Persistent fluffed posture, breathing difficulty or stopping eating need prompt assessment. Do not take an unweaned chick and start inexperienced hand-feeding.

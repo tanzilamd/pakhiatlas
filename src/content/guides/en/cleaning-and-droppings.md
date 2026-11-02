@@ -18,9 +18,6 @@
 
 Before choosing a bird, decide where the enclosure will stand, where food will be prepared and how waste will be removed. Birds can soil favourite perches and exercise areas outside the cage. Protect washable surfaces without covering ventilation or creating a snagging hazard. A small bird still needs daily observation and cleaning.
 
-## What “watery” means
-
-Typical droppings include feces, urates and liquid urine. An increase in urine around formed feces is different from feces losing their form. Water-rich foods, drinking, stress and species can affect appearance. Look at repeated observations and the bird’s appetite and activity; do not identify disease from a colour alone.
 
 ## Different routines, different cleaning
 
@@ -33,3 +30,5 @@ Inspect wet litter, accumulated droppings, spoiled food and dirty water containe
 ## Make cleaning practical
 
 Use simple replaceable lining where appropriate and arrange perches so droppings miss food and water. Remove wet or spoiled material promptly. Avoid raising clouds of dry waste, wash hands and keep equipment separate from human food preparation. Record unusual changes or take a photograph for the veterinarian without delaying urgent care.
+
+See the dedicated guide to [droppings components and concerning changes](../droppings/).

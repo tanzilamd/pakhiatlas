@@ -1,0 +1,102 @@
+{
+  "origin": "Owner-supplied ingredient list in the current PakhiAtlas conversation",
+  "recordedAt": "2026-11-02",
+  "purpose": "Preserve the supplied recipe and calculate proportional shopping, inventory and cost. Not clinical validation.",
+  "intendedSpecies": "cockatiel",
+  "ownerClarification": "All ingredients belong in the main mix; the owner saw the name guji til on YouTube and does not know the seed identity.",
+  "totalGrams": 10700,
+  "ingredients": [
+    {
+      "id": "proso-millet",
+      "bn": "চিনা",
+      "en": "China (local millet name)",
+      "grams": 2000,
+      "needsIdentity": false
+    },
+    {
+      "id": "foxtail-millet",
+      "bn": "কাউন",
+      "en": "Kaun (local millet name)",
+      "grams": 1000,
+      "needsIdentity": false
+    },
+    {
+      "id": "paddy",
+      "bn": "বড় ধান",
+      "en": "Large paddy",
+      "grams": 2000,
+      "needsIdentity": false
+    },
+    {
+      "id": "safflower",
+      "bn": "কুসুম ফুলের বীজ",
+      "en": "Safflower seed",
+      "grams": 1000,
+      "needsIdentity": false
+    },
+    {
+      "id": "barley",
+      "bn": "যব",
+      "en": "Barley",
+      "grams": 500,
+      "needsIdentity": false
+    },
+    {
+      "id": "wheat",
+      "bn": "গম",
+      "en": "Wheat",
+      "grams": 500,
+      "needsIdentity": false
+    },
+    {
+      "id": "guji-tili",
+      "bn": "গুজিতিল",
+      "en": "Guji til",
+      "grams": 250,
+      "needsIdentity": true
+    },
+    {
+      "id": "flax",
+      "bn": "তিসি",
+      "en": "Flaxseed",
+      "grams": 250,
+      "needsIdentity": false
+    },
+    {
+      "id": "canary-seed",
+      "bn": "ক্যানারি সিড",
+      "en": "Canary seed",
+      "grams": 500,
+      "needsIdentity": false
+    },
+    {
+      "id": "millet-blend",
+      "bn": "মিলেট ৪ পদ",
+      "en": "Four-millet blend",
+      "grams": 500,
+      "needsIdentity": false
+    },
+    {
+      "id": "sunflower",
+      "bn": "ছোট সূর্যমুখী বীজ",
+      "en": "Small sunflower seed",
+      "grams": 2000,
+      "needsIdentity": false
+    },
+    {
+      "id": "hemp",
+      "bn": "হেম্পসিড",
+      "en": "Hemp seed",
+      "grams": 200,
+      "needsIdentity": false
+    }
+  ],
+  "limits": [
+    "Do not substitute an assumed botanical identity for guji til. Identify it before feeding.",
+    "No blanket cross-species suitability or complete-food claim.",
+    "Daily quantity is a user-entered measured allocation, never a recommended feeding dose.",
+    "Stock exhaustion is not a shelf-life estimate.",
+    "Prices are entered by the reader, not current Dhaka market quotations."
+  ],
+  "optionalOmissions": "Owner requested excluding any one or multiple ingredients. Recalculate from retained original weights while preserving their pairwise ratios. A changed subset is not a nutritionally validated recipe."
+}

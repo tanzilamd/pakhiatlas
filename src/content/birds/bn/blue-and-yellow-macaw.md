@@ -12,7 +12,10 @@
     "merck",
     "parrotphotos"
   ],
-  "contentStatus": "editorial-draft"
+  "contentStatus": "editorial-draft",
+  "relatedGuides": [
+    "illness-emergency"
+  ]
 }
 ---
 

@@ -12,7 +12,7 @@ for(const collection of ['birds','guides','wildlife']) {
     for(const file of files) {
       const text=await readFile(`src/content/${collection}/${language}/${file}`,'utf8');
       const meta=JSON.parse(text.split('---')[1]);
-      assert.equal(meta.language,language,file);
+      assert.equal(meta.language,language,file);for(const guide of meta.relatedGuides||[]){assert(/^[a-z0-9-]+$/.test(guide));await access(`src/content/guides/${language}/${guide}.md`)}
       assert.equal(meta.slug+'.md',file);
       assert(meta.summary.length>20);
       assert(meta.sources.length>0);
@@ -54,4 +54,6 @@ console.log(`Validated ${total} localized articles, canonical species and transl
 
 const prices=JSON.parse(await readFile('src/data/prices.json','utf8'));for(const p of prices){assert(birds.some(b=>b.slug===p.species));assert(references[p.source]);assert.equal(p.currency,'BDT');assert.equal(p.unit,'bird');assert.equal(p.dhakaConfirmed,false);for(const range of p.ranges){assert(range.min>0&&range.max>=range.min);assert(range.bn&&range.en)}}
 
-const seedMixes=JSON.parse(await readFile('src/data/seed-mixes.json','utf8'));for(const mix of seedMixes){assert(birds.some(b=>b.slug===mix.species));assert(references[mix.source]&&references[mix.evidence]);assert.equal(mix.completeDiet,false,'Seed examples must not claim complete nutrition');assert.equal(mix.ingredients.reduce((n,i)=>n+i.percent,0),100);assert.equal(new Set(mix.ingredients.map(i=>i.id)).size,mix.ingredients.length);for(const i of mix.ingredients)assert(i.percent>0&&i.bn&&i.en)}
+const seedMixes=JSON.parse(await readFile('src/data/seed-mixes.json','utf8'));for(const mix of seedMixes){assert(birds.some(b=>b.slug===mix.species));assert(references[mix.source]&&references[mix.evidence]);assert.equal(mix.completeDiet,false);assert.equal(mix.ingredients.reduce((n,i)=>n+i.grams,0),mix.originalTotalGrams);assert.equal(new Set(mix.ingredients.map(i=>i.id)).size,mix.ingredients.length);for(const i of mix.ingredients)assert(Number.isFinite(i.grams)&&i.grams>0&&i.bn&&i.en);if(mix.kind==='owner-note')assert.equal(mix.nutritionValidated,false);if(mix.id==='cockatiel-owner-note')assert(mix.ingredients.some(i=>i.id==='guji-tili'&&i.needsIdentity===true))}
+
+const {duplicateBlocks}=await import('./content-duplicates.mjs');const repeated=await duplicateBlocks();assert.equal(repeated.length,0,'Repeated long prose: '+repeated.map(d=>d.files.join(", " )).join("; "));

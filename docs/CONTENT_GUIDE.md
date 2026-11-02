@@ -43,8 +43,12 @@ The feeding hub automatically reads the paired guide collection. Its three featu
 
 `src/data/prices.json` stores published examples with currency, per-bird unit, period, scope and source ID. `PriceInfo.astro` renders the qualified profile example and practical budget links. Current data is an archived secondary Bangladesh budgie range, not a current Dhaka survey. Add new ranges only with dated actual local evidence; preserve locality, age, variety, asking-price status and per-bird/pair unit. Never convert foreign prices into Bangladesh quotes or price native wildlife.
 
-## Seed-batch example
+## Seed planning and content ownership
 
-Edit seed-mixes.json only with traceable composition evidence. Current example is a manufacturer’s budgie seed portion:50% canary seed/50% millet, not a complete diet or daily ration. SeedMixPlanner.astro renders initial1000g quantities without JS and scales four batch choices locally. Validation requires positive shares summing100, source/evidence IDs and completeDiet:false. Preserve species scope. See docs/evidence/seed-composition-5050.json; the manufacturer page was not fetched directly, so never label this clinical validation.
+Edit `src/data/seed-mixes.json` with traceable original gram weights, stable ingredient IDs, bilingual names and source/evidence IDs. The default owner note is12 ingredients totaling10,700g, including sunflower and hemp in the main mix. It is not a clinically validated formulation. Preserve the exact label গুজিতিল and its needsIdentity:true flag until reliable identification. The separate budgie50/50 example retains its narrower manufacturer-composition scope.
+
+See [seed planner](SEED_PLANNER.md) for target/stock modes, optional ingredient omissions, prices and measured-use calculations. Validation requires positive gram weights matching originalTotalGrams, existing species/source keys and completeDiet:false. Never silently replace an ingredient or extend a recipe to other species. The calculator reads data automatically; no route edits are needed. Test changes with `npm test` and `npm run test:seed` (preview running).
+
+See [content ownership](CONTENT_OWNERSHIP.md) before adding common care prose. Keep each procedure in one guide and use frontmatter `relatedGuides:["guide-slug"]` on profiles. Validation checks those guide IDs exist in the same language. `npm run validate:duplicates` reports repeated long paragraphs; content builds invoke it automatically. Keep species-specific context and safety cues; do not remove useful facts to satisfy a word count.
 
 Keep a stable id, paired localized names and useful visible-appearance text for every variety. Link only actually matching photos. Natural colour, domestic breed, sex, mutation and species are separate concepts. A product listing saying colour may vary does not support assigning the picture to its advertised mutation.
