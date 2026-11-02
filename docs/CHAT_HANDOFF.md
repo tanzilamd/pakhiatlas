@@ -1,3 +1,17 @@
+# Current owner task and result — 2026-11-02 UX revision
+
+Owner requested a better photo viewer/layout/body photos; Dhaka prices; removal of repetitive care badges and separate variety/native indexes; genuinely different comparison info; a better first-bird finder; additional species; better UX; priority for budgie/cockatiel/conure/lovebird; and correction/extension of their cockatiel food note.
+
+Current implementation: PhotoSwipe 5.4.4 local/lazy viewer; main photo + thumbnails + breathing room; 43 species (38 companion/5 native) together in one explorer with favourite groups; morphs only inside one canonical profile; legacy indexes redirect; no care-overview badge. 12 new bilingual species, 3 new bilingual guides: 128 articles total. 54 real photographs / 151 variants; 20 variety records. Species-linked traits replace generic comparison rows. Finder uses nine answers with reasons and readiness gates. Food checker has 28 entries. Budget calculator uses the reader’s own taka quotes.
+
+Do not report the price worksheet as current Dhaka prices. User said “tumi khojo. Dhaka r hisab e.” Primary Dhaka listings (Bikroy) were proxy-denied; repository sample prices, student expert-system output and foreign prices were rejected. PRICE_RESEARCH.md records exact evidence and remaining gap. No numeric market rate was invented.
+
+FEEDING_REVIEW.md records why routine grit, generic tablespoons, overnight-soaked legumes as cooked equivalents, neem/tulsi medicine and contradictory spinach rules were changed. No supplement/medicine doses or universal complete seed formula.
+
+See VALIDATION.md and the final delivery report for actual checks/deployment evidence. Preserve existing owner Git identity, no AI coauthor and no custom-domain changes. Older updates below are superseded where they conflict.
+
+---
+
 # Image completion update — 2026-11-02
 
 This update supersedes older photo counts and zero-photo notes below. Current owner request: real attractive photographs for EVERY published bird, LUTINO cockatiel cover, no source text on cards/photos, small captions below on profile pages, visual varieties. Completed: 38 distinct photos across all 31 species, 109 WebP variants, 17 variety groups. Five cockatiel photos include lutino, normal grey and pied; lutino is the cover. No fake species artwork or AI bird photos. Shared media selector, compact PhotoCredit, visual VarietyGuide, native dialog enlargement with no-JS link fallback. Mobile TOC collapses so photographs appear sooner.

@@ -5,7 +5,7 @@ assert(species&&input&&metadata,'Usage: npm run media:add -- species-slug local-
 const birds=JSON.parse(await readFile('src/data/birds.json','utf8'));const wildlife=JSON.parse(await readFile('src/data/wildlife.json','utf8'));assert([...birds,...wildlife].some(b=>b.slug===species),'Unknown canonical species slug');
 const meta=JSON.parse(await readFile(metadata,'utf8'));
 for(const key of ['creator','sourceUrl','license','licenseUrl','altBn','altEn'])assert(typeof meta[key]==='string'&&meta[key].trim(),`Required photo metadata: ${key}`);
-assert(['CC0-1.0','CC-BY-4.0','CC-BY-SA-4.0','CC-BY-3.0','CC-BY-SA-3.0','Public domain','GFDL-1.2-only','CC-BY-2.0','CC-BY-SA-2.0','CC-BY-2.5','Stock-source-collection','Pixabay Content License','Source credit'].includes(meta.license),'Review the license; unsupported license identifier');
+assert(['CC0-1.0','CC-BY-4.0','CC-BY-SA-4.0','CC-BY-3.0','CC-BY-SA-3.0','Public domain','GFDL-1.2-only','CC-BY-2.0','CC-BY-SA-2.0','CC-BY-2.5','CC-BY-SA-2.5','Stock-source-collection','Pixabay Content License','Source credit'].includes(meta.license),'Review the license; unsupported license identifier');
 for(const key of ['sourceUrl','licenseUrl'])assert(new URL(meta[key]).protocol==='https:',`${key} must use HTTPS`);
 assert(meta.speciesConfirmed===true,'Inspect species identity before importing');
 if(meta.license==='Source credit') assert(meta.sourceAttributionOnly===true&&meta.rightsStatus==='not-stated'&&meta.licenseConfirmed===false,'Source-only imports must record unconfirmed reuse terms honestly');

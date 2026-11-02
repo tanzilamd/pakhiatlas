@@ -1,0 +1,746 @@
+{
+  "labels": {
+    "body": {
+      "compact": [
+        "Compact parakeet with a long tail",
+        "ছোট গড়নের লম্বা লেজের প্যারাকিট"
+      ],
+      "crest": [
+        "Slender body, crest and a long tail",
+        "সরু গড়ন, মাথায় ঝুঁটি ও লম্বা লেজ"
+      ],
+      "stocky": [
+        "Stocky small parrot with a short tail",
+        "খাটো লেজের ছোট, ভরাট গড়নের প্যারট"
+      ],
+      "conure": [
+        "Medium tail and strong climbing beak",
+        "লম্বাটে লেজ ও বেয়ে ওঠার শক্ত ঠোঁট"
+      ],
+      "large": [
+        "Large parrot; a substantial enclosure is essential",
+        "বড় প্যারট; মজবুত বড় ঘের দরকার"
+      ],
+      "finch": [
+        "Small, light-bodied aviary bird",
+        "ছোট, হালকা গড়নের এভিয়ারির পাখি"
+      ],
+      "pigeon": [
+        "Ground-feeding dove or pigeon body form",
+        "মাটিতে খাবার খোঁজা ঘুঘু বা কবুতরের গড়ন"
+      ],
+      "ground": [
+        "Ground-dwelling bird; floor area matters",
+        "মাটিতে চলা পাখি; মেঝের জায়গাই গুরুত্বপূর্ণ"
+      ],
+      "budgerigar": [
+        "Small parakeet with a long tail; green/yellow and blue-series forms are familiar",
+        "লম্বা লেজের ছোট প্যারাকিট; সবুজ-হলুদ ও ব্লু সিরিজ পরিচিত"
+      ],
+      "green-cheeked-conure": [
+        "Typical green wings, pale eye-ring and a long red-toned tail; mutations vary",
+        "সাধারণ রঙে সবুজ ডানা, সাদা চোখের বলয় ও লম্বা লালচে লেজ; মিউটেশনে পার্থক্য হয়"
+      ],
+      "peach-faced-lovebird": [
+        "Typical peach-coloured face, green body and a short tail",
+        "সাধারণ রঙে পিচ রঙের মুখ, সবুজ শরীর ও ছোট লেজ"
+      ],
+      "fischers-lovebird": [
+        "Typical orange face, red beak and white eye-ring",
+        "সাধারণ রঙে কমলা মুখ, লাল ঠোঁট ও চোখের সাদা বলয়"
+      ],
+      "masked-lovebird": [
+        "Typical dark face, pale eye-ring and yellow neck area",
+        "সাধারণ রঙে গাঢ় মুখ, সাদা চোখের বলয় ও গলায় হলুদ অংশ"
+      ],
+      "african-grey": [
+        "Grey plumage, black beak and a bright red tail in typical birds",
+        "সাধারণ রঙে ধূসর পালক, কালো ঠোঁট ও উজ্জ্বল লাল লেজ"
+      ],
+      "timneh-grey": [
+        "Dark grey with a maroon tail and a lighter upper-beak area",
+        "গাঢ় ধূসর শরীর, মেরুন লেজ ও ওপরের ঠোঁটে হালকা অংশ"
+      ]
+    },
+    "sound": {
+      "chatter": [
+        "Frequent chatter and chirps",
+        "সারা দিনে কিচিরমিচির ও বকবক"
+      ],
+      "whistle": [
+        "Whistling and flock-contact calls",
+        "শিস ও সঙ্গীকে খোঁজার ডাক"
+      ],
+      "shrill": [
+        "Sharp, piercing contact calls",
+        "ছোট শরীরেও তীক্ষ্ণ, চড়া ডাক"
+      ],
+      "loud": [
+        "Loud calls can carry beyond the room",
+        "জোরে ডাক ঘরের বাইরেও শোনা যেতে পারে"
+      ],
+      "song": [
+        "Song and softer contact notes; individuals vary",
+        "গান ও যোগাযোগের ডাক; পাখিভেদে পার্থক্য"
+      ],
+      "soft": [
+        "Usually softer notes, but not silent",
+        "সাধারণত নরম ডাক; একেবারে নীরব নয়"
+      ],
+      "quail": [
+        "Ground-bird calls; males can call repeatedly",
+        "মাটির পাখির ডাক; পুরুষ বারবার ডাকতে পারে"
+      ]
+    },
+    "social": {
+      "flock": [
+        "Flock-minded; daily company and suitable companions matter",
+        "দলপ্রিয়; নিয়মিত সঙ্গ ও মানানসই পাখি দরকার"
+      ],
+      "bond": [
+        "Close social bonds; do not build a one-person-only routine",
+        "ঘনিষ্ঠ সঙ্গ চায়; শুধু একজন মানুষের ওপর নির্ভরতা গড়বেন না"
+      ],
+      "territorial": [
+        "Pair bonds can be strong; guard against cage and nest territoriality",
+        "জুটির বন্ধন শক্ত হতে পারে; খাঁচা ও বাসা নিয়ে এলাকা দখলের ঝুঁকি আছে"
+      ],
+      "observe": [
+        "Companionship with compatible birds; observation suits them better than handling",
+        "মানানসই পাখির সঙ্গ; হাতে ধরার চেয়ে পর্যবেক্ষণের জন্য ভালো"
+      ],
+      "alone-song": [
+        "Do not assume communal housing is suitable; watch aggression",
+        "সব পাখিকে একই খাঁচায় রাখবেন না; আগ্রাসন লক্ষ্য করুন"
+      ]
+    },
+    "housing": {
+      "flight": [
+        "Horizontal flight space plus safe daily movement",
+        "আড়াআড়ি উড়বার জায়গা ও নিরাপদ দৈনিক চলাফেরা"
+      ],
+      "climb": [
+        "Flight room, climbing routes and chewable enrichment",
+        "ওড়া, বেয়ে ওঠা ও চিবিয়ে ব্যস্ত থাকার ব্যবস্থা"
+      ],
+      "aviary": [
+        "Spacious flight aviary; not a small decorative cage",
+        "প্রশস্ত ফ্লাইট এভিয়ারি; ছোট শৌখিন খাঁচা নয়"
+      ],
+      "heavy": [
+        "Large, strong enclosure with robust latches and supervised exercise",
+        "বড় মজবুত ঘের, শক্ত লক ও নজরদারিতে ব্যায়াম"
+      ],
+      "floor": [
+        "Usable floor area, cover, dry substrate and a safe roof",
+        "চলার মেঝে, আড়াল, শুকনা বিছানা ও নিরাপদ ছাদ"
+      ]
+    },
+    "diet": {
+      "parrot": [
+        "Species-appropriate balanced food; seeds alone are incomplete",
+        "প্রজাতির উপযুক্ত সুষম খাবার; শুধু বীজ যথেষ্ট নয়"
+      ],
+      "grass": [
+        "Small-parakeet diet with varied plant foods; monitor actual intake",
+        "ছোট প্যারাকিটের উপযুক্ত খাবার ও উদ্ভিজ্জ বৈচিত্র্য; সত্যিই কী খাচ্ছে দেখুন"
+      ],
+      "finch": [
+        "Finch-appropriate balanced diet; not a parrot ration copied blindly",
+        "ফিঞ্চের উপযুক্ত সুষম খাবার; প্যারটের খাদ্যতালিকা হুবহু নয়"
+      ],
+      "nectar": [
+        "Specialist lorikeet food; ordinary parrot seed mix is unsuitable",
+        "বিশেষ লরিকিটের খাবার; সাধারণ প্যারটের সিড মিক্স উপযুক্ত নয়"
+      ],
+      "pigeon": [
+        "Dove/pigeon-appropriate feed and species-specific mineral planning",
+        "কবুতর বা ঘুঘুর খাবার ও প্রজাতিভিত্তিক খনিজ পরিকল্পনা"
+      ],
+      "quail": [
+        "Quail-appropriate complete feed; not only millet or rice",
+        "কোয়েলের উপযুক্ত সম্পূর্ণ খাবার; শুধু কাউন বা ধান নয়"
+      ]
+    },
+    "dust": {
+      "normal": [
+        "Feathers and food still create dust; routine cleaning is needed",
+        "পালক ও খাবার থেকেও ধুলো হয়; নিয়মিত পরিষ্কার দরকার"
+      ],
+      "powder": [
+        "Noticeable powder down; consider household sensitivity",
+        "পাউডারের মতো পালকের ধুলো বেশি; পরিবারের সংবেদনশীলতা ভাবুন"
+      ]
+    },
+    "cleanup": {
+      "husks": [
+        "Seed husks, small droppings and scattered vegetable pieces",
+        "বীজের খোসা, ছোট বিষ্ঠা ও ছড়ানো সবজি"
+      ],
+      "chew": [
+        "Shredded toys, food fragments and soiled perches",
+        "ছেঁড়া খেলনা, খাবারের টুকরা ও নোংরা বসার ডাল"
+      ],
+      "powder": [
+        "Feather powder, food waste and soiled favourite perches",
+        "পালকের গুঁড়া, খাবারের ময়লা ও প্রিয় ডালে বিষ্ঠা"
+      ],
+      "wet": [
+        "Wet nectar/fruit waste and wetter droppings need frequent removal",
+        "ভেজা নেক্টার-ফল ও বেশি তরল বিষ্ঠা ঘন ঘন সরাতে হয়"
+      ],
+      "litter": [
+        "Floor litter, feed spillage and wet patches need daily inspection",
+        "মেঝের বিছানা, ছড়ানো খাবার ও ভেজা অংশ প্রতিদিন দেখুন"
+      ]
+    },
+    "interaction": {
+      "train": [
+        "Short positive training and foraging sessions",
+        "ছোট ছোট পুরস্কারভিত্তিক শেখানো ও খাবার খোঁজার কাজ"
+      ],
+      "observe": [
+        "Watch and offer enrichment; avoid routine forced handling",
+        "দেখুন ও ব্যস্ত রাখুন; নিয়মিত জোর করে ধরবেন না"
+      ],
+      "intensive": [
+        "Complex enrichment, careful social routines and experienced handling",
+        "বৈচিত্র্যময় ব্যস্ততা, পরিকল্পিত সঙ্গ ও অভিজ্ঞ হাতে সামলানো"
+      ]
+    }
+  },
+  "species": {
+    "budgerigar": {
+      "body": "budgerigar",
+      "sound": "chatter",
+      "social": "flock",
+      "housing": "flight",
+      "diet": "grass",
+      "dust": "normal",
+      "cleanup": "husks",
+      "interaction": "train",
+      "watchOut": [
+        "Check that the seed bowl is not just empty husks; colour does not promise talking.",
+        "খাবারের পাত্রে শুধু খোসা জমে আছে কি না দেখুন; রং দেখে কথা বলার নিশ্চয়তা মেলে না।"
+      ]
+    },
+    "cockatiel": {
+      "body": "crest",
+      "sound": "whistle",
+      "social": "flock",
+      "housing": "flight",
+      "diet": "grass",
+      "dust": "powder",
+      "cleanup": "powder",
+      "interaction": "train",
+      "watchOut": [
+        "Crest posture gives clues, not certainty; a quiet home must still tolerate whistles and dust.",
+        "ঝুঁটির ভঙ্গি দেখে ধারণা মেলে, নিশ্চয়তা নয়; শান্ত ঘরেও শিস ও পালকের ধুলো সামলাতে হবে।"
+      ]
+    },
+    "peach-faced-lovebird": {
+      "body": "peach-faced-lovebird",
+      "sound": "shrill",
+      "social": "territorial",
+      "housing": "climb",
+      "diet": "parrot",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "train",
+      "watchOut": [
+        "Never place a new bird straight into an established bird’s cage.",
+        "পুরোনো পাখির খাঁচায় নতুন পাখি সরাসরি ঢুকিয়ে দেবেন না।"
+      ]
+    },
+    "fischers-lovebird": {
+      "body": "fischers-lovebird",
+      "sound": "shrill",
+      "social": "territorial",
+      "housing": "climb",
+      "diet": "parrot",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "train",
+      "watchOut": [
+        "Keep the species identity clear when pairing; an eye-ring is not enough to prove a pair.",
+        "জুটি করার আগে প্রজাতি মিলিয়ে নিন; চোখের বলয় দেখে জুটি নিশ্চিত হয় না।"
+      ]
+    },
+    "masked-lovebird": {
+      "body": "masked-lovebird",
+      "sound": "shrill",
+      "social": "territorial",
+      "housing": "climb",
+      "diet": "parrot",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "train",
+      "watchOut": [
+        "Dark face and eye-ring help identification; breeding changes territorial behaviour.",
+        "গাঢ় মুখ ও চোখের বলয় পরিচয়ে সাহায্য করে; প্রজননের সময় এলাকা রক্ষার আচরণ বাড়তে পারে।"
+      ]
+    },
+    "green-cheeked-conure": {
+      "body": "green-cheeked-conure",
+      "sound": "shrill",
+      "social": "bond",
+      "housing": "climb",
+      "diet": "parrot",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "train",
+      "watchOut": [
+        "A small conure can still bite hard; build independent play as well as contact.",
+        "ছোট কনিউরও জোরে কামড়াতে পারে; আদরের পাশাপাশি একা ব্যস্ত থাকার অভ্যাস গড়ুন।"
+      ]
+    },
+    "sun-conure": {
+      "body": "conure",
+      "sound": "loud",
+      "social": "bond",
+      "housing": "climb",
+      "diet": "parrot",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "intensive",
+      "watchOut": [
+        "Its bright colours do not make its calls suitable for every flat.",
+        "উজ্জ্বল রং ভালো লাগলেও এর জোরালো ডাক সব ফ্ল্যাটে মানাবে না।"
+      ]
+    },
+    "jenday-conure": {
+      "body": "conure",
+      "sound": "loud",
+      "social": "bond",
+      "housing": "climb",
+      "diet": "parrot",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "intensive",
+      "watchOut": [
+        "Green wings distinguish the usual adult appearance from a mostly yellow adult sun conure.",
+        "সাধারণ প্রাপ্তবয়স্ক জেনডের সবুজ ডানা, হলুদ-প্রধান সান কনিউর থেকে চিনতে সাহায্য করে।"
+      ]
+    },
+    "nanday-conure": {
+      "body": "conure",
+      "sound": "loud",
+      "social": "flock",
+      "housing": "aviary",
+      "diet": "parrot",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "intensive",
+      "watchOut": [
+        "Plan for strong flock calls and ample exercise, not a quiet desk companion.",
+        "জোরালো দলীয় ডাক ও পর্যাপ্ত ব্যায়ামের ব্যবস্থা রাখুন; নীরব টেবিলের সঙ্গী ভাববেন না।"
+      ]
+    },
+    "african-grey": {
+      "body": "african-grey",
+      "sound": "loud",
+      "social": "bond",
+      "housing": "heavy",
+      "diet": "parrot",
+      "dust": "powder",
+      "cleanup": "powder",
+      "interaction": "intensive",
+      "watchOut": [
+        "A talking reputation does not replace steady routines and cognitive enrichment.",
+        "কথা বলার খ্যাতি থাকলেই নিয়মিত রুটিন ও বুদ্ধির কাজের চাহিদা কমে না।"
+      ]
+    },
+    "zebra-finch": {
+      "body": "finch",
+      "sound": "soft",
+      "social": "observe",
+      "housing": "flight",
+      "diet": "finch",
+      "dust": "normal",
+      "cleanup": "husks",
+      "interaction": "observe",
+      "watchOut": [
+        "Choose it to observe flight and social life, rather than expecting step-up training.",
+        "ওড়া ও দলীয় জীবন দেখার জন্য বাছুন; হাতে ওঠানোর প্রত্যাশা চাপাবেন না।"
+      ]
+    },
+    "canary": {
+      "body": "finch",
+      "sound": "song",
+      "social": "alone-song",
+      "housing": "flight",
+      "diet": "finch",
+      "dust": "normal",
+      "cleanup": "husks",
+      "interaction": "observe",
+      "watchOut": [
+        "Song varies with sex, season and the individual; a seller cannot guarantee constant singing.",
+        "লিঙ্গ, মৌসুম ও পাখিভেদে গান বদলায়; সারাক্ষণ গান গাওয়ার নিশ্চয়তা নেই।"
+      ]
+    },
+    "society-finch": {
+      "body": "finch",
+      "sound": "soft",
+      "social": "observe",
+      "housing": "flight",
+      "diet": "finch",
+      "dust": "normal",
+      "cleanup": "husks",
+      "interaction": "observe",
+      "watchOut": [
+        "Domestic finch; fostering is not a reason to ignore chick welfare.",
+        "গৃহপালিত ফিঞ্চ; অন্যের ছানা পালতে পারে বলে ছানার কল্যাণ উপেক্ষা করবেন না।"
+      ]
+    },
+    "gouldian-finch": {
+      "body": "finch",
+      "sound": "soft",
+      "social": "observe",
+      "housing": "aviary",
+      "diet": "finch",
+      "dust": "normal",
+      "cleanup": "husks",
+      "interaction": "observe",
+      "watchOut": [
+        "Colourful head forms belong to one species; stability matters more than colour matching.",
+        "মাথার বিভিন্ন রং একই প্রজাতির; রং মেলানোর চেয়ে স্থির পরিবেশ জরুরি।"
+      ]
+    },
+    "java-sparrow": {
+      "body": "finch",
+      "sound": "song",
+      "social": "observe",
+      "housing": "aviary",
+      "diet": "finch",
+      "dust": "normal",
+      "cleanup": "husks",
+      "interaction": "observe",
+      "watchOut": [
+        "A stronger beak and confident feeding need monitoring in mixed aviaries.",
+        "তুলনামূলক শক্ত ঠোঁট ও খাবার দখলের আচরণ মিশ্র এভিয়ারিতে দেখুন।"
+      ]
+    },
+    "domestic-pigeon": {
+      "body": "pigeon",
+      "sound": "soft",
+      "social": "flock",
+      "housing": "aviary",
+      "diet": "pigeon",
+      "dust": "normal",
+      "cleanup": "litter",
+      "interaction": "observe",
+      "watchOut": [
+        "Breed shape affects flight and maintenance; check the actual individual.",
+        "জাতের গড়ন অনুযায়ী উড়বার ক্ষমতা ও পরিচর্যা বদলায়; পাখিটিকে নিজে দেখুন।"
+      ]
+    },
+    "diamond-dove": {
+      "body": "pigeon",
+      "sound": "soft",
+      "social": "observe",
+      "housing": "aviary",
+      "diet": "pigeon",
+      "dust": "normal",
+      "cleanup": "litter",
+      "interaction": "observe",
+      "watchOut": [
+        "Protect small doves from larger, assertive cage mates.",
+        "ছোট ঘুঘুকে বড় ও আগ্রাসী সঙ্গীর হাত থেকে নিরাপদ রাখুন।"
+      ]
+    },
+    "japanese-quail": {
+      "body": "ground",
+      "sound": "quail",
+      "social": "alone-song",
+      "housing": "floor",
+      "diet": "quail",
+      "dust": "normal",
+      "cleanup": "litter",
+      "interaction": "observe",
+      "watchOut": [
+        "Floor cover and safe headroom matter; avoid wire flooring and overcrowding.",
+        "মেঝের আড়াল ও নিরাপদ ছাদ জরুরি; তারের মেঝে ও অতিরিক্ত ভিড় এড়ান।"
+      ]
+    },
+    "senegal-parrot": {
+      "body": "stocky",
+      "sound": "shrill",
+      "social": "bond",
+      "housing": "climb",
+      "diet": "parrot",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "intensive",
+      "watchOut": [
+        "A compact body still comes with a powerful beak and strong preferences.",
+        "শরীর ছোট হলেও শক্ত ঠোঁট ও নিজের পছন্দ-অপছন্দ থাকে।"
+      ]
+    },
+    "pacific-parrotlet": {
+      "body": "stocky",
+      "sound": "shrill",
+      "social": "territorial",
+      "housing": "climb",
+      "diet": "parrot",
+      "dust": "normal",
+      "cleanup": "husks",
+      "interaction": "train",
+      "watchOut": [
+        "Tiny size does not make it safe to house with larger parrots.",
+        "আকার ছোট বলে বড় প্যারটের সঙ্গে রাখা নিরাপদ হয়ে যায় না।"
+      ]
+    },
+    "bourkes-parakeet": {
+      "body": "compact",
+      "sound": "soft",
+      "social": "observe",
+      "housing": "aviary",
+      "diet": "grass",
+      "dust": "normal",
+      "cleanup": "husks",
+      "interaction": "observe",
+      "watchOut": [
+        "Allow calm movement around dawn and dusk rather than insisting on handling.",
+        "ভোর ও সন্ধ্যার শান্ত চলাফেরার সুযোগ দিন; ধরাধরির জেদ করবেন না।"
+      ]
+    },
+    "lineolated-parakeet": {
+      "body": "compact",
+      "sound": "soft",
+      "social": "flock",
+      "housing": "climb",
+      "diet": "grass",
+      "dust": "normal",
+      "cleanup": "husks",
+      "interaction": "train",
+      "watchOut": [
+        "Climbing and camouflage can make a still bird easy to overlook.",
+        "বেয়ে চলা ও পালকের ছদ্মবেশের কারণে স্থির পাখিকে সহজে চোখ এড়িয়ে যেতে পারে।"
+      ]
+    },
+    "monk-parakeet": {
+      "body": "conure",
+      "sound": "loud",
+      "social": "territorial",
+      "housing": "climb",
+      "diet": "parrot",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "intensive",
+      "watchOut": [
+        "Respect enclosure territoriality and check location-specific restrictions.",
+        "খাঁচা নিয়ে এলাকা রক্ষার আচরণ বুঝুন; নিজের এলাকার বিধিনিষেধ জেনে নিন।"
+      ]
+    },
+    "timneh-grey": {
+      "body": "timneh-grey",
+      "sound": "loud",
+      "social": "bond",
+      "housing": "heavy",
+      "diet": "parrot",
+      "dust": "powder",
+      "cleanup": "powder",
+      "interaction": "intensive",
+      "watchOut": [
+        "Timneh is a separate species from Congo grey, not a colour mutation.",
+        "টিমনে কঙ্গো গ্রে থেকে আলাদা প্রজাতি; রঙের মিউটেশন নয়।"
+      ]
+    },
+    "rainbow-lorikeet": {
+      "body": "conure",
+      "sound": "loud",
+      "social": "flock",
+      "housing": "aviary",
+      "diet": "nectar",
+      "dust": "normal",
+      "cleanup": "wet",
+      "interaction": "intensive",
+      "watchOut": [
+        "Specialist feeding and wet cleanup are daily requirements, not occasional extras.",
+        "বিশেষ খাবার আর ভেজা ময়লা পরিষ্কার—দুটিই প্রতিদিনের কাজ।"
+      ]
+    },
+    "sulphur-crested-cockatoo": {
+      "body": "large",
+      "sound": "loud",
+      "social": "bond",
+      "housing": "heavy",
+      "diet": "parrot",
+      "dust": "powder",
+      "cleanup": "powder",
+      "interaction": "intensive",
+      "watchOut": [
+        "Destructive chewing, loud calls and powder down are major household commitments.",
+        "শক্ত চিবানো, জোরে ডাক ও পালকের ধুলো—ঘরের জন্য বড় দায়িত্ব।"
+      ]
+    },
+    "lilians-lovebird": {
+      "body": "stocky",
+      "sound": "shrill",
+      "social": "territorial",
+      "housing": "aviary",
+      "diet": "parrot",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "observe",
+      "watchOut": [
+        "Do not confuse this smaller lovebird with Fischer’s just because both have an eye-ring.",
+        "চোখের সাদা বলয় আছে বলে এই ছোট লাভবার্ডকে ফিশার্স ধরে নেবেন না।"
+      ]
+    },
+    "blue-fronted-amazon": {
+      "body": "large",
+      "sound": "loud",
+      "social": "bond",
+      "housing": "heavy",
+      "diet": "parrot",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "intensive",
+      "watchOut": [
+        "Face colour varies; judge identity and behaviour beyond the bright forehead.",
+        "মুখের রং বদলাতে পারে; কপালের রঙের বাইরেও পরিচয় ও আচরণ দেখুন।"
+      ]
+    },
+    "umbrella-cockatoo": {
+      "body": "large",
+      "sound": "loud",
+      "social": "bond",
+      "housing": "heavy",
+      "diet": "parrot",
+      "dust": "powder",
+      "cleanup": "powder",
+      "interaction": "intensive",
+      "watchOut": [
+        "Close bonding can become distress when the household cannot sustain constant contact.",
+        "ঘনিষ্ঠ সঙ্গের চাহিদা সামলাতে না পারলে বিচ্ছেদের চাপ তৈরি হতে পারে।"
+      ]
+    },
+    "red-crowned-kakariki": {
+      "body": "compact",
+      "sound": "chatter",
+      "social": "flock",
+      "housing": "aviary",
+      "diet": "grass",
+      "dust": "normal",
+      "cleanup": "husks",
+      "interaction": "observe",
+      "watchOut": [
+        "Active ground exploration needs floor hygiene and escape-proof doors.",
+        "সক্রিয়ভাবে মেঝে ঘোরা পাখিটির জন্য পরিষ্কার মেঝে ও নিরাপদ দরজা দরকার।"
+      ]
+    },
+    "galah": {
+      "body": "large",
+      "sound": "loud",
+      "social": "flock",
+      "housing": "heavy",
+      "diet": "parrot",
+      "dust": "powder",
+      "cleanup": "powder",
+      "interaction": "intensive",
+      "watchOut": [
+        "Floor foraging, flight and careful weight monitoring belong in its routine.",
+        "মাটিতে খাবার খোঁজা, ওড়া ও ওজন পর্যবেক্ষণ রুটিনে রাখুন।"
+      ]
+    },
+    "turquoise-parrot": {
+      "body": "compact",
+      "sound": "soft",
+      "social": "observe",
+      "housing": "aviary",
+      "diet": "grass",
+      "dust": "normal",
+      "cleanup": "husks",
+      "interaction": "observe",
+      "watchOut": [
+        "A calm aviary bird, not a guaranteed cuddly miniature parrot.",
+        "শান্ত এভিয়ারির পাখি; ছোট বলে আদুরে হাতে-পোষা হবেই, এমন নয়।"
+      ]
+    },
+    "scarlet-chested-parrot": {
+      "body": "compact",
+      "sound": "soft",
+      "social": "observe",
+      "housing": "aviary",
+      "diet": "grass",
+      "dust": "normal",
+      "cleanup": "husks",
+      "interaction": "observe",
+      "watchOut": [
+        "Bright red chest is a sex-linked appearance clue in typical adult plumage, not a universal test.",
+        "সাধারণ প্রাপ্তবয়স্কের লাল বুক লিঙ্গের ইঙ্গিত হতে পারে; সব পাখির চূড়ান্ত পরীক্ষা নয়।"
+      ]
+    },
+    "crimson-rosella": {
+      "body": "conure",
+      "sound": "loud",
+      "social": "territorial",
+      "housing": "aviary",
+      "diet": "grass",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "observe",
+      "watchOut": [
+        "Young birds can look greener than the familiar red adult.",
+        "ছোট পাখি পরিচিত লাল প্রাপ্তবয়স্কের চেয়ে অনেক বেশি সবুজ দেখাতে পারে।"
+      ]
+    },
+    "eastern-rosella": {
+      "body": "conure",
+      "sound": "loud",
+      "social": "territorial",
+      "housing": "aviary",
+      "diet": "grass",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "observe",
+      "watchOut": [
+        "White cheek patches distinguish its usual appearance from crimson rosella.",
+        "সাধারণ চেহারায় সাদা গাল ক্রিমসন রোজেলা থেকে চেনার সহায়ক।"
+      ]
+    },
+    "red-rumped-parrot": {
+      "body": "compact",
+      "sound": "chatter",
+      "social": "territorial",
+      "housing": "aviary",
+      "diet": "grass",
+      "dust": "normal",
+      "cleanup": "husks",
+      "interaction": "observe",
+      "watchOut": [
+        "Pair territoriality can make an otherwise quiet mixed aviary unsafe.",
+        "জুটি এলাকা রক্ষা শুরু করলে শান্ত মিশ্র এভিয়ারিতেও সমস্যা হতে পারে।"
+      ]
+    },
+    "king-quail": {
+      "body": "ground",
+      "sound": "quail",
+      "social": "observe",
+      "housing": "floor",
+      "diet": "quail",
+      "dust": "normal",
+      "cleanup": "litter",
+      "interaction": "observe",
+      "watchOut": [
+        "A quail on the aviary floor is not a substitute for cleaning.",
+        "এভিয়ারির মেঝেতে কোয়েল থাকলেই পরিষ্কারের কাজ সারা হয়ে যায় না।"
+      ]
+    },
+    "double-barred-finch": {
+      "body": "finch",
+      "sound": "soft",
+      "social": "observe",
+      "housing": "flight",
+      "diet": "finch",
+      "dust": "normal",
+      "cleanup": "husks",
+      "interaction": "observe",
+      "watchOut": [
+        "Its two dark chest bands aid identification; provide compatible small companions.",
+        "বুকের দুটি গাঢ় রেখা পরিচয়ের সহায়ক; মানানসই ছোট পাখির সঙ্গ দিন।"
+      ]
+    }
+  }
+}

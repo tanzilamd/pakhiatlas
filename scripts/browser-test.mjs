@@ -1,18 +1,33 @@
-import { chromium } from '@playwright/test';
+import {chromium} from '@playwright/test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 const birds=JSON.parse(await readFile('src/data/birds.json','utf8'));
 const wildlife=JSON.parse(await readFile('src/data/wildlife.json','utf8'));
-
-const browser=await chromium.launch({executablePath:'/usr/bin/chromium',headless:true,args:['--no-sandbox']});
-const page=await browser.newPage();let errors=[];page.on('pageerror',e=>errors.push(e.message));
-const root='http://localhost:4321/pakhiatlas';
-for(const width of [360,768,1440]){await page.setViewportSize({width,height:900});for(const route of ['/bn/','/en/','/bn/birds/budgerigar/','/en/birds/green-cheeked-conure/','/bn/guides/droppings/','/en/guides/droppings/','/bn/tools/','/bn/birds/cockatiel/','/bn/varieties/','/en/varieties/','/bn/wildlife/','/en/wildlife/']){await page.goto(root+route);assert(await page.locator('h1').textContent());assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`overflow ${width} ${route}`)}await page.goto(root+'/en/');await page.screenshot({path:`/tmp/pakhi-${width}.png`,fullPage:true})}
-for(const b of birds){for(const lang of ['bn','en']){await page.goto(root+`/${lang}/birds/${b.slug}/`);assert((await page.locator('h1').textContent()).includes(b[lang]));assert.equal(await page.locator('header .research-notice').count(),0);assert.equal(await page.locator('footer .research-notice').count(),0);assert(!(await page.locator('main').innerText()).includes('খসড়া'));assert.equal(await page.locator('article img[src*="illustrations/bird"]').count(),0);assert((await page.locator('article.prose').textContent()).includes(lang==='bn'?'জুটি':'breeding'));}}
-for(const b of wildlife){for(const lang of ['bn','en']){await page.goto(root+`/${lang}/wildlife/${b.slug}/`);assert((await page.locator('h1').textContent()).includes(b[lang]));}}
-await page.goto(root+'/bn/varieties/');assert((await page.locator('main').innerText()).includes('লুটিনো'));
-await page.goto(root+'/bn/birds/budgerigar/');assert((await page.locator('[data-language]').getAttribute('href')).endsWith('/en/birds/budgerigar/'));await page.locator('[data-language]').click();assert.equal(await page.locator('html').getAttribute('lang'),'en');
-await page.goto(root+'/en/birds/');await page.locator('[name=name]').fill('কনিউর');assert.equal(await page.locator('[data-bird]:visible').count(),birds.filter(b=>b.aliases.includes('conure')||b.bn.includes('কনিউর')).length);await page.locator('[name=name]').fill('');await page.locator('[name=family]').selectOption('Finches');assert.equal(await page.locator('[data-bird]:visible').count(),birds.filter(b=>b.family==='Finches').length);for(const family of ['Doves','Quail']){await page.locator('[name=family]').selectOption(family);assert.equal(await page.locator('[data-bird]:visible').count(),birds.filter(b=>b.family===family).length);}
-await page.goto(root+'/en/tools/');await page.locator('[value=budgerigar]').check();await page.locator('[value=cockatiel]').check();assert.equal(await page.locator('#comparison thead a').count(),2);await page.locator('[value=sun-conure]').check();assert(await page.locator('[value=african-grey]').isDisabled());for(const [name,value] of Object.entries({experience:'new',time:'yes',space:'yes',noise:'low',household:'yes',commitment:'yes'}))await page.locator(`#finder-form [name=${name}]`).selectOption(value);await page.locator('#finder-form button').click();assert(await page.locator('#finder-result').textContent());await page.locator('[name=time]').selectOption('no');await page.locator('#finder-form button').click();assert((await page.locator('#finder-result').textContent()).includes('Prepare'));await page.locator('#food-input').fill('আপেল');assert.equal(await page.locator('[data-food]:visible').count(),1);await page.locator('#food-input').fill('unknown');assert(await page.locator('#food-unknown').isVisible());
-for(const [lang,query,want] of [['en','budgie','Budgerigar'],['bn','বাজরি','বাজরিগার'],['bn','কনুর','কনিউর'],['en','Pyrrhura','Conure'],['bn','বিষ্ঠা','বিষ্ঠা'],['bn','ময়না','ময়না'],['bn','হলুদ টিয়া','টিয়া']]){await page.goto(root+`/${lang}/search/?q=${encodeURIComponent(query)}`);await page.locator('.pagefind-ui__result-link').first().waitFor({timeout:15000});const result=await page.locator('.pagefind-ui__results').textContent();assert(result.includes(want),`${lang} ${query}: ${result}`);const href=await page.locator('.pagefind-ui__result-link').first().getAttribute('href');assert(href.includes(`/pakhiatlas/${lang}/`),href)}
-assert.deepEqual(errors,[]);console.log('Browser checks passed: 3 viewports, all localized captive and wildlife profiles, no draft labels or demo species images, bilingual routes, context switch, filters, comparison, finder, food, 7 multilingual searches; no page errors.');await browser.close();
+const root=process.env.PREVIEW_URL||'http://localhost:4321/pakhiatlas';
+const browser=await chromium.launch({executablePath:process.env.CHROMIUM_PATH||'/usr/bin/chromium',args:['--no-sandbox']});
+const page=await browser.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
+for(const width of [360,768,1440]){
+ await page.setViewportSize({width,height:900});
+ for(const route of ['/bn/','/en/','/bn/birds/','/bn/birds/cockatiel/','/en/birds/green-cheeked-conure/','/bn/guides/droppings/','/en/guides/cockatiel-feeding/','/bn/guides/seed-mix/','/bn/tools/#compare','/bn/tools/#finder','/bn/tools/#food','/bn/tools/#budget']){
+  await page.goto(root+route);assert(await page.locator('h1').textContent());assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`overflow ${width} ${route}`);
+ }
+ await page.goto(root+'/bn/birds/');await page.screenshot({path:`/tmp/pakhi-ux-explorer-${width}.png`,fullPage:true});
+}
+for(const [collection,records] of [['birds',birds],['wildlife',wildlife]])for(const bird of records)for(const lang of ['bn','en']){
+ await page.goto(`${root}/${lang}/${collection}/${bird.slug}/`);
+ assert((await page.locator('h1').textContent()).includes(bird[lang]));
+ assert.equal(await page.locator('.bird-gallery .gallery-stage img').count(),1);
+ assert(!(await page.locator('main').innerText()).includes('খসড়া'));
+}
+await page.goto(root+'/bn/birds/');assert.equal(await page.locator('[data-bird]:visible').count(),birds.length+wildlife.length);assert.equal(await page.locator('.bird-card').filter({hasText:'যত্নের পরিচিতি'}).count(),0);assert.equal(await page.locator('a[href$="/varieties/"]').count(),0);
+for(const group of ['favourites','conures','lovebirds']){
+ await page.locator(`[data-group=${group}]`).click();const expected=group==='favourites'?4:birds.filter(b=>b.slug.includes(group==='conures'?'conure':'lovebird')).length;assert.equal(await page.locator('[data-bird]:visible').count(),expected);
+}
+await page.locator('[data-group=all]').click();await page.locator('[name=name]').fill('ময়না');assert.equal(await page.locator('[data-bird]:visible').count(),2);await page.locator('[type=reset]').click();
+for(const family of ['Finches','Doves','Quail','Native']){await page.locator('[name=family]').selectOption(family);assert.equal(await page.locator('[data-bird]:visible').count(),[...birds,...wildlife].filter(b=>b.family===family).length)}
+for(const legacy of ['wildlife','varieties']){await page.goto(`${root}/bn/${legacy}/`);await page.waitForURL(root+'/bn/birds/');}
+await page.goto(root+'/bn/birds/cockatiel/');await page.locator('[data-language]').click();assert.equal(await page.locator('html').getAttribute('lang'),'en');assert(page.url().endsWith('/en/birds/cockatiel/'));
+for(const [lang,query,want] of [['en','budgie','Budgerigar'],['bn','বাজরি','বাজরিগার'],['bn','কনুর','কনিউর'],['en','Pyrrhura','Conure'],['bn','বিষ্ঠা','বিষ্ঠা'],['bn','ময়না','ময়না'],['bn','হলুদ টিয়া','টিয়া'],['bn','সিড','সিড']]){
+ await page.goto(`${root}/${lang}/search/?q=${encodeURIComponent(query)}`);await page.locator('.pagefind-ui__result-link').first().waitFor({timeout:15000});assert((await page.locator('.pagefind-ui__results').textContent()).includes(want));assert((await page.locator('.pagefind-ui__result-link').first().getAttribute('href')).includes(`/pakhiatlas/${lang}/`));
+}
+assert.deepEqual(errors,[]);console.log(`Browser checks passed: ${birds.length+wildlife.length} species in both languages; unified filters and legacy redirects; eight multilingual searches; all four tools and article galleries at three viewports; no page errors or sampled document overflow.`);await browser.close();

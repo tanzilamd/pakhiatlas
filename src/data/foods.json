@@ -151,5 +151,104 @@
     "noteEn": "Keep alcoholic drinks away. Suspected ingestion needs prompt veterinary advice; do not attempt an improvised home antidote.",
     "noteBn": "অ্যালকোহলযুক্ত পানীয় দূরে রাখুন। খেয়ে ফেলেছে সন্দেহ হলে দ্রুত চিকিৎসকের পরামর্শ নিন; ঘরে আন্দাজের প্রতিষেধক দেওয়ার চেষ্টা করবেন না।",
     "source": "vcadiet"
+  },
+  {
+    "en": "Spinach",
+    "bn": "পালং শাক",
+    "aliases": "spinach পালং পালং শাক",
+    "category": "conditional",
+    "noteEn": "Washed spinach can be one occasional leafy option, not the only green or a calcium supplement. Rotate with other suitable vegetables.",
+    "noteBn": "ধোয়া পালং অল্প করে অন্য উপযুক্ত শাকসবজির সঙ্গে ঘুরিয়ে দেওয়া যায়। এটিই একমাত্র শাক বা ক্যালসিয়ামের উৎস ধরে নেবেন না।",
+    "source": "vcacockatiel"
+  },
+  {
+    "en": "Coriander leaves",
+    "bn": "ধনেপাতা",
+    "aliases": "coriander cilantro ধনে ধনেপাতা",
+    "category": "appropriate",
+    "noteEn": "Small amounts of clean, pesticide-free coriander can add variety to an appropriate parrot diet.",
+    "noteBn": "পরিষ্কার, কীটনাশকমুক্ত ধনেপাতা অল্প করে উপযুক্ত প্যারটের খাবারে বৈচিত্র্য আনতে পারে।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Pumpkin",
+    "bn": "মিষ্টিকুমড়া",
+    "aliases": "pumpkin squash মিষ্টিকুমড়া মিষ্টিকুমড়া কুমড়া",
+    "category": "appropriate",
+    "noteEn": "Offer washed plain pieces or plain cooked pumpkin suitable for the bird’s size; no salt, sugar or spices.",
+    "noteBn": "পাখির আকারমতো ধোয়া ছোট টুকরা বা সাদাভাবে রান্না করা মিষ্টিকুমড়া দিন; লবণ, চিনি বা মসলা নয়।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Papaya",
+    "bn": "পাকা পেঁপে",
+    "aliases": "papaya পেঁপে পেপে",
+    "category": "conditional",
+    "noteEn": "Ripe flesh in a small portion can be an occasional fruit. Fruit does not replace balanced staple food.",
+    "noteBn": "পাকা পেঁপের শাঁস অল্প পরিমাণে মাঝে মাঝে দেওয়া যায়। ফল দিয়ে মূল সুষম খাবারের জায়গা পূরণ হয় না।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Banana",
+    "bn": "কলা",
+    "aliases": "banana কলা",
+    "category": "conditional",
+    "noteEn": "A small plain piece can be a fruit treat; remove uneaten soft food before it spoils.",
+    "noteBn": "কলা ছোট টুকরা করে ট্রিট হিসেবে দিতে পারেন। নরম খাবার নষ্ট হওয়ার আগেই তুলে ফেলুন।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Watermelon",
+    "bn": "তরমুজ",
+    "aliases": "watermelon তরমুজ",
+    "category": "conditional",
+    "noteEn": "Offer a small piece of clean flesh. More liquid in droppings can follow watery fruit; illness cannot be diagnosed by this change alone.",
+    "noteBn": "ধোয়া শাঁস ছোট টুকরা করে দিন। পানিযুক্ত ফল খেলে বিষ্ঠায় তরল বাড়তে পারে; শুধু সেটি দেখে রোগ নির্ণয় করা যায় না।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Cooked chickpeas and mung beans",
+    "bn": "সিদ্ধ ছোলা ও মুগ",
+    "aliases": "chickpea mung beans ছোলা মুগ ডাল",
+    "category": "conditional",
+    "noteEn": "Use thoroughly cooked, plain legumes as one part of a varied appropriate diet. Overnight soaking alone does not make them equivalent to cooked food.",
+    "noteBn": "ভালোভাবে সিদ্ধ, লবণ-মসলাবিহীন ডাল অল্প করে বৈচিত্র্যের অংশ হতে পারে। শুধু সারা রাত ভিজিয়ে রাখলেই সেটি সিদ্ধ খাবারের সমান হয় না।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Soaked or sprouted seeds",
+    "bn": "ভেজানো বা অঙ্কুরিত বীজ",
+    "aliases": "sprout soaked seeds sprouted ভেজানো অঙ্কুরিত",
+    "category": "conditional",
+    "noteEn": "Moisture and warmth encourage microbial growth. Strict food hygiene is needed; discard sour, slimy or moldy batches. Do not feed leftovers left soaking in heat.",
+    "noteBn": "গরম ও আর্দ্রতায় জীবাণু বাড়ে। কঠোর খাদ্য-পরিচ্ছন্নতা দরকার; টক গন্ধ, পিচ্ছিল ভাব বা ছত্রাক হলে পুরো ব্যাচ ফেলুন। গরমে পড়ে থাকা ভেজানো খাবার দেবেন না।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Neem or tulsi as medicine",
+    "bn": "ওষুধ হিসেবে নিম বা তুলসী",
+    "aliases": "neem tulsi basil natural medicine নিম তুলসী ওষুধ",
+    "category": "evidence",
+    "noteEn": "No routine medicinal schedule is recommended here. Plant identity, preparation and species matter; herbal products do not replace veterinary care.",
+    "noteBn": "মাসে নির্দিষ্ট দিন “প্রাকৃতিক ওষুধ” হিসেবে খাওয়ানোর রুটিন রাখবেন না। গাছের পরিচয়, প্রস্তুতি ও প্রজাতি গুরুত্বপূর্ণ; অসুস্থতায় ভেষজ দিয়ে চিকিৎসা পিছিয়ে দেবেন না।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Grit for parrots",
+    "bn": "প্যারটের জন্য গ্রিট",
+    "aliases": "grit bird grit গ্রিট হজম বালি",
+    "category": "avoid",
+    "noteEn": "Budgies, cockatiels, lovebirds and conures generally do not need insoluble grit to digest hulled seeds. Do not copy pigeon practice; excess grit can cause problems.",
+    "noteBn": "বাজরিগার, ককাটেল, লাভবার্ড ও কনিউর সাধারণত বীজের খোসা ছাড়িয়ে খায়; হজমের জন্য অদ্রবণীয় গ্রিট দরকার হয় না। কবুতরের অভ্যাস নকল করবেন না; বেশি গ্রিট সমস্যা করতে পারে।",
+    "source": "vcacockatiel"
+  },
+  {
+    "en": "Sunflower and safflower seeds",
+    "bn": "সূর্যমুখী ও কুসুম বীজ",
+    "aliases": "sunflower safflower কুসুম সূর্যমুখী",
+    "category": "conditional",
+    "noteEn": "These are energy-dense seeds, useful as limited rewards within a balanced plan rather than the main daily food.",
+    "noteBn": "এগুলো বেশি শক্তিসমৃদ্ধ বীজ। মূল খাবার বানানোর বদলে সুষম খাদ্যপরিকল্পনার মধ্যে সীমিত পুরস্কার হিসেবে রাখুন।",
+    "source": "vcacockatiel"
   }
 ]

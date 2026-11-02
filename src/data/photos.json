@@ -1490,5 +1490,581 @@
     "attributionEvidenceChecked": true,
     "rightsStatus": "collection-credits-only",
     "licenseEvidenceScope": "collective-readme-not-per-file"
+  },
+  {
+    "id": "f467f68909c3",
+    "species": "lilians-lovebird",
+    "src": "/images/lilians-lovebird-f467f68909c3-1200.webp",
+    "width": 1200,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/images/lilians-lovebird-f467f68909c3-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/lilians-lovebird-f467f68909c3-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/lilians-lovebird-f467f68909c3-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "Lip Kee",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lilian%27s_Lovebird_(Agapornis_lilianae)_(23710441211).jpg",
+    "license": "CC-BY-SA-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "altEn": "Lilian’s / Nyasa Lovebird — A small green lovebird with a pale eye-ring and orange-red face. It is not another name for a peach-faced or Fischer’s lovebird.",
+    "altBn": "লিলিয়ানস বা নিয়াসা লাভবার্ড — সাদা চোখের বলয়, কমলা-লাল মুখ ও সবুজ শরীরের ছোট লাভবার্ড। পিচ-ফেসড বা ফিশার্সের আরেক নাম নয়।",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/agapornis-lilianae.webp",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "883838e26451",
+    "species": "blue-fronted-amazon",
+    "src": "/images/blue-fronted-amazon-883838e26451-1200.webp",
+    "width": 1200,
+    "height": 1877,
+    "srcset": [
+      {
+        "src": "/images/blue-fronted-amazon-883838e26451-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/blue-fronted-amazon-883838e26451-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/blue-fronted-amazon-883838e26451-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "H. Zell",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amazona_aestiva_-_Maroparque_01.jpg",
+    "license": "CC-BY-SA-3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "altEn": "Blue-fronted Amazon — A substantial green Amazon parrot, often with yellow facial areas and blue on the forehead. The amount of face colour varies.",
+    "altBn": "ব্লু-ফ্রন্টেড অ্যামাজন — সবুজ শরীর, মুখে হলুদ এবং কপালে নীলের ছোঁয়ায় পরিচিত বড় অ্যামাজন প্যারট। মুখের রঙের পরিমাণ পাখিভেদে বদলায়।",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/amazona-aestiva.webp",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "9472ba118b23",
+    "species": "umbrella-cockatoo",
+    "src": "/images/umbrella-cockatoo-9472ba118b23-1200.webp",
+    "width": 1200,
+    "height": 900,
+    "srcset": [
+      {
+        "src": "/images/umbrella-cockatoo-9472ba118b23-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/umbrella-cockatoo-9472ba118b23-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/umbrella-cockatoo-9472ba118b23-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "Kevin T",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cacatua_alba_-Coconuts_Bar_-Cozumel_-Mexico-8a.jpg",
+    "license": "CC-BY-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "altEn": "Umbrella Cockatoo — A large white cockatoo with a broad white crest that opens like an umbrella. It differs from the yellow-crested sulphur-crested cockatoo.",
+    "altBn": "আমব্রেলা কাকাতুয়া — সাদা শরীর ও ছড়ালে ছাতার মতো দেখানো সাদা ঝুঁটির বড় কাকাতুয়া। সালফার-ক্রেস্টেডের হলুদ ঝুঁটির সঙ্গে এটি মেলে না।",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/cacatua-alba.webp",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "2c734fc0798a",
+    "species": "red-crowned-kakariki",
+    "src": "/images/red-crowned-kakariki-2c734fc0798a-1200.webp",
+    "width": 1200,
+    "height": 864,
+    "srcset": [
+      {
+        "src": "/images/red-crowned-kakariki-2c734fc0798a-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/red-crowned-kakariki-2c734fc0798a-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/red-crowned-kakariki-2c734fc0798a-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "Bernard Spragg. NZ",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kakariki,_the_red-crowned_parakeet.(Cyanoramphus_novaezelandiae)_(9118899767).jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "altEn": "Red-crowned Kakariki — An active green parakeet with a red crown. Yellow-crowned kakariki are a different species, not just another colour label.",
+    "altBn": "লাল কপালের কাকারিকি — সবুজ শরীর ও লাল কপালের সক্রিয় প্যারাকিট। হলুদ কপালের কাকারিকি আলাদা প্রজাতি; নাম দুটি গুলিয়ে ফেলবেন না।",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/cyanoramphus-novaezelandiae.webp",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "25993d9cc22d",
+    "species": "galah",
+    "src": "/images/galah-25993d9cc22d-1200.webp",
+    "width": 1200,
+    "height": 900,
+    "srcset": [
+      {
+        "src": "/images/galah-25993d9cc22d-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/galah-25993d9cc22d-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/galah-25993d9cc22d-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "Tatiana Gerus",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eolophus_roseicapilla_-_a_pair_of_Galahs_-Australia.jpg",
+    "license": "CC-BY-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "altEn": "Galah — An Australian cockatoo with a pink face and breast, grey wings and a pale crest. It is not a pink colour mutation of the cockatiel.",
+    "altBn": "গালাহ — গোলাপি বুক-মুখ, ধূসর ডানা ও হালকা ঝুঁটির অস্ট্রেলীয় কাকাতুয়া। শুধু “পিঙ্ক ককাটেল” বলা ভুল—এটি আলাদা বড় প্রজাতি।",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/eolophus-roseicapilla.webp",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "7906023cc8ed",
+    "species": "turquoise-parrot",
+    "src": "/images/turquoise-parrot-7906023cc8ed-672.webp",
+    "width": 672,
+    "height": 896,
+    "srcset": [
+      {
+        "src": "/images/turquoise-parrot-7906023cc8ed-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/turquoise-parrot-7906023cc8ed-672.webp",
+        "width": 672
+      }
+    ],
+    "creator": "stephen jones",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neophema_pulchella_-Twycross_Zoo,_Leicestershire,_England-8a.jpg",
+    "license": "CC-BY-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "altEn": "Turquoise Parrot — A small Australian grass parrot with a blue-toned face, green back and yellowish underparts. It is not the turquoise colour mutation of a green-cheeked conure.",
+    "altBn": "টারকোয়েজ প্যারট — নীলচে মুখ, সবুজ পিঠ ও হলুদাভ নিচের অংশের ছোট অস্ট্রেলীয় ঘাস-প্যারাকিট। গ্রিন-চিকড কনিউরের টারকোয়েজ মিউটেশনের সঙ্গে নামটি মেলাবেন না।",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/neophema-pulchella.webp",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "963ea3e261bf",
+    "species": "scarlet-chested-parrot",
+    "src": "/images/scarlet-chested-parrot-963ea3e261bf-1170.webp",
+    "width": 1170,
+    "height": 975,
+    "srcset": [
+      {
+        "src": "/images/scarlet-chested-parrot-963ea3e261bf-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/scarlet-chested-parrot-963ea3e261bf-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/scarlet-chested-parrot-963ea3e261bf-1170.webp",
+        "width": 1170
+      }
+    ],
+    "creator": "Ltshears",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scarlet_Chested_Parakeet.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "altEn": "Scarlet-chested Parrot — Typical adult males show a blue face, scarlet chest and yellow belly. Females and young birds do not share exactly the same appearance.",
+    "altBn": "স্কারলেট-চেস্টেড প্যারট — প্রাপ্তবয়স্ক পুরুষের নীল মুখ, লাল বুক ও হলুদ পেট নজর কাড়ে। স্ত্রী ও কমবয়সের পাখি একই চেহারার হয় না।",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/neophema-splendida.webp",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "954253e3ec42",
+    "species": "crimson-rosella",
+    "src": "/images/crimson-rosella-954253e3ec42-1200.webp",
+    "width": 1200,
+    "height": 1792,
+    "srcset": [
+      {
+        "src": "/images/crimson-rosella-954253e3ec42-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/crimson-rosella-954253e3ec42-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/crimson-rosella-954253e3ec42-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "John Poulakis",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Platycercus_elegans_-Blue_Mountains_-side-8a.jpg",
+    "license": "CC-BY-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "altEn": "Crimson Rosella — Typical adults show deep red plumage, blue cheek and wing areas and dark back patterning. Young birds can be much greener.",
+    "altBn": "ক্রিমসন রোজেলা — সাধারণ প্রাপ্তবয়স্কের গাঢ় লাল শরীর, নীল গাল-ডানা ও পিঠের গাঢ় নকশা পরিচিত। ছোট পাখি তুলনামূলক সবুজ দেখাতে পারে।",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/platycercus-elegans.webp",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "b0fb5024a29c",
+    "species": "eastern-rosella",
+    "src": "/images/eastern-rosella-b0fb5024a29c-530.webp",
+    "width": 530,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/eastern-rosella-b0fb5024a29c-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/eastern-rosella-b0fb5024a29c-530.webp",
+        "width": 530
+      }
+    ],
+    "creator": "Murdock Grewar",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Female_Eastern_Rosella_(Platycercus_eximius).jpg",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "altEn": "Eastern Rosella — A rosella with a red head, white cheek patches, yellow breast and green-blue areas. Several bright colours occur in the normal plumage.",
+    "altBn": "ইস্টার্ন রোজেলা — লাল মাথা, সাদা গাল, হলুদ বুক এবং সবুজ-নীল অংশের রোজেলা। সাধারণ রঙেই একাধিক উজ্জ্বল রং থাকে; এটি আলাদা মিউটেশনের তালিকা নয়।",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/platycercus-eximius-eximius.webp",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "d2ffd492dc12",
+    "species": "red-rumped-parrot",
+    "src": "/images/red-rumped-parrot-d2ffd492dc12-1200.webp",
+    "width": 1200,
+    "height": 685,
+    "srcset": [
+      {
+        "src": "/images/red-rumped-parrot-d2ffd492dc12-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/red-rumped-parrot-d2ffd492dc12-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/red-rumped-parrot-d2ffd492dc12-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "Toby Hudson",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Rumped_Parrot_Males.jpg",
+    "license": "CC-BY-SA-3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "altEn": "Red-rumped Parrot — Typical males are green with yellowish lower areas and a red rump. Females are usually duller green; mutations can alter the picture.",
+    "altBn": "রেড-রাম্পড প্যারট — সাধারণ পুরুষ সবুজ, নিচের দিকে হলুদের ছোঁয়া এবং লেজের গোড়ায় লাল অংশ থাকে। স্ত্রী সাধারণত বেশি ম্লান সবুজ; মিউটেশনে চেহারা বদলে যায়।",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/psephotus-haematonotus-haematonotus.webp",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "550f720c8747",
+    "species": "king-quail",
+    "src": "/images/king-quail-550f720c8747-1200.webp",
+    "width": 1200,
+    "height": 900,
+    "srcset": [
+      {
+        "src": "/images/king-quail-550f720c8747-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/king-quail-550f720c8747-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/king-quail-550f720c8747-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "DickDaniels",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chinese_Painted_Quail_RWD12a.jpg",
+    "license": "CC-BY-SA-3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "altEn": "A pale-coloured king quail on the ground; typical plumage colours vary.",
+    "altBn": "মাটিতে হালকা পালকের কিং কোয়েল; সাধারণ রঙের পাখির চেহারা আলাদা হতে পারে।",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/coturnix-chinensis.webp",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "6f7752ded53a",
+    "species": "double-barred-finch",
+    "src": "/images/double-barred-finch-6f7752ded53a-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/double-barred-finch-6f7752ded53a-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/double-barred-finch-6f7752ded53a-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/double-barred-finch-6f7752ded53a-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "JJ Harrison",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taeniopygia_bichenovii_2_-_Glen_Davis.jpg",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "altEn": "Double-barred / Owl Finch — A small finch with a pale face framed by dark markings, two dark chest bands and fine pale wing spots.",
+    "altBn": "ডাবল-বারড বা আউল ফিঞ্চ — সাদা মুখ ঘেরা গাঢ় রেখা এবং বুকের দুটি কালো দাগ এর পরিচিত বৈশিষ্ট্য। ডানায় সূক্ষ্ম সাদা ফোঁটাও দেখা যায়।",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/taeniopygia-bichenovii.webp",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "b58dbd8e8c3c",
+    "species": "green-cheeked-conure",
+    "src": "/images/green-cheeked-conure-b58dbd8e8c3c-800.webp",
+    "width": 800,
+    "height": 462,
+    "srcset": [
+      {
+        "src": "/images/green-cheeked-conure-b58dbd8e8c3c-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/green-cheeked-conure-b58dbd8e8c3c-800.webp",
+        "width": 800
+      }
+    ],
+    "creator": "E dog95 at English Wikipedia",
+    "sourceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/img/cinnamon-green-cheek-conure.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "altEn": "Cinnamon green-cheeked conure showing most of its body, light beak, wing pattern and red tail.",
+    "altBn": "সিনামন গ্রিন-চিকড কনিউরের শরীর, হালকা ঠোঁট, ডানার নকশা ও লাল লেজ।",
+    "captionEn": "Cinnamon green-cheeked conure showing most of its body, light beak, wing pattern and red tail.",
+    "captionBn": "সিনামন গ্রিন-চিকড কনিউরের শরীর, হালকা ঠোঁট, ডানার নকশা ও লাল লেজ।",
+    "varietyIds": [
+      "green-cheeked-conure-cinnamon"
+    ],
+    "primary": true,
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "sourceRepository": "https://github.com/allsiterepos/trg-catalog",
+    "sourceCommit": "209d16cc3aad13342138f0603847876b09a0454b",
+    "downloadUrl": "https://raw.githubusercontent.com/allsiterepos/trg-catalog/209d16cc3aad13342138f0603847876b09a0454b/img/cinnamon-green-cheek-conure.jpg",
+    "licenseEvidenceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/catalog.json",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "74cb72b6e2c0",
+    "species": "green-cheeked-conure",
+    "src": "/images/green-cheeked-conure-74cb72b6e2c0-800.webp",
+    "width": 800,
+    "height": 600,
+    "srcset": [
+      {
+        "src": "/images/green-cheeked-conure-74cb72b6e2c0-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/green-cheeked-conure-74cb72b6e2c0-800.webp",
+        "width": 800
+      }
+    ],
+    "creator": "therouxdown",
+    "sourceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/img/pineapple-green-cheek-conure.jpg",
+    "license": "CC-BY-SA-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "altEn": "Pineapple-coloured green-cheeked conure on a chair, with pale head and yellowish chest.",
+    "altBn": "চেয়ারে বসা পাইনঅ্যাপল রঙের গ্রিন-চিকড কনিউর; হালকা মাথা ও হলদে বুক।",
+    "captionEn": "Pineapple-coloured green-cheeked conure on a chair, with pale head and yellowish chest.",
+    "captionBn": "চেয়ারে বসা পাইনঅ্যাপল রঙের গ্রিন-চিকড কনিউর; হালকা মাথা ও হলদে বুক।",
+    "varietyIds": [
+      "green-cheeked-conure-type-5"
+    ],
+    "primary": false,
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "sourceRepository": "https://github.com/allsiterepos/trg-catalog",
+    "sourceCommit": "209d16cc3aad13342138f0603847876b09a0454b",
+    "downloadUrl": "https://raw.githubusercontent.com/allsiterepos/trg-catalog/209d16cc3aad13342138f0603847876b09a0454b/img/pineapple-green-cheek-conure.jpg",
+    "licenseEvidenceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/catalog.json",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "d4c5b23522af",
+    "species": "budgerigar",
+    "src": "/images/budgerigar-d4c5b23522af-560.webp",
+    "width": 560,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/budgerigar-d4c5b23522af-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/budgerigar-d4c5b23522af-560.webp",
+        "width": 560
+      }
+    ],
+    "creator": "Alana Elliott",
+    "sourceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/img/assorted-parakeet-companion-grade-v2.jpg",
+    "license": "CC-BY-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "altEn": "Blue budgerigar showing a pale face, black wing markings and its long tail.",
+    "altBn": "নীল বাজরিগারের হালকা মুখ, ডানার কালো নকশা ও লম্বা লেজ।",
+    "captionEn": "Blue budgerigar showing a pale face, black wing markings and its long tail.",
+    "captionBn": "নীল বাজরিগারের হালকা মুখ, ডানার কালো নকশা ও লম্বা লেজ।",
+    "varietyIds": [
+      "budgerigar-blue"
+    ],
+    "primary": false,
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "sourceRepository": "https://github.com/allsiterepos/trg-catalog",
+    "sourceCommit": "209d16cc3aad13342138f0603847876b09a0454b",
+    "downloadUrl": "https://raw.githubusercontent.com/allsiterepos/trg-catalog/209d16cc3aad13342138f0603847876b09a0454b/img/assorted-parakeet-companion-grade-v2.jpg",
+    "licenseEvidenceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/catalog.json",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "4ba37821b801",
+    "species": "rose-ringed-parakeet",
+    "src": "/images/rose-ringed-parakeet-4ba37821b801-553.webp",
+    "width": 553,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/rose-ringed-parakeet-4ba37821b801-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/rose-ringed-parakeet-4ba37821b801-553.webp",
+        "width": 553
+      }
+    ],
+    "creator": "Tanya Dropbear",
+    "sourceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/img/blue-indian-ringneck-parakeet-v2.jpg",
+    "license": "CC-BY-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "altEn": "Blue ringneck parakeet with a red beak.",
+    "altBn": "লাল ঠোঁটের নীল রিংনেক প্যারাকিট।",
+    "captionEn": "Blue ringneck parakeet with a red beak.",
+    "captionBn": "লাল ঠোঁটের নীল রিংনেক প্যারাকিট।",
+    "varietyIds": [
+      "rose-ringed-parakeet-blue"
+    ],
+    "primary": false,
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "sourceRepository": "https://github.com/allsiterepos/trg-catalog",
+    "sourceCommit": "209d16cc3aad13342138f0603847876b09a0454b",
+    "downloadUrl": "https://raw.githubusercontent.com/allsiterepos/trg-catalog/209d16cc3aad13342138f0603847876b09a0454b/img/blue-indian-ringneck-parakeet-v2.jpg",
+    "licenseEvidenceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/catalog.json",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized and converted to WebP."
   }
 ]

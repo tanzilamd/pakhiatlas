@@ -41,12 +41,12 @@
   },
   {
     "species": "green-cheeked-conure",
-    "en": "Turquoise / Cinnamon",
-    "bn": "টারকোয়েজ / সিনামন",
+    "en": "Turquoise",
+    "bn": "টারকোয়েজ",
     "typeEn": "Colour mutation",
     "typeBn": "রঙের মিউটেশন",
-    "noteEn": "Turquoise shifts much of the body toward blue-green. Cinnamon lightens darker feather areas toward brown; these are distinct mutations and may combine.",
-    "noteBn": "টারকোয়েজে শরীরের বড় অংশ নীলচে-সবুজ দেখায়। সিনামনে গাঢ় পালক তুলনামূলক বাদামি ও হালকা হয়। দুটি আলাদা মিউটেশন; একসঙ্গেও থাকতে পারে।",
+    "noteEn": "A blue-green colour form of the green-cheeked conure, not a new species.",
+    "noteBn": "গ্রিন-চিকড কনিউরের নীলচে-সবুজ রঙের ধরন; আলাদা প্রজাতি নয়।",
     "id": "green-cheeked-conure-type-6"
   },
   {
@@ -81,12 +81,12 @@
   },
   {
     "species": "rose-ringed-parakeet",
-    "en": "Lutino / Blue Ringneck",
-    "bn": "লুটিনো / ব্লু রিংনেক",
+    "en": "Lutino Ringneck",
+    "bn": "লুটিনো রিংনেক",
     "typeEn": "Colour mutation",
     "typeBn": "রঙের মিউটেশন",
-    "noteEn": "Lutino ringnecks look mainly yellow, while blue forms look blue to blue-grey. A colour label alone does not establish the species.",
-    "noteBn": "লুটিনো রিংনেক প্রধানত হলুদ; ব্লু রিংনেক নীল থেকে নীলচে-ধূসর। তবে বাজারে শুধু “হলুদ টিয়া” বললে প্রজাতি নিশ্চিত হয় না—ঠোঁট, গড়ন ও পরিচয়ের নথিও মিলিয়ে নিন।",
+    "noteEn": "A mainly yellow colour form; a market label of yellow parrot alone does not establish species.",
+    "noteBn": "প্রধানত হলুদ রঙের ধরন; বাজারে শুধু “হলুদ টিয়া” বললে প্রজাতি নিশ্চিত হয় না।",
     "id": "rose-ringed-parakeet-type-10"
   },
   {
@@ -168,5 +168,35 @@
     "typeBn": "রং ও পালকের ধরন",
     "noteEn": "The source photograph shows green and American-white colour forms together; these remain Pacific parrotlets.",
     "noteBn": "ছবিতে সবুজ ও আমেরিকান-হোয়াইট রং পাশাপাশি দেখা যায়; দুটিই প্যাসিফিক প্যারটলেট।"
+  },
+  {
+    "id": "green-cheeked-conure-cinnamon",
+    "species": "green-cheeked-conure",
+    "en": "Cinnamon",
+    "bn": "সিনামন",
+    "typeEn": "Colour form",
+    "typeBn": "রঙের ধরন",
+    "noteEn": "Paler brown head and lighter beak; visible colour is an identification aid, not pedigree proof.",
+    "noteBn": "মাথা তুলনামূলক হালকা বাদামি ও ঠোঁট হালকা। দৃশ্যমান রং পরিচয়ের সহায়ক; বংশের প্রমাণ নয়।"
+  },
+  {
+    "id": "budgerigar-blue",
+    "species": "budgerigar",
+    "en": "Blue series",
+    "bn": "ব্লু সিরিজ",
+    "typeEn": "Colour form",
+    "typeBn": "রঙের ধরন",
+    "noteEn": "Blue-toned body, pale face and dark wing patterning, with variation among individuals.",
+    "noteBn": "নীলচে শরীর, হালকা মুখ ও ডানার গাঢ় নকশা; পাখিভেদে রঙের গভীরতা বদলায়।"
+  },
+  {
+    "id": "rose-ringed-parakeet-blue",
+    "species": "rose-ringed-parakeet",
+    "en": "Blue Ringneck",
+    "bn": "ব্লু রিংনেক",
+    "typeEn": "Colour form",
+    "typeBn": "রঙের ধরন",
+    "noteEn": "Blue plumage within the ringneck species; colour does not establish age, sex or provenance.",
+    "noteBn": "একই রিংনেক প্রজাতির নীল পালক; রং দিয়ে বয়স, লিঙ্গ বা উৎস নিশ্চিত হয় না।"
   }
 ]

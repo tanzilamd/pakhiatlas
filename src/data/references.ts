@@ -1,4 +1,6 @@
 export const references: Record<string,{name:string,url:string,status:string}> = {
+ornithodex:{name:'OrnithoDex — species source collection',url:'https://github.com/naanouff/OrnithoDex/tree/4128f1a61fd5ced6d742b487c826d283762fd063',status:'Source data and per-file credits read 2026-11-02; secondary educational source, not veterinary review'},
+vcacockatiel:{name:'VCA — Cockatiels: Feeding',url:'https://vcahospitals.com/know-your-pet/cockatiels-feeding',status:'Known clinical reference link; direct retrieval blocked in this environment'},
 aav:{name:'Association of Avian Veterinarians — bird owner resources',url:'https://www.aav.org/page/birdowners',status:'Source retrieval blocked; passage verification pending'},
 merck:{name:'MSD Veterinary Manual — pet birds',url:'https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds',status:'Source retrieval blocked; passage verification pending'},
 vcadiet:{name:'VCA — Birds: General Nutrition',url:'https://vcahospitals.com/know-your-pet/birds---general-nutrition',status:'Source retrieval blocked; passage verification pending'},
