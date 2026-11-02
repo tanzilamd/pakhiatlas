@@ -26,3 +26,11 @@ Revised build: 82 HTML pages, 1,905 internal links/assets resolved. Chromium che
 Added attributed responsive photo-gallery/import support. No actual bird photos were downloaded: Commons and veterinary source domains remain denied by the runtime proxy. The import script passed syntax checking, but a real licensed-asset import and live gallery branch have not been validated. No source research or live deployment verification is claimed by these functional tests.
 
 Final dependency audit: zero vulnerabilities. Final root/custom-origin rebuild and default project-subpath rebuild both passed all link checks. Bangla budgerigar profile was visually inspected at 390px; removed duplicated overview text and compacted mobile quick facts. Final reading/layout adjustments retain the content body.
+
+## Real-photo and completion revision
+
+6 distinct real photo records imported, each with three local WebP sizes. Source repository commit verified, species visually inspected; original Commons pages were not fetched. Gallery/attribution tested in Chromium. Mobile Bangla homepage with real images visually inspected.
+
+122 static pages; 98 article records in two Pagefind language indexes; 3,136 internal assets/links checked in the default subpath build. Browser suite covers reading-list save/reload/localization/legacy migration/removal, real photo decoding, required finder answers and experience/welfare rules, remembered root language, no-JavaScript language navigation, storage-disabled fallback, all bird/native routes and seven multilingual searches. A search test race was fixed to await actual result links rather than loading skeletons. No test assertions were disabled.
+
+Astro check: zero errors, warnings and hints after converting OG dimension metadata to strings. Real photos are also used for accurate OG images on pictured profiles and home; 404 is noindex. Prior successful Pages runs and the configured URL were read from public GitHub web data. Direct live-host response remains unavailable because of proxy policy.

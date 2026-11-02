@@ -8,7 +8,7 @@ Static Astro 7 + TypeScript + Tailwind 4 + Pagefind. GitHub Pages only. No backe
 - `src/data/references.ts`: reference ledger; links are currently unverified leads. Never treat the existing drafts as verified source material.
 - `src/data/wildlife.json` + `src/content/wildlife`: native educational entries, excluded from companion recommendations.
 - `src/data/varieties.json`: colour/domestic varieties linked to canonical species.
-- `src/data/photos.json` + `PhotoGallery.astro`: real local photos only; use `npm run media:add` after license/species review. Never restore generic artwork as a species photograph.
+- `src/data/photos.json` + `PhotoGallery.astro`: real local photos only; use `npm run media:add` after license/species review. Read MEDIA_SOURCES.md: six real photos are imported; GFDL assets need full text + received original copy as well as credits. Never restore generic artwork as a species photograph.
 - `src/data/foods.json`: qualified food entries, sources and bilingual text.
 - `src/data/site.ts`: base-aware URL helper. Every local path must use it.
 - `src/pages/[lang]`: static routes; shared-slug language switch. `Layout.astro` provides global controls and metadata.

@@ -11,7 +11,8 @@
     "test": "node scripts/test-built.mjs",
     "new:bird": "node scripts/scaffold.mjs birds",
     "new:guide": "node scripts/scaffold.mjs guides",
-    "media:add": "node scripts/add-photo.mjs"
+    "media:add": "node scripts/add-photo.mjs",
+    "test:browser": "node scripts/browser-test.mjs && node scripts/test-interactions.mjs"
   },
   "repository": {
     "type": "git",

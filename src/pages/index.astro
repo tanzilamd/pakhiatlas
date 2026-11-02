@@ -1,4 +1,4 @@
 ---
-import {url} from '../data/site';
+import {url} from '../data/site';const bn=url('bn/');const en=url('en/');
 ---
-<html lang="bn"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width"/><title>PakhiAtlas — পাখির যত্ন, জানার সবকিছু।</title><meta http-equiv="refresh" content={`0;url=${url('bn/')}`}/><meta name="robots" content="noindex"/></head><body><h1>PakhiAtlas</h1><a href={url('bn/')}>বাংলায় পড়ুন</a> · <a href={url('en/')}>Read in English</a></body></html>
+<html lang="bn"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width"/><title>PakhiAtlas — পাখির যত্ন, জানার সবকিছু।</title><meta name="robots" content="noindex"/><noscript><meta http-equiv="refresh" content={`0;url=${bn}`}/></noscript><script is:inline define:vars={{bn,en}}>let language='bn';try{language=localStorage.getItem('language')==='en'?'en':'bn'}catch{}location.replace(language==='en'?en:bn);</script></head><body><h1>PakhiAtlas</h1><a href={bn}>বাংলায় পড়ুন</a> · <a href={en}>Read in English</a></body></html>

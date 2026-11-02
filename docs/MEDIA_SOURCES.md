@@ -1,0 +1,7 @@
+# Photograph provenance
+
+First six photographs imported from existing public files in mibermar/pruebaOpenCode, commit 6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5. The source repository README and src/data/birds.ts explicitly identify original Commons files, photographers and media licenses. They are independent previously published repository assets, not requests relayed to blocked Commons endpoints. Each photo was visually checked for species identity before import. Original Commons pages remain inaccessible here; the license evidence inspected is the source repository’s explicit per-file credit declaration. Do not describe that as direct verification of Commons page contents.
+
+src/data/photos.json records exact origin, source commit, license evidence, photographer, alt text and WebP output sizes. Budgerigar photo uses GFDL 1.2: full standard text is included at public/licenses/GFDL-1.2.txt (obtained from SPDX license-list-data GFDL-1.2-only.json), and the received original JPEG is retained at public/images/originals/budgerigar.jpg. The page links both. Other photographs retain their original CC license. Resizing/conversion is explicitly noted. These licenses apply to the respective images, not to the entire site.
+
+The source’s guacamayo.jpg filename and app category are misleading: visual inspection and its explicit original Aratinga_solstitialis filename identify sun conures, so it is used only for sun-conure. Zebra_finch_group.png was not imported because its source credit does not identify the creator. Do not invent one.

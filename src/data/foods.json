@@ -43,5 +43,113 @@
     "noteEn": "Discard moldy or spoiled food. Do not trim off visible mold and feed the rest.",
     "noteBn": "ছত্রাকযুক্ত বা পচা খাবার ফেলে দিন। দৃশ্যমান ছত্রাকটুকু কেটে বাকিটা দেবেন না।",
     "source": "vcadiet"
+  },
+  {
+    "en": "Banana flesh",
+    "bn": "কলার শাঁস",
+    "aliases": "banana কলা",
+    "category": "conditional",
+    "noteEn": "Plain peeled banana may be part of an appropriate species-specific plan; fruit is not a complete diet. Remove spoiled leftovers.",
+    "noteBn": "খোসা ছাড়ানো সাধারণ কলা প্রজাতির উপযুক্ত খাদ্যতালিকার অংশ হতে পারে। ফল পূর্ণাঙ্গ খাবার নয়; নষ্ট বা পড়ে থাকা অংশ সরান।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Papaya flesh",
+    "bn": "পেঁপের শাঁস",
+    "aliases": "papaya পেঁপে পেপে",
+    "category": "conditional",
+    "noteEn": "Offer plain prepared flesh only as part of a suitable balanced diet. Prepare washed flesh without skin and seeds for simple serving.",
+    "noteBn": "উপযুক্ত সুষম খাদ্যের অংশ হিসেবে সাধারণ শাঁস দিন। ধুয়ে খোসা ও বীজ ছাড়িয়ে পরিবেশনের উপযোগী করুন।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Mango flesh",
+    "bn": "আমের শাঁস",
+    "aliases": "mango আম",
+    "category": "conditional",
+    "noteEn": "Wash and offer plain flesh without the stone. Fruit should complement, not replace, an appropriate feeding plan.",
+    "noteBn": "ধুয়ে আঁটি ছাড়া সাধারণ শাঁস দিন। ফল প্রজাতির উপযুক্ত খাবারের সঙ্গে থাকবে, পুরো খাদ্যতালিকার বিকল্প হবে না।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Guava",
+    "bn": "পেয়ারা",
+    "aliases": "guava পেয়ারা পেয়ারা",
+    "category": "conditional",
+    "noteEn": "Wash and prepare manageable pieces for the individual bird. Species-specific food needs still apply; guava alone is not a complete ration.",
+    "noteBn": "ধুয়ে নিজের পাখির খাওয়ার উপযোগী করে দিন। প্রজাতির খাদ্যচাহিদা মাথায় রাখুন; শুধু পেয়ারা পূর্ণাঙ্গ খাবার নয়।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Cucumber",
+    "bn": "শসা",
+    "aliases": "cucumber শসা",
+    "category": "conditional",
+    "noteEn": "Offer washed plain cucumber, without salt or seasoning, within a suitable plan. Water-rich foods can affect the urine component; persistent changes still need attention.",
+    "noteBn": "লবণ-মসলা ছাড়া ধোয়া সাধারণ শসা উপযুক্ত খাদ্যতালিকার অংশ হিসেবে দিন। জলীয় খাবারে মূত্রের অংশ বদলাতে পারে; স্থায়ী পরিবর্তনকে শুধু খাবারের দোষ ধরে নেবেন না।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Broccoli",
+    "bn": "ব্রকলি",
+    "aliases": "broccoli ব্রকলি ব্রোকলি",
+    "category": "appropriate",
+    "noteEn": "Washed plain broccoli can contribute to a suitable varied diet. Avoid salt, oil and sauces; check what is actually eaten.",
+    "noteBn": "ধোয়া সাধারণ ব্রকলি উপযুক্ত বৈচিত্র্যময় খাবারের অংশ হতে পারে। লবণ, তেল ও সস এড়ান; আসলে কতটা খাচ্ছে দেখুন।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Peas",
+    "bn": "মটরশুঁটি",
+    "aliases": "peas pea মটর মটরশুঁটি",
+    "category": "conditional",
+    "noteEn": "Plain peas may fit an appropriate diet; avoid salted canned preparations or spicy household dishes. They are not a complete ration.",
+    "noteBn": "উপযুক্ত খাবারের অংশ হিসেবে সাধারণ মটরশুঁটি দেওয়া যায়। লবণযুক্ত কৌটার খাবার বা মসলার তরকারি দেবেন না। এটি পূর্ণাঙ্গ খাদ্য নয়।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Plain cooked rice",
+    "bn": "সাধারণ রান্না করা ভাত",
+    "aliases": "rice ভাত চাল",
+    "category": "conditional",
+    "noteEn": "A little plain cooked rice can fit some birds’ plans, but rice alone is nutritionally incomplete. Do not serve salted, oily or spoiled leftovers.",
+    "noteBn": "কিছু পাখির উপযুক্ত খাদ্যতালিকায় সাধারণ রান্না করা ভাত থাকতে পারে, কিন্তু শুধু ভাতে পূর্ণ পুষ্টি হয় না। লবণ-তেল মেশানো বা নষ্ট বাসি অংশ দেবেন না।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Plain cooked lentils",
+    "bn": "সেদ্ধ মসুর ডাল",
+    "aliases": "lentil lentils ডাল মসুর",
+    "category": "conditional",
+    "noteEn": "Use only a suitable fully cooked plain preparation within an individual plan. Household dal with onion, salt, oil and spices is not the same food.",
+    "noteBn": "নিজের পাখির খাবারের পরিকল্পনা অনুযায়ী ভালোভাবে সেদ্ধ সাধারণ ডাল ব্যবহার করুন। পেঁয়াজ, লবণ, তেল ও মসলা দিয়ে রান্না করা ঘরের ডাল একই খাবার নয়।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Sunflower seed",
+    "bn": "সূর্যমুখীর বীজ",
+    "aliases": "sunflower সূর্যমুখী সূর্যমুখির বীজ",
+    "category": "conditional",
+    "noteEn": "A favourite seed or training reward is not a balanced diet. Use only where appropriate to the species; do not let selective eating replace nutritional planning.",
+    "noteBn": "পছন্দের বীজ বা অনুশীলনের পুরস্কার পূর্ণাঙ্গ খাদ্য নয়। প্রজাতির উপযোগী হলে ব্যবহার করুন; শুধু পছন্দের বীজ বেছে খাওয়াকে সুষম পরিকল্পনার বিকল্প ভাববেন না।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Salty processed snacks",
+    "bn": "নোনতা প্যাকেটের খাবার",
+    "aliases": "chips crisps salty চানাচুর চিপস নোনতা",
+    "category": "avoid",
+    "noteEn": "Do not use salty processed household snacks as bird feed. Choose an appropriate plain food instead.",
+    "noteBn": "নোনতা প্যাকেটের খাবার পাখির খাবার হিসেবে দেবেন না। তার বদলে উপযুক্ত সাধারণ খাবার বেছে নিন।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Alcohol",
+    "bn": "অ্যালকোহল",
+    "aliases": "alcohol beer wine অ্যালকোহল মদ",
+    "category": "danger",
+    "noteEn": "Keep alcoholic drinks away. Suspected ingestion needs prompt veterinary advice; do not attempt an improvised home antidote.",
+    "noteBn": "অ্যালকোহলযুক্ত পানীয় দূরে রাখুন। খেয়ে ফেলেছে সন্দেহ হলে দ্রুত চিকিৎসকের পরামর্শ নিন; ঘরে আন্দাজের প্রতিষেধক দেওয়ার চেষ্টা করবেন না।",
+    "source": "vcadiet"
   }
 ]

@@ -1,1 +1,208 @@
-[]
+[
+  {
+    "id": "831d5e095fd3",
+    "species": "budgerigar",
+    "src": "/images/budgerigar-831d5e095fd3-960.webp",
+    "width": 960,
+    "height": 640,
+    "srcset": [
+      {
+        "src": "/images/budgerigar-831d5e095fd3-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/budgerigar-831d5e095fd3-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/budgerigar-831d5e095fd3-960.webp",
+        "width": 960
+      }
+    ],
+    "creator": "Benjamint444",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Budgerigar-male-strzelecki-qld.jpg",
+    "license": "GFDL-1.2-only",
+    "licenseUrl": "https://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "altBn": "ডালে পাশ ফিরে বসা সবুজ-হলুদ বাজরিগার; লম্বা লেজ স্পষ্ট দেখা যাচ্ছে।",
+    "altEn": "Green-and-yellow budgerigar perched sideways on a branch, with the long tail visible.",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "sourceRepository": "https://github.com/mibermar/pruebaOpenCode",
+    "sourceCommit": "6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5",
+    "downloadUrl": "https://raw.githubusercontent.com/mibermar/pruebaOpenCode/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/public/photos/periquito.jpg",
+    "licenseEvidenceUrl": "https://github.com/mibermar/pruebaOpenCode/blob/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/src/data/birds.ts",
+    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content.",
+    "originalCopy": "/images/originals/budgerigar.jpg",
+    "localLicense": "/licenses/GFDL-1.2.txt"
+  },
+  {
+    "id": "ef6f36193f9e",
+    "species": "cockatiel",
+    "src": "/images/cockatiel-ef6f36193f9e-960.webp",
+    "width": 960,
+    "height": 1440,
+    "srcset": [
+      {
+        "src": "/images/cockatiel-ef6f36193f9e-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/cockatiel-ef6f36193f9e-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/cockatiel-ef6f36193f9e-960.webp",
+        "width": 960
+      }
+    ],
+    "creator": "Ganatron – paulweberphoto.com",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cockatiel_3.jpg",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "altBn": "ধূসর ককাটেল; মাথার ঝুঁটি, গালের কমলা দাগ ও লম্বা লেজ দেখা যাচ্ছে।",
+    "altEn": "Grey cockatiel showing its raised crest, orange cheek patch and long tail.",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "sourceRepository": "https://github.com/mibermar/pruebaOpenCode",
+    "sourceCommit": "6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5",
+    "downloadUrl": "https://raw.githubusercontent.com/mibermar/pruebaOpenCode/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/public/photos/ninfa.jpg",
+    "licenseEvidenceUrl": "https://github.com/mibermar/pruebaOpenCode/blob/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/src/data/birds.ts",
+    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content."
+  },
+  {
+    "id": "ba8f57549676",
+    "species": "peach-faced-lovebird",
+    "src": "/images/peach-faced-lovebird-ba8f57549676-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/images/peach-faced-lovebird-ba8f57549676-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/peach-faced-lovebird-ba8f57549676-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/peach-faced-lovebird-ba8f57549676-960.webp",
+        "width": 960
+      }
+    ],
+    "creator": "Charles J. Sharp",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosy-faced_lovebird_(Agapornis_roseicollis_roseicollis).jpg",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "altBn": "ডালে বসা সবুজ পিচ-ফেসড লাভবার্ড; মুখে গোলাপি-কমলা আভা ও হালকা ঠোঁট।",
+    "altEn": "Green rosy-faced lovebird with a peach face and pale beak, perched on a branch.",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "sourceRepository": "https://github.com/mibermar/pruebaOpenCode",
+    "sourceCommit": "6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5",
+    "downloadUrl": "https://raw.githubusercontent.com/mibermar/pruebaOpenCode/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/public/photos/agapornis.jpg",
+    "licenseEvidenceUrl": "https://github.com/mibermar/pruebaOpenCode/blob/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/src/data/birds.ts",
+    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content."
+  },
+  {
+    "id": "193239b07a40",
+    "species": "sun-conure",
+    "src": "/images/sun-conure-193239b07a40-960.webp",
+    "width": 960,
+    "height": 1444,
+    "srcset": [
+      {
+        "src": "/images/sun-conure-193239b07a40-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/sun-conure-193239b07a40-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/sun-conure-193239b07a40-960.webp",
+        "width": 960
+      }
+    ],
+    "creator": "Wayne Deeker",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aratinga_solstitialis_-captive-two-8a.jpg",
+    "license": "CC-BY-3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "altBn": "পাশাপাশি দুটি সান কনিউর; কমলা-হলুদ শরীর ও ডানায় সবুজ-নীল পালক দেখা যাচ্ছে।",
+    "altEn": "Two sun conures with orange-yellow heads and bodies, and green-and-blue wing feathers.",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "sourceRepository": "https://github.com/mibermar/pruebaOpenCode",
+    "sourceCommit": "6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5",
+    "downloadUrl": "https://raw.githubusercontent.com/mibermar/pruebaOpenCode/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/public/photos/guacamayo.jpg",
+    "licenseEvidenceUrl": "https://github.com/mibermar/pruebaOpenCode/blob/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/src/data/birds.ts",
+    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content."
+  },
+  {
+    "id": "ac08f3a588a3",
+    "species": "canary",
+    "src": "/images/canary-ac08f3a588a3-960.webp",
+    "width": 960,
+    "height": 640,
+    "srcset": [
+      {
+        "src": "/images/canary-ac08f3a588a3-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/canary-ac08f3a588a3-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/canary-ac08f3a588a3-960.webp",
+        "width": 960
+      }
+    ],
+    "creator": "NEWSchr",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:GelbA.JPG",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "altBn": "বসার ডালে পাশ ফিরে দাঁড়ানো হলুদ ক্যানারি; পায়ে পরিচয়ের রিং রয়েছে।",
+    "altEn": "Yellow domestic canary standing sideways on a perch, with a leg ring.",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "sourceRepository": "https://github.com/mibermar/pruebaOpenCode",
+    "sourceCommit": "6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5",
+    "downloadUrl": "https://raw.githubusercontent.com/mibermar/pruebaOpenCode/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/public/photos/canario.jpg",
+    "licenseEvidenceUrl": "https://github.com/mibermar/pruebaOpenCode/blob/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/src/data/birds.ts",
+    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content."
+  },
+  {
+    "id": "2d12cec6c9d0",
+    "species": "rose-ringed-parakeet",
+    "src": "/images/rose-ringed-parakeet-2d12cec6c9d0-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/images/rose-ringed-parakeet-2d12cec6c9d0-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/rose-ringed-parakeet-2d12cec6c9d0-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/rose-ringed-parakeet-2d12cec6c9d0-960.webp",
+        "width": 960
+      }
+    ],
+    "creator": "danielskatz",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet,_Tendaba,_Gambia_1.jpg",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "altBn": "পাতার আড়ালে ডালে বসা সবুজ রিংনেক টিয়া; গলার গাঢ় দাগ দেখা যাচ্ছে।",
+    "altEn": "Green rose-ringed parakeet with a dark neck marking, perched in foliage.",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "sourceRepository": "https://github.com/mibermar/pruebaOpenCode",
+    "sourceCommit": "6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5",
+    "downloadUrl": "https://raw.githubusercontent.com/mibermar/pruebaOpenCode/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/public/photos/cotorra.jpg",
+    "licenseEvidenceUrl": "https://github.com/mibermar/pruebaOpenCode/blob/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/src/data/birds.ts",
+    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content."
+  }
+]

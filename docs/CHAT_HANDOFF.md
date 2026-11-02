@@ -2,6 +2,18 @@
 
 Updated 2026-11-02. This file preserves the user’s project request, latest preferences, actual results and blockers for a new chat. Read it before making changes. Implementation baseline: `43defc8d332736c9d6811ae7c05013da6248aba5`, pushed to main. Later commits may update this handoff; inspect the actual checkout and remote first.
 
+## Latest continuation update — read this before older baseline sections
+
+Six real bird photographs have now been obtained from existing public assets in mibermar/pruebaOpenCode (pinned commit and per-file author/license evidence recorded in docs/MEDIA_SOURCES.md). No proxy relay or blocked-domain workaround was used: ordinary public GitHub pages, Git and raw.githubusercontent.com worked. This route was overlooked in the earlier baseline. Do not assume all photo access is impossible merely because Commons is blocked.
+
+Current state: 26 companion + 5 native profiles + 18 guides, each in bn/en (98 articles); 11 variety groups; 17 food entries; 6 distinct photos (5 companion species + ringneck). Responsive local galleries and credits are tested, but 25 species remain unpictured. Full GFDL text and the received original JPEG accompany the budgerigar image. Read MEDIA_SOURCES.md before changing license handling. Public credits are compact; do not remove necessary attribution.
+
+Finished reading list /saved/ with migration from the old saved:slug keys, persistent locale-independent identities and removal. Finder now requires explicit answers and considers experience. Root language preference and no-JS navigation work. Browser tests: npm run test:browser (preview required).
+
+Deployment discovery: public https://github.com/tanzilamd/pakhiatlas/actions exposes successful previous workflow runs despite api.github.com being blocked. The public repository sidebar JSON reports pagesUrl http://tanzilahmed.tech/pakhiatlas/. Prior implementation run 41424725631 for 0013479 succeeded. Direct live-host requests are still proxy-denied. Verify the newest run by its exact commit, not an older success. Do not confuse environment publication failure with Pages deployment failure. No custom-domain change was made.
+
+The older baseline below is historical context; this update supersedes its counts, zero-photo statement and assumption that Pages status could not be read at all. Primary medical-source passage verification and direct live endpoint verification remain incomplete.
+
 ## User goal and authorization
 
 Build and finish PakhiAtlas, a useful bilingual Bangla/English Bangladesh-focused bird encyclopedia and A-to-Z care resource. This is an ongoing implementation request, not a request for another plan. Existing repository: https://github.com/tanzilamd/pakhiatlas. The user authorized necessary additions, modifications and removals, testing, commits, pushing to main and GitHub Pages deployment. Preserve unrelated work. Do not change custom-domain settings without separate permission. The latest request is to move the task to a new chat without losing context; a new chat was not automatically created.

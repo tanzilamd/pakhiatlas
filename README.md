@@ -4,7 +4,7 @@
 
 Bilingual, entirely static bird encyclopedia and care reference for Bangladesh. Astro 7, TypeScript, Tailwind 4, Markdown Content Collections and local multilingual Pagefind. No backend, accounts, analytics, AI/API runtime or paid service.
 
-**Research edition, not a complete verified encyclopedia.** Twenty-six companion profiles, five native-bird identification entries and fourteen guides in both languages are presented as reader-facing articles, with internal research status recorded in docs/COVERAGE.md. Direct source research was network-blocked. No legal permission, local availability or veterinary review is claimed. See [coverage](docs/COVERAGE.md).
+**Research edition, not a complete verified encyclopedia.** Twenty-six companion profiles, five native-bird identification entries and eighteen guides in both languages are presented as reader-facing articles, with internal research status recorded in docs/COVERAGE.md. Direct source research was network-blocked. No legal permission, local availability or veterinary review is claimed. See [coverage](docs/COVERAGE.md).
 
 ## Develop
 
@@ -21,3 +21,9 @@ In repository **Settings → Pages → Build and deployment → Source**, choose
 Local fallback origin/base is `https://tanzilamd.github.io` and `/pakhiatlas`. Actions uses actual `configure-pages` outputs so an inherited custom user domain is respected. For another deployment test set `SITE_URL` (origin) and `BASE_PATH` before build and tests.
 
 The owner must verify current sources and law before treating this draft edition as a trusted care resource. See docs/AI_HANDOFF.md for external access blockers.
+
+## Photos and reading list
+
+Six real species photographs are stored locally with credits and responsive WebP variants; see docs/MEDIA_SOURCES.md. Twenty-five species still need photographs. Reading-list pages work entirely in browser storage, migrate older saved entries, and retain article identity across languages. Run `npm run test:browser` with preview running for functional browser checks.
+
+Public GitHub Actions data confirms previous Pages deployments succeeded. GitHub reports the Pages URL as http://tanzilahmed.tech/pakhiatlas/; the local runner cannot request the live host because of its network policy. Environment Publish and GitHub Pages deployment are separate operations.
