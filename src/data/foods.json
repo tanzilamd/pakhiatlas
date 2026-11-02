@@ -1,0 +1,47 @@
+[
+  {
+    "en": "Avocado",
+    "bn": "অ্যাভোকাডো",
+    "aliases": "avocado অ্যাভোকাডো এভোকাডো",
+    "category": "danger",
+    "noteEn": "Avoid. Potentially toxic to birds; contact a veterinarian after exposure.",
+    "noteBn": "এড়িয়ে চলুন। পাখির জন্য বিষাক্ত হতে পারে; খেয়ে ফেললে চিকিৎসককে জানান।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Chocolate and caffeine",
+    "bn": "চকলেট ও ক্যাফেইন",
+    "aliases": "coffee tea chocolate কফি চা চকোলেট চকলেট",
+    "category": "danger",
+    "noteEn": "Avoid chocolate, coffee and caffeinated drinks. Suspected ingestion needs prompt veterinary advice.",
+    "noteBn": "চকলেট, কফি ও ক্যাফেইনযুক্ত পানীয় এড়ান। খেয়ে ফেলেছে সন্দেহ হলে দ্রুত চিকিৎসকের পরামর্শ নিন।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Apple flesh",
+    "bn": "আপেলের শাঁস",
+    "aliases": "apple আপেল",
+    "category": "conditional",
+    "noteEn": "Washed flesh can be offered as part of an appropriate species-specific diet. Remove seeds and core. Fruit is not a complete diet.",
+    "noteBn": "উপযুক্ত প্রজাতিভিত্তিক খাদ্যের অংশ হিসেবে ধোয়া শাঁস দেওয়া যায়। বীজ ও মাঝের শক্ত অংশ সরান। ফল পূর্ণাঙ্গ খাবার নয়।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Carrot",
+    "bn": "গাজর",
+    "aliases": "carrot গাজর",
+    "category": "appropriate",
+    "noteEn": "Washed, plain carrot can be part of a suitable varied diet. Prepare for the bird’s size and avoid salt, oil and sauces.",
+    "noteBn": "উপযুক্ত বৈচিত্র্যময় খাবারের অংশ হিসেবে ধোয়া সাধারণ গাজর দেওয়া যায়। আকার অনুযায়ী প্রস্তুত করুন; লবণ, তেল ও সস নয়।",
+    "source": "vcadiet"
+  },
+  {
+    "en": "Moldy food",
+    "bn": "ছত্রাকযুক্ত খাবার",
+    "aliases": "mould mold ছত্রাক বাসি পচা",
+    "category": "avoid",
+    "noteEn": "Discard moldy or spoiled food. Do not trim off visible mold and feed the rest.",
+    "noteBn": "ছত্রাকযুক্ত বা পচা খাবার ফেলে দিন। দৃশ্যমান ছত্রাকটুকু কেটে বাকিটা দেবেন না।",
+    "source": "vcadiet"
+  }
+]

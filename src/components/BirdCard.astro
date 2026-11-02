@@ -1,0 +1,5 @@
+---
+import {url,t,type Lang} from '../data/site';
+interface Props {bird:any;lang:Lang;index?:number} const {bird,lang,index=0}=Astro.props;
+---
+<a class="bird-card" href={url(`${lang}/birds/${bird.slug}/`)}><div class={`bird-art art-${index%4}`}><img src={url(bird.image)} alt={t(lang,'Generic bird illustration; species photograph pending','সাধারণ পাখির চিত্র; প্রজাতির ছবি যোগ করা বাকি')} width="460" height="400" loading="lazy"/><span>{t(lang,'Illustration','অলংকরণ')}</span></div><div class="card-content"><span class="eyebrow">{bird.family==='Parrots'?t(lang,'PARROTS & PARAKEETS','টিয়া ও প্যারাকিট'):t(lang,'FINCHES & CANARIES','ফিঞ্চ ও ক্যানারি')}</span><h3>{bird[lang]} <span>↗</span></h3><p class="scientific">{bird.scientificName}</p><div class="chips"><span>{t(lang,bird.size==='small'?'Small bird':bird.size==='medium'?'Medium bird':'Large bird',bird.size==='small'?'ছোট পাখি':bird.size==='medium'?'মাঝারি পাখি':'বড় পাখি')}</span><span>{t(lang,'Care overview','যত্নের পরিচিতি')}</span></div></div></a>
