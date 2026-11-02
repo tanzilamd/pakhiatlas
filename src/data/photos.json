@@ -33,7 +33,12 @@
     "licenseEvidenceUrl": "https://github.com/mibermar/pruebaOpenCode/blob/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/src/data/birds.ts",
     "changeNotice": "Resized and converted to WebP; no generated or replaced bird content.",
     "originalCopy": "/images/originals/budgerigar.jpg",
-    "localLicense": "/licenses/GFDL-1.2.txt"
+    "localLicense": "/licenses/GFDL-1.2.txt",
+    "varietyIds": [
+      "budgerigar-natural-green"
+    ],
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
   },
   {
     "id": "ef6f36193f9e",
@@ -67,7 +72,12 @@
     "sourceCommit": "6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5",
     "downloadUrl": "https://raw.githubusercontent.com/mibermar/pruebaOpenCode/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/public/photos/ninfa.jpg",
     "licenseEvidenceUrl": "https://github.com/mibermar/pruebaOpenCode/blob/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/src/data/birds.ts",
-    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content."
+    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content.",
+    "varietyIds": [
+      "cockatiel-normal-grey"
+    ],
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
   },
   {
     "id": "ba8f57549676",
@@ -101,7 +111,9 @@
     "sourceCommit": "6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5",
     "downloadUrl": "https://raw.githubusercontent.com/mibermar/pruebaOpenCode/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/public/photos/agapornis.jpg",
     "licenseEvidenceUrl": "https://github.com/mibermar/pruebaOpenCode/blob/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/src/data/birds.ts",
-    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content."
+    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
   },
   {
     "id": "193239b07a40",
@@ -135,7 +147,9 @@
     "sourceCommit": "6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5",
     "downloadUrl": "https://raw.githubusercontent.com/mibermar/pruebaOpenCode/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/public/photos/guacamayo.jpg",
     "licenseEvidenceUrl": "https://github.com/mibermar/pruebaOpenCode/blob/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/src/data/birds.ts",
-    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content."
+    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
   },
   {
     "id": "ac08f3a588a3",
@@ -169,7 +183,9 @@
     "sourceCommit": "6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5",
     "downloadUrl": "https://raw.githubusercontent.com/mibermar/pruebaOpenCode/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/public/photos/canario.jpg",
     "licenseEvidenceUrl": "https://github.com/mibermar/pruebaOpenCode/blob/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/src/data/birds.ts",
-    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content."
+    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
   },
   {
     "id": "2d12cec6c9d0",
@@ -203,6 +219,1276 @@
     "sourceCommit": "6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5",
     "downloadUrl": "https://raw.githubusercontent.com/mibermar/pruebaOpenCode/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/public/photos/cotorra.jpg",
     "licenseEvidenceUrl": "https://github.com/mibermar/pruebaOpenCode/blob/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/src/data/birds.ts",
-    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content."
+    "changeNotice": "Resized and converted to WebP; no generated or replaced bird content.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "d930002916b2",
+    "species": "budgerigar",
+    "src": "/images/budgerigar-d930002916b2-1200.webp",
+    "width": 1200,
+    "height": 762,
+    "srcset": [
+      {
+        "src": "/images/budgerigar-d930002916b2-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/budgerigar-d930002916b2-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/budgerigar-d930002916b2-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "melopsittacus-undulatus",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/melopsittacus-undulatus.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Lip Kee",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Budgerigars_at_water,_Karratha,_Western_Aaustralia_(7857257686).jpg",
+    "license": "CC-BY-SA-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "altEn": "Wild-coloured budgerigars at water.",
+    "altBn": "পানির কাছে প্রাকৃতিক সবুজ-হলুদ রঙের বাজরিগার।",
+    "captionEn": "Wild-coloured budgerigars at water.",
+    "captionBn": "পানির কাছে প্রাকৃতিক সবুজ-হলুদ রঙের বাজরিগার।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "varietyIds": [
+      "budgerigar-natural-green"
+    ],
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "53583c3812be",
+    "species": "cockatiel",
+    "src": "/images/cockatiel-53583c3812be-850.webp",
+    "width": 850,
+    "height": 568,
+    "srcset": [
+      {
+        "src": "/images/cockatiel-53583c3812be-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/cockatiel-53583c3812be-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/cockatiel-53583c3812be-850.webp",
+        "width": 850
+      }
+    ],
+    "sourceTaxon": "nymphicus-hollandicus",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/nymphicus-hollandicus.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Zefry",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cockatiel_Parakeet_(Nymphicus_hollandicus)9.jpg",
+    "license": "CC-BY-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "altEn": "Grey cockatiel in profile, showing the crest, wing markings and long tail.",
+    "altBn": "ধূসর ককাটেলের ঝুঁটি, ডানার সাদা অংশ ও লম্বা লেজ।",
+    "captionEn": "Grey cockatiel in profile, showing the crest, wing markings and long tail.",
+    "captionBn": "ধূসর ককাটেলের ঝুঁটি, ডানার সাদা অংশ ও লম্বা লেজ।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "varietyIds": [
+      "cockatiel-normal-grey"
+    ],
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "4edc156ec41b",
+    "species": "peach-faced-lovebird",
+    "src": "/images/peach-faced-lovebird-4edc156ec41b-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/peach-faced-lovebird-4edc156ec41b-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/peach-faced-lovebird-4edc156ec41b-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/peach-faced-lovebird-4edc156ec41b-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "agapornis-roseicollis",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/agapornis-roseicollis.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Charles J. Sharp",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosy-faced_lovebird_(Agapornis_roseicollis_roseicollis)_flock.jpg",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "altEn": "A flock of rosy-faced lovebirds.",
+    "altBn": "ডালে একসঙ্গে বসা পিচ-ফেসড লাভবার্ডের দল।",
+    "captionEn": "A flock of rosy-faced lovebirds.",
+    "captionBn": "ডালে একসঙ্গে বসা পিচ-ফেসড লাভবার্ডের দল।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "d0375da6a221",
+    "species": "green-cheeked-conure",
+    "src": "/images/green-cheeked-conure-d0375da6a221-1200.webp",
+    "width": 1200,
+    "height": 803,
+    "srcset": [
+      {
+        "src": "/images/green-cheeked-conure-d0375da6a221-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/green-cheeked-conure-d0375da6a221-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/green-cheeked-conure-d0375da6a221-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "pyrrhura-molinae",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/pyrrhura-molinae.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Dan Muntz",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Cheecked_Conure.jpg",
+    "license": "CC-BY-SA-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "altEn": "A green-cheeked conure with a pale head and beak.",
+    "altBn": "হালকা রঙের মাথা ও ঠোঁটের গ্রিন-চিকড কনিউর।",
+    "captionEn": "A green-cheeked conure with a pale head and beak.",
+    "captionBn": "হালকা রঙের মাথা ও ঠোঁটের গ্রিন-চিকড কনিউর।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "41f1d81a0844",
+    "species": "african-grey",
+    "src": "/images/african-grey-41f1d81a0844-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/african-grey-41f1d81a0844-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/african-grey-41f1d81a0844-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/african-grey-41f1d81a0844-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "psittacus-erithacus",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/psittacus-erithacus.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Nasimahmed01",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:African-Grey-Parrot.jpg",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "altEn": "African grey parrot showing its grey plumage and dark beak.",
+    "altBn": "ধূসর পালক ও গাঢ় ঠোঁটের আফ্রিকান গ্রে।",
+    "captionEn": "African grey parrot showing its grey plumage and dark beak.",
+    "captionBn": "ধূসর পালক ও গাঢ় ঠোঁটের আফ্রিকান গ্রে।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "772c01210f9a",
+    "species": "zebra-finch",
+    "src": "/images/zebra-finch-772c01210f9a-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/zebra-finch-772c01210f9a-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/zebra-finch-772c01210f9a-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/zebra-finch-772c01210f9a-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "taeniopygia-guttata-castanotis",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/taeniopygia-guttata-castanotis.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "JJ Harrison",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Australian_Zebra_Finch_0A2A3013.jpg",
+    "license": "CC-BY-SA-3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "altEn": "Two zebra finches side by side, showing differences in plumage.",
+    "altBn": "পাশাপাশি দুটি জেব্রা ফিঞ্চ; পালকের পার্থক্য দেখা যাচ্ছে।",
+    "captionEn": "Two zebra finches side by side, showing differences in plumage.",
+    "captionBn": "পাশাপাশি দুটি জেব্রা ফিঞ্চ; পালকের পার্থক্য দেখা যাচ্ছে।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "f4443782d564",
+    "species": "fischers-lovebird",
+    "src": "/images/fischers-lovebird-f4443782d564-1200.webp",
+    "width": 1200,
+    "height": 1800,
+    "srcset": [
+      {
+        "src": "/images/fischers-lovebird-f4443782d564-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/fischers-lovebird-f4443782d564-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/fischers-lovebird-f4443782d564-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "agapornis-fischeri",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/agapornis-fischeri.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Peter Békési",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fischer%27s_Lovebird,_(Agapornis_fischeri)_perching_on_a_box.jpg",
+    "license": "CC-BY-SA-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "altEn": "Fischer’s lovebird with orange face, red beak and white eye-ring.",
+    "altBn": "কমলা মুখ, লাল ঠোঁট ও চোখের সাদা বলয়ের ফিশার্স লাভবার্ড।",
+    "captionEn": "Fischer’s lovebird with orange face, red beak and white eye-ring.",
+    "captionBn": "কমলা মুখ, লাল ঠোঁট ও চোখের সাদা বলয়ের ফিশার্স লাভবার্ড।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "b3706c676c85",
+    "species": "masked-lovebird",
+    "src": "/images/masked-lovebird-b3706c676c85-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/masked-lovebird-b3706c676c85-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/masked-lovebird-b3706c676c85-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/masked-lovebird-b3706c676c85-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "agapornis-personatus",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/agapornis-personatus.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Becky Matsubara",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yellow-collared_Lovebird_(27582137244).jpg",
+    "license": "CC-BY-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "altEn": "Masked lovebird showing its dark face and yellow collar.",
+    "altBn": "গাঢ় মুখ ও হলুদ গলার মাস্কড লাভবার্ড।",
+    "captionEn": "Masked lovebird showing its dark face and yellow collar.",
+    "captionBn": "গাঢ় মুখ ও হলুদ গলার মাস্কড লাভবার্ড।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "85f64e655b9e",
+    "species": "society-finch",
+    "src": "/images/society-finch-85f64e655b9e-1200.webp",
+    "width": 1200,
+    "height": 1015,
+    "srcset": [
+      {
+        "src": "/images/society-finch-85f64e655b9e-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/society-finch-85f64e655b9e-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/society-finch-85f64e655b9e-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "lonchura-striata-domestiqua",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/lonchura-striata-domestiqua.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Anil Kumar",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Society_Finch.jpg",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "altEn": "Brown-and-white domestic society finch perched on a branch.",
+    "altBn": "ডালে বসা বাদামি-সাদা সোসাইটি ফিঞ্চ।",
+    "captionEn": "Brown-and-white domestic society finch perched on a branch.",
+    "captionBn": "ডালে বসা বাদামি-সাদা সোসাইটি ফিঞ্চ।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "dd9fa62a8fdc",
+    "species": "gouldian-finch",
+    "src": "/images/gouldian-finch-dd9fa62a8fdc-1200.webp",
+    "width": 1200,
+    "height": 900,
+    "srcset": [
+      {
+        "src": "/images/gouldian-finch-dd9fa62a8fdc-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/gouldian-finch-dd9fa62a8fdc-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/gouldian-finch-dd9fa62a8fdc-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "erythrura-gouldiae",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/erythrura-gouldiae.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Kym Nicolson",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chloebia_gouldiae,_Elsey,_Northern_Territory,_Australia_1.jpg",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "altEn": "Red-headed Gouldian finch, with another bird behind it.",
+    "altBn": "লাল মাথার গোল্ডিয়ান ফিঞ্চ; পেছনে আরেকটি পাখি রয়েছে।",
+    "captionEn": "Red-headed Gouldian finch, with another bird behind it.",
+    "captionBn": "লাল মাথার গোল্ডিয়ান ফিঞ্চ; পেছনে আরেকটি পাখি রয়েছে।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "varietyIds": [
+      "gouldian-red-head"
+    ],
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "c4c92517f22e",
+    "species": "java-sparrow",
+    "src": "/images/java-sparrow-c4c92517f22e-1200.webp",
+    "width": 1200,
+    "height": 992,
+    "srcset": [
+      {
+        "src": "/images/java-sparrow-c4c92517f22e-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/java-sparrow-c4c92517f22e-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/java-sparrow-c4c92517f22e-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "lonchura-oryzivora",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/lonchura-oryzivora.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Quartl",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Padda_oryzivora_qtl1.jpg",
+    "license": "CC-BY-SA-3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "altEn": "Grey Java sparrow with white cheeks and a pink beak.",
+    "altBn": "সাদা গাল ও গোলাপি ঠোঁটের ধূসর জাভা স্প্যারো।",
+    "captionEn": "Grey Java sparrow with white cheeks and a pink beak.",
+    "captionBn": "সাদা গাল ও গোলাপি ঠোঁটের ধূসর জাভা স্প্যারো।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "9e1abe05d3ba",
+    "species": "domestic-pigeon",
+    "src": "/images/domestic-pigeon-9e1abe05d3ba-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/domestic-pigeon-9e1abe05d3ba-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/domestic-pigeon-9e1abe05d3ba-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/domestic-pigeon-9e1abe05d3ba-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "columba-livia",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/columba-livia.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Charles J. Sharp",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rock_dove_(Columba_livia).jpg",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "altEn": "Rock-dove appearance: grey body and dark wing bars, the ancestral form of domestic pigeons.",
+    "altBn": "ধূসর শরীর ও ডানার কালো দাগ: গৃহপালিত কবুতরের পূর্বপুরুষ রক ডোভের সাধারণ চেহারা।",
+    "captionEn": "Rock-dove appearance: grey body and dark wing bars, the ancestral form of domestic pigeons.",
+    "captionBn": "ধূসর শরীর ও ডানার কালো দাগ: গৃহপালিত কবুতরের পূর্বপুরুষ রক ডোভের সাধারণ চেহারা।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "d23f8cb52bf7",
+    "species": "diamond-dove",
+    "src": "/images/diamond-dove-d23f8cb52bf7-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/diamond-dove-d23f8cb52bf7-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/diamond-dove-d23f8cb52bf7-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/diamond-dove-d23f8cb52bf7-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "geopelia-cuneata",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/geopelia-cuneata.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Maurice van Bruggen",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geopelia_cuneata.JPG",
+    "license": "CC-BY-SA-3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "altEn": "Diamond dove showing its orange eye-ring and spotted wing.",
+    "altBn": "কমলা চোখের বলয় ও ডানার সাদা ফোঁটার ডায়মন্ড ডাভ।",
+    "captionEn": "Diamond dove showing its orange eye-ring and spotted wing.",
+    "captionBn": "কমলা চোখের বলয় ও ডানার সাদা ফোঁটার ডায়মন্ড ডাভ।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "94954afc3265",
+    "species": "senegal-parrot",
+    "src": "/images/senegal-parrot-94954afc3265-828.webp",
+    "width": 828,
+    "height": 662,
+    "srcset": [
+      {
+        "src": "/images/senegal-parrot-94954afc3265-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/senegal-parrot-94954afc3265-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/senegal-parrot-94954afc3265-828.webp",
+        "width": 828
+      }
+    ],
+    "sourceTaxon": "poicephalus-senegalus",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/poicephalus-senegalus.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "ThomHasi / Thomas J. Haslam",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Senegal_Parrots_-two_on_branch_in_Africa.jpg",
+    "license": "CC-BY-2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "altEn": "Two Senegal parrots on branches.",
+    "altBn": "ডালে পাশাপাশি দুটি সেনেগাল প্যারট।",
+    "captionEn": "Two Senegal parrots on branches.",
+    "captionBn": "ডালে পাশাপাশি দুটি সেনেগাল প্যারট।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "ff9464c842ba",
+    "species": "pacific-parrotlet",
+    "src": "/images/pacific-parrotlet-ff9464c842ba-1200.webp",
+    "width": 1200,
+    "height": 900,
+    "srcset": [
+      {
+        "src": "/images/pacific-parrotlet-ff9464c842ba-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/pacific-parrotlet-ff9464c842ba-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/pacific-parrotlet-ff9464c842ba-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "forpus-coelestis",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/forpus-coelestis.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Ruth Rogers",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Forpus_coelestis_(normal_and_American_white)_-AFA_show_bird-8a.jpg",
+    "license": "CC-BY-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "altEn": "Green and American-white Pacific parrotlets, shown together.",
+    "altBn": "সবুজ ও আমেরিকান-হোয়াইট প্যাসিফিক প্যারটলেট পাশাপাশি।",
+    "captionEn": "Green and American-white Pacific parrotlets, shown together.",
+    "captionBn": "সবুজ ও আমেরিকান-হোয়াইট প্যাসিফিক প্যারটলেট পাশাপাশি।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "varietyIds": [
+      "parrotlet-green-white"
+    ],
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "fe23808083c4",
+    "species": "bourkes-parakeet",
+    "src": "/images/bourkes-parakeet-fe23808083c4-503.webp",
+    "width": 503,
+    "height": 450,
+    "srcset": [
+      {
+        "src": "/images/bourkes-parakeet-fe23808083c4-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/bourkes-parakeet-fe23808083c4-503.webp",
+        "width": 503
+      }
+    ],
+    "sourceTaxon": "neopsephotus-bourkii",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/neopsephotus-bourkii.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Ljosa",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bourkes_Parrot_(Neopsephotus_bourkii)9.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "altEn": "Bourke’s parakeet showing its pink breast and blue wing and tail highlights.",
+    "altBn": "বোর্কস প্যারাকিটের গোলাপি বুক ও ডানা-লেজের নীল আভা।",
+    "captionEn": "Bourke’s parakeet showing its pink breast and blue wing and tail highlights.",
+    "captionBn": "বোর্কস প্যারাকিটের গোলাপি বুক ও ডানা-লেজের নীল আভা।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "f1235d050403",
+    "species": "lineolated-parakeet",
+    "src": "/images/lineolated-parakeet-f1235d050403-1200.webp",
+    "width": 1200,
+    "height": 801,
+    "srcset": [
+      {
+        "src": "/images/lineolated-parakeet-f1235d050403-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/lineolated-parakeet-f1235d050403-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/lineolated-parakeet-f1235d050403-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "bolborhynchus-lineola-lineola",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/bolborhynchus-lineola-lineola.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "thibaudaronson",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barred_Parakeet,_Oxapampa,_Pasco,_Peru_1.jpg",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "altEn": "A flock of lineolated parakeets in flight.",
+    "altBn": "উড়ন্ত লাইনোলেটেড প্যারাকিটের দল।",
+    "captionEn": "A flock of lineolated parakeets in flight.",
+    "captionBn": "উড়ন্ত লাইনোলেটেড প্যারাকিটের দল।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "537d75ade2e4",
+    "species": "monk-parakeet",
+    "src": "/images/monk-parakeet-537d75ade2e4-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/monk-parakeet-537d75ade2e4-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/monk-parakeet-537d75ade2e4-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/monk-parakeet-537d75ade2e4-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "myiopsitta-monachus-monachus",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/myiopsitta-monachus-monachus.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Juan Emilio",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Myiopsitta_monachus_-Gran_Canaria,_Canary_Islands,_Spain-8.jpg",
+    "license": "CC-BY-SA-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "altEn": "Green monk parakeet with a grey face and breast.",
+    "altBn": "ধূসর মুখ ও বুকের সবুজ কোয়েকার বা মঙ্ক প্যারাকিট।",
+    "captionEn": "Green monk parakeet with a grey face and breast.",
+    "captionBn": "ধূসর মুখ ও বুকের সবুজ কোয়েকার বা মঙ্ক প্যারাকিট।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "815245ae6b90",
+    "species": "sulphur-crested-cockatoo",
+    "src": "/images/sulphur-crested-cockatoo-815245ae6b90-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/sulphur-crested-cockatoo-815245ae6b90-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/sulphur-crested-cockatoo-815245ae6b90-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/sulphur-crested-cockatoo-815245ae6b90-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "cacatua-galerita",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/cacatua-galerita.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Charles J. Sharp",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sulphur-crested_cockatoo_(Cacatua_galerita_galerita)_Sydney.jpg",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "altEn": "White sulphur-crested cockatoo among foliage.",
+    "altBn": "পাতার আড়ালে সাদা সালফার-ক্রেস্টেড কাকাতুয়া।",
+    "captionEn": "White sulphur-crested cockatoo among foliage.",
+    "captionBn": "পাতার আড়ালে সাদা সালফার-ক্রেস্টেড কাকাতুয়া।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "1d997da01f3e",
+    "species": "rose-ringed-parakeet",
+    "src": "/images/rose-ringed-parakeet-1d997da01f3e-1200.webp",
+    "width": 1200,
+    "height": 890,
+    "srcset": [
+      {
+        "src": "/images/rose-ringed-parakeet-1d997da01f3e-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/rose-ringed-parakeet-1d997da01f3e-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/rose-ringed-parakeet-1d997da01f3e-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "psittacula-krameri-manillensis",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/psittacula-krameri-manillensis.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Bernard Spragg. NZ",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_Ringneck_parrot._(Psittacula_krameri),_(9779826796).jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "altEn": "Rose-ringed parakeet showing its neck ring and red beak.",
+    "altBn": "রিংনেক টিয়ার গলার দাগ ও লাল ঠোঁটের কাছের ছবি।",
+    "captionEn": "Rose-ringed parakeet showing its neck ring and red beak.",
+    "captionBn": "রিংনেক টিয়ার গলার দাগ ও লাল ঠোঁটের কাছের ছবি।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "39515b5fdfea",
+    "species": "alexandrine-parakeet",
+    "src": "/images/alexandrine-parakeet-39515b5fdfea-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/alexandrine-parakeet-39515b5fdfea-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/alexandrine-parakeet-39515b5fdfea-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/alexandrine-parakeet-39515b5fdfea-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "psittacula-eupatria",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/psittacula-eupatria.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Hari K Patibanda",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Male_with_another_-_Alexandrine_Parakeets_(51005695606).jpg",
+    "license": "CC-BY-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "altEn": "Two Alexandrine parakeets with long tails and shoulder patches.",
+    "altBn": "লম্বা লেজ ও ডানার কাঁধের রঙিন দাগসহ দুটি চন্দনা টিয়া।",
+    "captionEn": "Two Alexandrine parakeets with long tails and shoulder patches.",
+    "captionBn": "লম্বা লেজ ও ডানার কাঁধের রঙিন দাগসহ দুটি চন্দনা টিয়া।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "ed3bdd3f40a4",
+    "species": "plum-headed-parakeet",
+    "src": "/images/plum-headed-parakeet-ed3bdd3f40a4-806.webp",
+    "width": 806,
+    "height": 600,
+    "srcset": [
+      {
+        "src": "/images/plum-headed-parakeet-ed3bdd3f40a4-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/plum-headed-parakeet-ed3bdd3f40a4-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/plum-headed-parakeet-ed3bdd3f40a4-806.webp",
+        "width": 806
+      }
+    ],
+    "sourceTaxon": "psittacula-cyanocephala",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/psittacula-cyanocephala.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "J.M.Garg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plum-headed_Parakeet_(Psittacula_cyanocephala)_in_Hyderabad_W_IMG_4536.jpg",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "altEn": "Two plum-headed parakeets with different head colours.",
+    "altBn": "ভিন্ন মাথার রঙের দুটি প্লাম-হেডেড টিয়া।",
+    "captionEn": "Two plum-headed parakeets with different head colours.",
+    "captionBn": "ভিন্ন মাথার রঙের দুটি প্লাম-হেডেড টিয়া।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "33178c65e599",
+    "species": "hill-myna",
+    "src": "/images/hill-myna-33178c65e599-1200.webp",
+    "width": 1200,
+    "height": 904,
+    "srcset": [
+      {
+        "src": "/images/hill-myna-33178c65e599-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/hill-myna-33178c65e599-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/hill-myna-33178c65e599-1200.webp",
+        "width": 1200
+      }
+    ],
+    "sourceTaxon": "gracula-religiosa",
+    "downloadUrl": "https://raw.githubusercontent.com/naanouff/OrnithoDex/4128f1a61fd5ced6d742b487c826d283762fd063/public/images/birds/gracula-religiosa.webp",
+    "sourceRepository": "https://github.com/naanouff/OrnithoDex",
+    "sourceCommit": "4128f1a61fd5ced6d742b487c826d283762fd063",
+    "licenseEvidenceUrl": "https://github.com/naanouff/OrnithoDex/blob/4128f1a61fd5ced6d742b487c826d283762fd063/README.md",
+    "creator": "Spencer Wright",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hill_Myna_(Gracula_religiosa_intermedia),_Thrigby_Hall.jpg",
+    "license": "CC-BY-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "altEn": "Hill myna showing its glossy feathers, bare yellow skin and orange-yellow beak.",
+    "altBn": "পাহাড়ি ময়নার চকচকে পালক, হলুদ উন্মুক্ত চামড়া ও কমলা-হলুদ ঠোঁট।",
+    "captionEn": "Hill myna showing its glossy feathers, bare yellow skin and orange-yellow beak.",
+    "captionBn": "পাহাড়ি ময়নার চকচকে পালক, হলুদ উন্মুক্ত চামড়া ও কমলা-হলুদ ঠোঁট।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "changeNotice": "Resized and converted to WebP.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "9e1ea07af716",
+    "species": "common-myna",
+    "src": "/images/common-myna-9e1ea07af716-512.webp",
+    "width": 512,
+    "height": 512,
+    "srcset": [
+      {
+        "src": "/images/common-myna-9e1ea07af716-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/common-myna-9e1ea07af716-512.webp",
+        "width": 512
+      }
+    ],
+    "creator": "GerifalteDelSabana",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis_@_Kuala_Lumpur_2.jpg",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "altEn": "Common myna showing its brown body, dark head and yellow facial skin.",
+    "altBn": "বাদামি শরীর, কালো মাথা ও চোখের পাশে হলুদ চামড়ার ভাতশালিক।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "sourceRepository": "https://github.com/techjewel/kiddo",
+    "sourceCommit": "fbd3ce3d01514ff009f7b4327250303c76051cf9",
+    "downloadUrl": "https://raw.githubusercontent.com/techjewel/kiddo/fbd3ce3d01514ff009f7b4327250303c76051cf9/photos/myna.jpg",
+    "licenseEvidenceUrl": "https://github.com/techjewel/kiddo/blob/fbd3ce3d01514ff009f7b4327250303c76051cf9/photos/credits.json",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "6500c2563961",
+    "species": "cockatiel",
+    "src": "/images/cockatiel-6500c2563961-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/cockatiel-6500c2563961-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/cockatiel-6500c2563961-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/cockatiel-6500c2563961-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "Jiří Mikoláš / UniverseSky / Didgeman / Deva Prasanna / Chrisad (collection credits)",
+    "creditLabelEn": "Original collection credits",
+    "creditLabelBn": "মূল সংগ্রহের ক্রেডিট",
+    "sourceUrl": "https://github.com/VillarealEric22/landing-page/blob/73d2a14a8979249757bc5fad6a50048944f4ba82/README.md",
+    "license": "Stock-source-collection",
+    "licenseUrl": "https://github.com/VillarealEric22/landing-page/blob/73d2a14a8979249757bc5fad6a50048944f4ba82/README.md",
+    "altEn": "Lutino-coloured cockatiels with pale yellow-white feathers and orange cheek patches.",
+    "altBn": "হালকা হলুদ-সাদা পালক ও কমলা গালের লুটিনো ককাটেল।",
+    "captionEn": "Lutino-coloured cockatiels with pale yellow-white feathers and orange cheek patches.",
+    "captionBn": "হালকা হলুদ-সাদা পালক ও কমলা গালের লুটিনো ককাটেল।",
+    "primary": true,
+    "varietyIds": [
+      "cockatiel-lutino"
+    ],
+    "speciesConfirmed": true,
+    "licenseConfirmed": false,
+    "sourceRepository": "https://github.com/VillarealEric22/landing-page",
+    "sourceCommit": "73d2a14a8979249757bc5fad6a50048944f4ba82",
+    "downloadUrl": "https://raw.githubusercontent.com/VillarealEric22/landing-page/73d2a14a8979249757bc5fad6a50048944f4ba82/images/eat.jpg",
+    "licenseEvidenceUrl": "https://github.com/VillarealEric22/landing-page/blob/73d2a14a8979249757bc5fad6a50048944f4ba82/README.md",
+    "changeNotice": "Resized and converted to WebP; source repository credits five stock photographers collectively. Per-file photographer mapping is not asserted.",
+    "identityCheckedAt": "2026-11-02",
+    "attributionEvidenceChecked": true,
+    "rightsStatus": "collection-credits-only",
+    "licenseEvidenceScope": "collective-readme-not-per-file"
+  },
+  {
+    "id": "1ab4b0823140",
+    "species": "cockatiel",
+    "src": "/images/cockatiel-1ab4b0823140-1200.webp",
+    "width": 1200,
+    "height": 1812,
+    "srcset": [
+      {
+        "src": "/images/cockatiel-1ab4b0823140-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/cockatiel-1ab4b0823140-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/cockatiel-1ab4b0823140-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "Jiří Mikoláš / UniverseSky / Didgeman / Deva Prasanna / Chrisad (collection credits)",
+    "creditLabelEn": "Original collection credits",
+    "creditLabelBn": "মূল সংগ্রহের ক্রেডিট",
+    "sourceUrl": "https://github.com/VillarealEric22/landing-page/blob/73d2a14a8979249757bc5fad6a50048944f4ba82/README.md",
+    "license": "Stock-source-collection",
+    "licenseUrl": "https://github.com/VillarealEric22/landing-page/blob/73d2a14a8979249757bc5fad6a50048944f4ba82/README.md",
+    "altEn": "A pale yellow-white lutino-coloured cockatiel, showing most of the body.",
+    "altBn": "লুটিনো ককাটেলের হালকা হলুদ-সাদা শরীর ও কমলা গাল।",
+    "captionEn": "A pale yellow-white lutino-coloured cockatiel, showing most of the body.",
+    "captionBn": "লুটিনো ককাটেলের হালকা হলুদ-সাদা শরীর ও কমলা গাল।",
+    "primary": false,
+    "varietyIds": [
+      "cockatiel-lutino"
+    ],
+    "speciesConfirmed": true,
+    "licenseConfirmed": false,
+    "sourceRepository": "https://github.com/VillarealEric22/landing-page",
+    "sourceCommit": "73d2a14a8979249757bc5fad6a50048944f4ba82",
+    "downloadUrl": "https://raw.githubusercontent.com/VillarealEric22/landing-page/73d2a14a8979249757bc5fad6a50048944f4ba82/images/sing.jpg",
+    "licenseEvidenceUrl": "https://github.com/VillarealEric22/landing-page/blob/73d2a14a8979249757bc5fad6a50048944f4ba82/README.md",
+    "changeNotice": "Resized and converted to WebP; source repository credits five stock photographers collectively. Per-file photographer mapping is not asserted.",
+    "identityCheckedAt": "2026-11-02",
+    "attributionEvidenceChecked": true,
+    "rightsStatus": "collection-credits-only",
+    "licenseEvidenceScope": "collective-readme-not-per-file"
+  },
+  {
+    "id": "da3bd1ffe8a2",
+    "species": "rainbow-lorikeet",
+    "src": "/images/rainbow-lorikeet-da3bd1ffe8a2-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/rainbow-lorikeet-da3bd1ffe8a2-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/rainbow-lorikeet-da3bd1ffe8a2-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/rainbow-lorikeet-da3bd1ffe8a2-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "Penelope Pitstop",
+    "sourceUrl": "https://pixabay.com/photos/lorikeet-parrot-bird-rainbow-6549172/",
+    "license": "Pixabay Content License",
+    "licenseUrl": "https://pixabay.com/service/license-summary/",
+    "altEn": "Rainbow lorikeet with a blue head, orange breast and green wings on a leafy branch.",
+    "altBn": "নীল মাথা, কমলা বুক ও সবুজ ডানার রেইনবো লরিকিট পাতাভরা ডালে বসে আছে।",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "sourceRepository": "https://github.com/TruePadawan/top-landing-Page",
+    "sourceCommit": "7da486823039fb3b4dd755642327a601ad256517",
+    "downloadUrl": "https://raw.githubusercontent.com/TruePadawan/top-landing-Page/7da486823039fb3b4dd755642327a601ad256517/resources/lorikeet.jpg",
+    "licenseEvidenceUrl": "https://github.com/TruePadawan/top-landing-Page/blob/7da486823039fb3b4dd755642327a601ad256517/README.md",
+    "changeNotice": "Resized and converted to WebP. Attribution inspected in source repository README.",
+    "identityCheckedAt": "2026-11-02",
+    "licenseEvidenceScope": "source-repository-declaration"
+  },
+  {
+    "id": "624d09836cb3",
+    "species": "japanese-quail",
+    "src": "/images/japanese-quail-624d09836cb3-612.webp",
+    "width": 612,
+    "height": 411,
+    "srcset": [
+      {
+        "src": "/images/japanese-quail-624d09836cb3-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/japanese-quail-624d09836cb3-612.webp",
+        "width": 612
+      }
+    ],
+    "creator": "Cailles du Bénin collection",
+    "creatorStatus": "source-collection-only",
+    "creditLabelBn": "উৎস: Cailles du Bénin",
+    "creditLabelEn": "Source: Cailles du Bénin",
+    "sourceUrl": "https://github.com/fred11az/cailles-du-Benin/blob/5cca147c1155908e9d375fcc79e41124e2d61f4d/public/images/hero-quail.jpg",
+    "license": "Source credit",
+    "licenseUrl": "https://github.com/fred11az/cailles-du-Benin/blob/5cca147c1155908e9d375fcc79e41124e2d61f4d/public/images/hero-quail.jpg",
+    "rightsStatus": "not-stated",
+    "sourceAttributionOnly": true,
+    "licenseConfirmed": false,
+    "speciesConfirmed": true,
+    "sourceRepository": "https://github.com/fred11az/cailles-du-Benin",
+    "sourceCommit": "5cca147c1155908e9d375fcc79e41124e2d61f4d",
+    "downloadUrl": "https://raw.githubusercontent.com/fred11az/cailles-du-Benin/5cca147c1155908e9d375fcc79e41124e2d61f4d/public/images/hero-quail.jpg",
+    "altEn": "Domestic quail showing mottled brown and cream plumage.",
+    "altBn": "বাদামি ও হালকা রঙের ছোপছোপ পালকের গৃহপালিত কোয়েল।",
+    "captionEn": "Domestic quail showing mottled brown and cream plumage.",
+    "captionBn": "বাদামি ও হালকা রঙের ছোপছোপ পালকের গৃহপালিত কোয়েল।",
+    "changeNotice": "Resized and converted to WebP. Original creator and reuse grant are not asserted; source collection is attributed. Owner requested source-attributed real photographs without waiting on further license research.",
+    "identityCheckedAt": "2026-11-02"
+  },
+  {
+    "id": "c45b13af3bdb",
+    "species": "jenday-conure",
+    "src": "/images/jenday-conure-c45b13af3bdb-450.webp",
+    "width": 450,
+    "height": 450,
+    "srcset": [
+      {
+        "src": "/images/jenday-conure-c45b13af3bdb-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/jenday-conure-c45b13af3bdb-450.webp",
+        "width": 450
+      }
+    ],
+    "creator": "squawk-a-thon photo collection",
+    "creatorStatus": "source-collection-only",
+    "creditLabelBn": "উৎস: squawk-a-thon",
+    "creditLabelEn": "Source: squawk-a-thon",
+    "sourceUrl": "https://github.com/harshiniramanan14-hash/squawk-a-thon/blob/47b0b14dbcf554a7a5276fe7a678c01d34f497b9/data/photos/jenday/6.jpeg",
+    "license": "Source credit",
+    "licenseUrl": "https://github.com/harshiniramanan14-hash/squawk-a-thon/blob/47b0b14dbcf554a7a5276fe7a678c01d34f497b9/data/photos/jenday/6.jpeg",
+    "rightsStatus": "not-stated",
+    "sourceAttributionOnly": true,
+    "licenseConfirmed": false,
+    "speciesConfirmed": true,
+    "sourceRepository": "https://github.com/harshiniramanan14-hash/squawk-a-thon",
+    "sourceCommit": "47b0b14dbcf554a7a5276fe7a678c01d34f497b9",
+    "downloadUrl": "https://raw.githubusercontent.com/harshiniramanan14-hash/squawk-a-thon/47b0b14dbcf554a7a5276fe7a678c01d34f497b9/data/photos/jenday/6.jpeg",
+    "altEn": "Jenday conure with a yellow-orange head, orange breast and green wings.",
+    "altBn": "জেনডে কনিউরের হলুদ-কমলা মাথা, কমলা বুক ও সবুজ ডানা।",
+    "captionEn": "Jenday conure with a yellow-orange head, orange breast and green wings.",
+    "captionBn": "জেনডে কনিউরের হলুদ-কমলা মাথা, কমলা বুক ও সবুজ ডানা।",
+    "changeNotice": "Resized and converted to WebP. Original creator and reuse grant are not asserted; source collection is attributed. Owner requested source-attributed real photographs without waiting on further license research.",
+    "identityCheckedAt": "2026-11-02"
+  },
+  {
+    "id": "35f2ef7e03d3",
+    "species": "timneh-grey",
+    "src": "/images/timneh-grey-35f2ef7e03d3-640.webp",
+    "width": 640,
+    "height": 426,
+    "srcset": [
+      {
+        "src": "/images/timneh-grey-35f2ef7e03d3-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/timneh-grey-35f2ef7e03d3-640.webp",
+        "width": 640
+      }
+    ],
+    "creator": "C.A.Gs source photo collection",
+    "creatorStatus": "source-collection-only",
+    "creditLabelBn": "উৎস: C.A.Gs ছবির সংগ্রহ",
+    "creditLabelEn": "Source: C.A.Gs ছবির সংগ্রহ",
+    "sourceUrl": "https://github.com/jl69lucas-netizen/congoafricangreys-com/blob/5d831ca4692d6c0d01a66300a0941d7705d3ef0f/public/timneh-african-grey-variant.webp",
+    "license": "Source credit",
+    "licenseUrl": "https://github.com/jl69lucas-netizen/congoafricangreys-com/blob/5d831ca4692d6c0d01a66300a0941d7705d3ef0f/public/timneh-african-grey-variant.webp",
+    "rightsStatus": "not-stated",
+    "sourceAttributionOnly": true,
+    "licenseConfirmed": false,
+    "speciesConfirmed": true,
+    "sourceRepository": "https://github.com/jl69lucas-netizen/congoafricangreys-com",
+    "sourceCommit": "5d831ca4692d6c0d01a66300a0941d7705d3ef0f",
+    "downloadUrl": "https://raw.githubusercontent.com/jl69lucas-netizen/congoafricangreys-com/5d831ca4692d6c0d01a66300a0941d7705d3ef0f/public/timneh-african-grey-variant.webp",
+    "altEn": "Two Timneh parrots on a person’s arm, showing dark grey plumage, maroon tails and a pale upper beak.",
+    "altBn": "মানুষের হাতে দুটি টিমনে গ্রে; গাঢ় ধূসর পালক, মেরুন লেজ ও ওপরের ঠোঁটের হালকা অংশ দেখা যাচ্ছে।",
+    "captionEn": "Two Timneh parrots on a person’s arm, showing dark grey plumage, maroon tails and a pale upper beak.",
+    "captionBn": "মানুষের হাতে দুটি টিমনে গ্রে; গাঢ় ধূসর পালক, মেরুন লেজ ও ওপরের ঠোঁটের হালকা অংশ দেখা যাচ্ছে।",
+    "changeNotice": "Resized and converted to WebP. Original creator and reuse grant are not asserted; source collection is attributed. Owner requested source-attributed real photographs without waiting on further license research.",
+    "identityCheckedAt": "2026-11-02"
+  },
+  {
+    "id": "9bf96eb305aa",
+    "species": "nanday-conure",
+    "src": "/images/nanday-conure-9bf96eb305aa-1200.webp",
+    "width": 1200,
+    "height": 1200,
+    "srcset": [
+      {
+        "src": "/images/nanday-conure-9bf96eb305aa-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/nanday-conure-9bf96eb305aa-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/nanday-conure-9bf96eb305aa-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "fuglateeh photo collection",
+    "creatorStatus": "source-collection-only",
+    "creditLabelBn": "উৎস: fuglateeh",
+    "creditLabelEn": "Source: fuglateeh",
+    "sourceUrl": "https://github.com/hippopotamus00/fuglateeh/blob/d37d9fceccb5c83be2e2f6276af42bcced133497/photos-europe/Aratinga_nenday/DSC02958.jpg",
+    "license": "Source credit",
+    "licenseUrl": "https://github.com/hippopotamus00/fuglateeh/blob/d37d9fceccb5c83be2e2f6276af42bcced133497/photos-europe/Aratinga_nenday/DSC02958.jpg",
+    "rightsStatus": "not-stated",
+    "sourceAttributionOnly": true,
+    "licenseConfirmed": false,
+    "speciesConfirmed": true,
+    "sourceRepository": "https://github.com/hippopotamus00/fuglateeh",
+    "sourceCommit": "d37d9fceccb5c83be2e2f6276af42bcced133497",
+    "downloadUrl": "https://raw.githubusercontent.com/hippopotamus00/fuglateeh/d37d9fceccb5c83be2e2f6276af42bcced133497/photos-europe/Aratinga_nenday/DSC02958.jpg",
+    "altEn": "Nanday parakeet in flight beside a palm trunk, showing green and blue wing feathers and its dark head.",
+    "altBn": "তালগাছের পাশে উড়ন্ত ন্যানডে কনিউর; মাথার গাঢ় রং ও ডানার সবুজ-নীল পালক দেখা যাচ্ছে।",
+    "captionEn": "Nanday parakeet in flight beside a palm trunk, showing green and blue wing feathers and its dark head.",
+    "captionBn": "তালগাছের পাশে উড়ন্ত ন্যানডে কনিউর; মাথার গাঢ় রং ও ডানার সবুজ-নীল পালক দেখা যাচ্ছে।",
+    "changeNotice": "Cropped, resized and converted to WebP. Original creator and reuse grant are not asserted; source collection is attributed.",
+    "cropFromOriginal": {
+      "left": 700,
+      "top": 350,
+      "width": 2000,
+      "height": 2000
+    },
+    "identityCheckedAt": "2026-11-02"
+  },
+  {
+    "id": "7b7c594fc677",
+    "species": "cockatiel",
+    "src": "/images/cockatiel-7b7c594fc677-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/cockatiel-7b7c594fc677-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/cockatiel-7b7c594fc677-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/cockatiel-7b7c594fc677-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "Jiří Mikoláš / UniverseSky / Didgeman / Deva Prasanna / Chrisad (collection credits)",
+    "creditLabelEn": "Original collection credits",
+    "creditLabelBn": "মূল সংগ্রহের ক্রেডিট",
+    "sourceUrl": "https://github.com/VillarealEric22/landing-page/blob/73d2a14a8979249757bc5fad6a50048944f4ba82/README.md",
+    "license": "Stock-source-collection",
+    "licenseUrl": "https://github.com/VillarealEric22/landing-page/blob/73d2a14a8979249757bc5fad6a50048944f4ba82/README.md",
+    "altEn": "Pied cockatiel showing irregular grey and pale yellow-white patches.",
+    "altBn": "পাইড ককাটেলের শরীরে অনিয়মিত ধূসর ও হলুদ-সাদা পালকের নকশা।",
+    "captionEn": "Pied cockatiel showing irregular grey and pale yellow-white patches.",
+    "captionBn": "পাইড ককাটেলের শরীরে অনিয়মিত ধূসর ও হলুদ-সাদা পালকের নকশা।",
+    "primary": false,
+    "varietyIds": [
+      "cockatiel-pied"
+    ],
+    "speciesConfirmed": true,
+    "licenseConfirmed": false,
+    "sourceRepository": "https://github.com/VillarealEric22/landing-page",
+    "sourceCommit": "73d2a14a8979249757bc5fad6a50048944f4ba82",
+    "downloadUrl": "https://raw.githubusercontent.com/VillarealEric22/landing-page/73d2a14a8979249757bc5fad6a50048944f4ba82/images/play.jpg",
+    "licenseEvidenceUrl": "https://github.com/VillarealEric22/landing-page/blob/73d2a14a8979249757bc5fad6a50048944f4ba82/README.md",
+    "changeNotice": "Resized and converted to WebP; source repository credits five stock photographers collectively. Per-file photographer mapping is not asserted.",
+    "identityCheckedAt": "2026-11-02",
+    "attributionEvidenceChecked": true,
+    "rightsStatus": "collection-credits-only",
+    "licenseEvidenceScope": "collective-readme-not-per-file"
   }
 ]

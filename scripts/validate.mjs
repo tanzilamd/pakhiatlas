@@ -29,9 +29,18 @@ for(const collection of [birds,wildlife]) assert.equal(new Set(collection.map(b=
 assert(!wildlife.some(w=>birds.some(b=>b.slug===w.slug)),'Native entries must stay separate from companion recommendations');
 const varieties=JSON.parse(await readFile('src/data/varieties.json','utf8'));
 varieties.forEach(v=>assert([...birds,...wildlife].some(b=>b.slug===v.species),`Unknown variety species ${v.species}`));
+assert.equal(new Set(varieties.map(v=>v.id)).size,varieties.length,'Duplicate variety id');
 const photos=JSON.parse(await readFile('src/data/photos.json','utf8'));
+assert.equal(new Set(photos.map(p=>p.id)).size,photos.length,'Duplicate photograph');
+for(const species of [...birds,...wildlife]) {
+  assert(photos.some(p=>p.species===species.slug),'Missing real photograph for '+species.slug);
+  assert(photos.filter(p=>p.species===species.slug&&p.primary).length<=1,'Multiple primary photos for '+species.slug);
+}
 for(const photo of photos) {
+  for(const id of photo.varietyIds||[]) assert(varieties.some(v=>v.id===id&&v.species===photo.species),'Invalid photograph variety '+id);
   assert([...birds,...wildlife].some(b=>b.slug===photo.species));
+  if(photo.license==='Stock-source-collection') assert(photo.licenseConfirmed===false&&photo.rightsStatus==='collection-credits-only','Do not invent per-file stock permission');
+  if(photo.license==='Source credit') assert(photo.rightsStatus==='not-stated'&&photo.licenseConfirmed===false&&photo.sourceAttributionOnly===true,'Do not invent an image reuse grant');
   for(const key of ['creator','sourceUrl','license','licenseUrl','altBn','altEn']) assert(photo[key],`Missing photo credit ${key}`);
   for(const variant of photo.srcset) {
     assert(/^\/images\/[a-z0-9-]+\.webp$/.test(variant.src),'Unsafe photo path');

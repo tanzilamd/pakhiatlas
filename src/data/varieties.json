@@ -5,8 +5,9 @@
     "bn": "ইংলিশ / এক্সিবিশন",
     "typeEn": "Domestic variety",
     "typeBn": "গৃহপালিত ধরন",
-    "noteEn": "Same species; appearance and selected body form differ.",
-    "noteBn": "একই প্রজাতি; নির্বাচিত গড়ন ও চেহারায় পার্থক্য থাকে।"
+    "noteEn": "Selected for exhibition body form and fuller head feathering. It remains the same budgerigar species.",
+    "noteBn": "প্রদর্শনীর জন্য বাছাই করা গড়ন; সাধারণ বাজরিগারের তুলনায় মাথার পালক বেশি ঘন ও চেহারা ভারী দেখাতে পারে। প্রজাতি একই।",
+    "id": "budgerigar-type-0"
   },
   {
     "species": "budgerigar",
@@ -14,8 +15,9 @@
     "bn": "লুটিনো / অ্যালবিনো",
     "typeEn": "Colour mutation",
     "typeBn": "রঙের মিউটেশন",
-    "noteEn": "Colour labels do not guarantee sex, temperament or parentage.",
-    "noteBn": "রঙের নাম দিয়ে লিঙ্গ, স্বভাব বা বংশ নিশ্চিত হয় না।"
+    "noteEn": "Lutino birds are mainly yellow; albino birds are mainly white. Both lack the usual dark plumage markings.",
+    "noteBn": "লুটিনোর শরীর মূলত হলুদ, অ্যালবিনোর মূলত সাদা। সাধারণ বাজরিগারের মতো গাঢ় পালকের নকশা থাকে না।",
+    "id": "budgerigar-type-1"
   },
   {
     "species": "budgerigar",
@@ -23,26 +25,9 @@
     "bn": "পাইড / স্প্যাঙ্গল",
     "typeEn": "Colour pattern",
     "typeBn": "রঙের নকশা",
-    "noteEn": "Patterns within budgerigars, not separate species.",
-    "noteBn": "বাজরিগারের পালকের নকশা, আলাদা প্রজাতি নয়।"
-  },
-  {
-    "species": "cockatiel",
-    "en": "Lutino / Pearl / Pied",
-    "bn": "লুটিনো / পার্ল / পাইড",
-    "typeEn": "Colour mutation",
-    "typeBn": "রঙের মিউটেশন",
-    "noteEn": "Mutation and age can complicate visual sexing.",
-    "noteBn": "মিউটেশন ও বয়সের কারণে দেখে লিঙ্গ চেনা জটিল হতে পারে।"
-  },
-  {
-    "species": "cockatiel",
-    "en": "Whiteface",
-    "bn": "হোয়াইটফেস",
-    "typeEn": "Colour mutation",
-    "typeBn": "রঙের মিউটেশন",
-    "noteEn": "A colour form within cockatiels.",
-    "noteBn": "ককাটেলের রঙের একটি ধরন।"
+    "noteEn": "Pied birds have irregular clear areas among coloured feathers. Spangle changes the pattern of wing feathers; these are different labels.",
+    "noteBn": "পাইডে রঙিন পালকের মাঝে অনিয়মিত সাদা বা হলুদ অংশ দেখা যায়। স্প্যাঙ্গলে ডানার পালকের নকশা বদলায়—নাম দুটি এক জিনিস বোঝায় না।",
+    "id": "budgerigar-type-2"
   },
   {
     "species": "green-cheeked-conure",
@@ -50,8 +35,9 @@
     "bn": "পাইনঅ্যাপল",
     "typeEn": "Colour mutation combination",
     "typeBn": "রঙের মিউটেশনের সমন্বয়",
-    "noteEn": "A green-cheeked conure colour form, not a separate conure species.",
-    "noteBn": "গ্রিন-চিকড কনিউরের রঙের ধরন, আলাদা কনিউর প্রজাতি নয়।"
+    "noteEn": "A combination colour form often showing a pale head, lighter beak and more yellow/red on the breast. Parentage records help distinguish overlapping colour forms.",
+    "noteBn": "মাথা ও ঠোঁট তুলনামূলক হালকা, বুকে হলুদ-লালের ছোঁয়া বেশি দেখা যেতে পারে। কাছাকাছি রং দেখে বিভ্রান্তি হলে বংশের নথি মিলিয়ে নিন।",
+    "id": "green-cheeked-conure-type-5"
   },
   {
     "species": "green-cheeked-conure",
@@ -59,8 +45,9 @@
     "bn": "টারকোয়েজ / সিনামন",
     "typeEn": "Colour mutation",
     "typeBn": "রঙের মিউটেশন",
-    "noteEn": "Keep species and mutation names separate in records.",
-    "noteBn": "নথিতে প্রজাতি ও মিউটেশনের নাম আলাদা রাখুন।"
+    "noteEn": "Turquoise shifts much of the body toward blue-green. Cinnamon lightens darker feather areas toward brown; these are distinct mutations and may combine.",
+    "noteBn": "টারকোয়েজে শরীরের বড় অংশ নীলচে-সবুজ দেখায়। সিনামনে গাঢ় পালক তুলনামূলক বাদামি ও হালকা হয়। দুটি আলাদা মিউটেশন; একসঙ্গেও থাকতে পারে।",
+    "id": "green-cheeked-conure-type-6"
   },
   {
     "species": "domestic-pigeon",
@@ -69,7 +56,8 @@
     "typeEn": "Domestic type",
     "typeBn": "গৃহপালিত ধরন",
     "noteEn": "Domestic pigeon types; local labels may cover different lines.",
-    "noteBn": "গৃহপালিত কবুতরের ধরন; স্থানীয় নামে ভিন্ন বংশ বোঝাতে পারে।"
+    "noteBn": "গৃহপালিত কবুতরের ধরন; স্থানীয় নামে ভিন্ন বংশ বোঝাতে পারে।",
+    "id": "domestic-pigeon-type-7"
   },
   {
     "species": "domestic-pigeon",
@@ -77,8 +65,9 @@
     "bn": "ফ্যানটেইল",
     "typeEn": "Domestic breed type",
     "typeBn": "গৃহপালিত জাতের ধরন",
-    "noteEn": "A domestic pigeon form, not a wild dove species.",
-    "noteBn": "গৃহপালিত কবুতরের ধরন, বন্য ঘুঘুর প্রজাতি নয়।"
+    "noteEn": "Recognised by the broad, raised, fan-shaped tail. It is a domestic pigeon form, not a separate wild dove species.",
+    "noteBn": "উঁচু করে ছড়ানো পাখার মতো চওড়া লেজই পরিচিত বৈশিষ্ট্য। গৃহপালিত কবুতরের ধরন; আলাদা বন্য ঘুঘুর প্রজাতি নয়।",
+    "id": "domestic-pigeon-type-8"
   },
   {
     "species": "canary",
@@ -87,7 +76,8 @@
     "typeEn": "Domestic varieties",
     "typeBn": "গৃহপালিত বিভিন্ন ধরন",
     "noteEn": "Choose for actual welfare needs rather than guaranteed song.",
-    "noteBn": "নিশ্চিত গানের আশ্বাসের বদলে নিজস্ব যত্নের চাহিদা দেখে বাছুন।"
+    "noteBn": "নিশ্চিত গানের আশ্বাসের বদলে নিজস্ব যত্নের চাহিদা দেখে বাছুন।",
+    "id": "canary-type-9"
   },
   {
     "species": "rose-ringed-parakeet",
@@ -95,7 +85,88 @@
     "bn": "লুটিনো / ব্লু রিংনেক",
     "typeEn": "Colour mutation",
     "typeBn": "রঙের মিউটেশন",
-    "noteEn": "“Yellow parrot” can mean a lutino ringneck, but can also mean another species. Establish identity first.",
-    "noteBn": "“হলুদ টিয়া” লুটিনো রিংনেক বোঝাতে পারে, আবার অন্য প্রজাতিও হতে পারে। আগে সঠিক পরিচয় জানুন।"
+    "noteEn": "Lutino ringnecks look mainly yellow, while blue forms look blue to blue-grey. A colour label alone does not establish the species.",
+    "noteBn": "লুটিনো রিংনেক প্রধানত হলুদ; ব্লু রিংনেক নীল থেকে নীলচে-ধূসর। তবে বাজারে শুধু “হলুদ টিয়া” বললে প্রজাতি নিশ্চিত হয় না—ঠোঁট, গড়ন ও পরিচয়ের নথিও মিলিয়ে নিন।",
+    "id": "rose-ringed-parakeet-type-10"
+  },
+  {
+    "id": "cockatiel-normal-grey",
+    "species": "cockatiel",
+    "en": "Normal grey",
+    "bn": "স্বাভাবিক ধূসর",
+    "typeEn": "Colour / plumage form",
+    "typeBn": "রং ও পালকের ধরন",
+    "noteEn": "Grey body, white wing patches and orange cheek areas; face colour varies with age and sex.",
+    "noteBn": "ধূসর শরীর, ডানার সাদা অংশ ও কমলা গাল। বয়স ও লিঙ্গভেদে মুখের রঙে পার্থক্য থাকে।"
+  },
+  {
+    "id": "cockatiel-lutino",
+    "species": "cockatiel",
+    "en": "Lutino",
+    "bn": "লুটিনো",
+    "typeEn": "Colour / plumage form",
+    "typeBn": "রং ও পালকের ধরন",
+    "noteEn": "Pale yellow to white body feathers with orange cheek patches. Yellow colour alone does not establish sex.",
+    "noteBn": "হালকা হলুদ থেকে সাদা শরীর ও কমলা গাল। শুধু হলুদ রং দেখে লিঙ্গ নিশ্চিত করা যায় না।"
+  },
+  {
+    "id": "cockatiel-pearl",
+    "species": "cockatiel",
+    "en": "Pearl",
+    "bn": "পার্ল",
+    "typeEn": "Colour / plumage form",
+    "typeBn": "রং ও পালকের ধরন",
+    "noteEn": "Light scalloping or pearl-like patterning across feathers. Appearance can change with maturity and other mutations.",
+    "noteBn": "পালকে হালকা ফোঁটা বা মুক্তোর মতো নকশা। বয়স ও অন্য মিউটেশনের সঙ্গে চেহারা বদলাতে পারে।"
+  },
+  {
+    "id": "cockatiel-pied",
+    "species": "cockatiel",
+    "en": "Pied",
+    "bn": "পাইড",
+    "typeEn": "Colour / plumage form",
+    "typeBn": "রং ও পালকের ধরন",
+    "noteEn": "Irregular light and darker areas; the amount and position vary between individuals.",
+    "noteBn": "শরীরে অনিয়মিত হালকা ও গাঢ় অংশ। এক পাখির নকশা আরেকটির মতো হবে এমন নয়।"
+  },
+  {
+    "id": "cockatiel-whiteface",
+    "species": "cockatiel",
+    "en": "Whiteface",
+    "bn": "হোয়াইটফেস",
+    "typeEn": "Colour / plumage form",
+    "typeBn": "রং ও পালকের ধরন",
+    "noteEn": "The usual yellow/orange face colouring is absent; it can combine with other mutations.",
+    "noteBn": "মুখের স্বাভাবিক হলুদ-কমলা রং থাকে না। অন্য মিউটেশনের সঙ্গেও এই ধরন দেখা যেতে পারে।"
+  },
+  {
+    "id": "budgerigar-natural-green",
+    "species": "budgerigar",
+    "en": "Natural green",
+    "bn": "প্রাকৃতিক সবুজ",
+    "typeEn": "Colour / plumage form",
+    "typeBn": "রং ও পালকের ধরন",
+    "noteEn": "Green body, yellow face and dark wing patterning. Exhibition size and colour mutations are separate labels.",
+    "noteBn": "সবুজ শরীর, হলুদ মুখ ও ডানায় গাঢ় নকশা। এক্সিবিশন গড়ন ও রঙের মিউটেশন আলাদা পরিচয়।"
+  },
+  {
+    "id": "gouldian-red-head",
+    "species": "gouldian-finch",
+    "en": "Red-headed Gouldian",
+    "bn": "লাল মাথার গোল্ডিয়ান",
+    "typeEn": "Colour / plumage form",
+    "typeBn": "রং ও পালকের ধরন",
+    "noteEn": "A head-colour form within the Gouldian finch species. It is not a separate species.",
+    "noteBn": "গোল্ডিয়ান ফিঞ্চের মাথার রঙের একটি ধরন; আলাদা প্রজাতি নয়।"
+  },
+  {
+    "id": "parrotlet-green-white",
+    "species": "pacific-parrotlet",
+    "en": "Green and American white",
+    "bn": "সবুজ ও আমেরিকান হোয়াইট",
+    "typeEn": "Colour / plumage form",
+    "typeBn": "রং ও পালকের ধরন",
+    "noteEn": "The source photograph shows green and American-white colour forms together; these remain Pacific parrotlets.",
+    "noteBn": "ছবিতে সবুজ ও আমেরিকান-হোয়াইট রং পাশাপাশি দেখা যায়; দুটিই প্যাসিফিক প্যারটলেট।"
   }
 ]

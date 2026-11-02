@@ -1,3 +1,13 @@
+# Image completion update — 2026-11-02
+
+This update supersedes older photo counts and zero-photo notes below. Current owner request: real attractive photographs for EVERY published bird, LUTINO cockatiel cover, no source text on cards/photos, small captions below on profile pages, visual varieties. Completed: 38 distinct photos across all 31 species, 109 WebP variants, 17 variety groups. Five cockatiel photos include lutino, normal grey and pied; lutino is the cover. No fake species artwork or AI bird photos. Shared media selector, compact PhotoCredit, visual VarietyGuide, native dialog enlargement with no-JS link fallback. Mobile TOC collapses so photographs appear sooner.
+
+Image provenance: read MEDIA_SOURCES.md. User explicitly relaxed waiting for further license research. Four source-only records have rightsStatus:not-stated and licenseConfirmed:false; never pretend they have a CC/reuse grant. Three cockatiel stock photos have collective source credits, with individual mapping unasserted. Source code collections were not executed. All bytes came from pre-existing public GitHub assets via ordinary allowed access, not a blocked-source relay.
+
+Current validation and deploy evidence: see VALIDATION.md. Use existing branch/workspace and legitimate configured owner identity. No AI coauthor, no CNAME changes.
+
+---
+
 # PakhiAtlas — continuation handoff
 
 Updated 2026-11-02. This file preserves the user’s project request, latest preferences, actual results and blockers for a new chat. Read it before making changes. Implementation baseline: `43defc8d332736c9d6811ae7c05013da6248aba5`, pushed to main. Later commits may update this handoff; inspect the actual checkout and remote first.

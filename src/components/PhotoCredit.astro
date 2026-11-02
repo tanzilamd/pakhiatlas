@@ -1,0 +1,5 @@
+---
+import {url,t,type Lang} from '../data/site';import type {Photo} from '../data/media';
+interface Props {photo:Photo;lang:Lang}const {photo:p,lang}=Astro.props;
+---
+<small class="photo-credit"><a href={p.sourceUrl}>{lang==='bn'?(p.creditLabelBn||p.creator):(p.creditLabelEn||p.creator)}</a>{p.license!=='Source credit'&&<> · <a href={p.localLicense?url(p.localLicense):p.licenseUrl}>{p.license==='Stock-source-collection'?t(lang,'Source terms','ব্যবহারবিধি'):p.license}</a></>}{p.originalCopy&&<> · <a href={url(p.originalCopy)}>{t(lang,'Original','মূল ছবি')}</a></>} · {t(lang,'WebP resize','WebP রূপান্তর')}</small>

@@ -1,36 +1,23 @@
-# Validation — 2026-11-02
+# Validation — image completion, 2026-11-02
+
+Current implementation: 26 companion profiles + 5 native profiles + 18 guides, each in Bangla and English (98 articles). 17 variety groups. All 31 bird species have real photographs: 38 distinct photos, 109 responsive WebP variants. The three cockatiel colour examples shown photographically are normal grey, lutino and pied; other unpictured varieties use descriptions, never fake images.
 
 Executed locally:
-- npm run validate:content: 34 localized articles, translation parity passed.
-- npm run check: 0 errors, 0 warnings, 0 hints on Astro 7.4.4.
-- npm run build: 52 static HTML pages, Pagefind indexes 34 articles in bn/en.
-- npm test: 1,073 internal links/assets resolve under /pakhiatlas.
-- Rebuilt with SITE_URL=https://birds.example.org and empty BASE_PATH; all link checks passed. This is a configuration test, not a live domain claim.
-- scripts/browser-test.mjs using system Chromium: viewports 360/768/1440; representative bilingual articles including budgie, green-cheeked conure and droppings; language context preserved; filters, comparison selection/cap, finder, food, unknown food, and five bilingual/alias/scientific-name search queries passed. No page errors and no document horizontal overflow on sampled routes.
-- Mobile English homepage screenshot visually inspected. Typography, layout and all representative mobile routes were checked with the automated browser. No claim of exhaustive accessibility conformance or measured Core Web Vitals.
-- npm audit: no vulnerabilities.
-- Built output about 1.9 MB.
 
-Not validated: authoritative factual source passages, photography (none included), current Bangladesh law, local availability, GitHub Actions execution, actual Pages configuration or live production URL. Network denies external source and GitHub API requests. Current drafts are not a verified public-care reference.
+- `npm run validate:content`: translation parity, known source IDs, canonical taxonomy, all-species photo coverage, unique photo/variety IDs, correct species–variety associations and honest rights-state records passed.
+- `npm run check`: 0 errors, 0 warnings, 0 hints (33 Astro files).
+- `npm run build`: 122 static HTML pages, 98 articles indexed by Pagefind in separate bn/en indexes.
+- `npm test`: 3,526 internal assets/links resolve under `/pakhiatlas`.
+- Rebuilt with `SITE_URL=https://birds.example.org BASE_PATH=''`; all 3,526 internal asset/link checks also passed at the root. This is a configuration test, not a live domain claim. Restored the normal project-subpath build afterwards.
+- `npm run test:browser`: system Chromium at 360/768/1440px, representative bilingual budgie/conure/cockatiel/droppings pages, varieties and tools; all 62 localized bird-profile routes; no document horizontal overflow on sampled routes and no page errors.
+- All 38 gallery photographs decode. Captions/credit links are present. Cockatiel card and first profile image use the primary lutino photograph. Grey/lutino variety matching is asserted; pied matching is covered by metadata validation and visual inspection. Card credit overlays are absent.
+- Photo enlargement opens with the correct image/alt, closes with Escape and restores focus. Ordinary image anchors remain usable without JavaScript. Mobile article TOC initially collapses; desktop opens it.
+- Shared-slug language switch, saved-list save/reload/locale/migration/removal, remembered root language, no-JavaScript language navigation and disabled-browser-storage fallback passed.
+- Filters, two/three-bird compare and cap, cleaning comparison notes, finder required-answer/experience/welfare paths, food checker and unknown-food fallback passed.
+- Seven Pagefind queries passed: English alias, Bangla alias, conure spelling variant, scientific name, droppings, myna and yellow-parrot queries. Search results retain the correct language and repository base.
+- Mobile bird listing, varieties and cockatiel gallery were visually inspected. Source images were opened individually; watermarked previews, wrong-species images and generated art were excluded. Cropping is documented where used.
+- `git diff --check` passed. Published build is about 11 MB; local image directory about 6.4 MB including the original GFDL JPEG.
 
-## Expanded library revision
+Limits: These are functional, visual and content-structure checks. They do not certify medical-source passages, Bangladesh availability/legal permissions, clinical review, exhaustive accessibility or measured Core Web Vitals. Explicit photo rights evidence is distinguished from collection credits/source-only records in MEDIA_SOURCES.md; not every image has a confirmed reuse grant. No permission or photographer identity is invented.
 
-20 species/domestic-lineage profiles per language; 12 guides per language (64 localized articles total). The header notice was moved to the footer, source details moved to an expandable article-end section, and native-bird notes were kept separate and concise. Three sampled English profiles remain about 600–630 words versus about 635–645 before: generic repetition was replaced by species-level identification, husbandry and reproductive considerations. No word-count target was imposed. Numerical recommended breeding ages and real licensed photographs remain explicitly incomplete due to denied reference/media access.
-
-Revised build: 82 HTML pages, 1,905 internal links/assets resolved. Chromium checks cover all 40 localized bird profiles, footer-only research notice, new family filters, comparison, finder, food and multilingual search, with representative 360/768/1440 viewport checks. No independently source-verified release is claimed.
-
-## Reader-facing editorial revision
-
-26 companion/aviary profiles + 5 native educational entries + 14 guides, each in both languages. Build: 110 static HTML pages, 90 indexed localized articles, 2 Pagefind language indexes, 2,392 internal links/assets resolved under /pakhiatlas. Browser checks cover all companion and wildlife profile routes, shared-slug language switching, 3 representative viewports, varieties, filters, compare/cleaning notes, finder, food checker and 7 multilingual searches (including myna and yellow-parrot queries). No page errors. Public draft/process labels and demo species artwork were removed; internal research records remain honest.
-
-Added attributed responsive photo-gallery/import support. No actual bird photos were downloaded: Commons and veterinary source domains remain denied by the runtime proxy. The import script passed syntax checking, but a real licensed-asset import and live gallery branch have not been validated. No source research or live deployment verification is claimed by these functional tests.
-
-Final dependency audit: zero vulnerabilities. Final root/custom-origin rebuild and default project-subpath rebuild both passed all link checks. Bangla budgerigar profile was visually inspected at 390px; removed duplicated overview text and compacted mobile quick facts. Final reading/layout adjustments retain the content body.
-
-## Real-photo and completion revision
-
-6 distinct real photo records imported, each with three local WebP sizes. Source repository commit verified, species visually inspected; original Commons pages were not fetched. Gallery/attribution tested in Chromium. Mobile Bangla homepage with real images visually inspected.
-
-122 static pages; 98 article records in two Pagefind language indexes; 3,136 internal assets/links checked in the default subpath build. Browser suite covers reading-list save/reload/localization/legacy migration/removal, real photo decoding, required finder answers and experience/welfare rules, remembered root language, no-JavaScript language navigation, storage-disabled fallback, all bird/native routes and seven multilingual searches. A search test race was fixed to await actual result links rather than loading skeletons. No test assertions were disabled.
-
-Astro check: zero errors, warnings and hints after converting OG dimension metadata to strings. Real photos are also used for accurate OG images on pictured profiles and home; 404 is noindex. Prior successful Pages runs and the configured URL were read from public GitHub web data. Direct live-host response remains unavailable because of proxy policy.
+Deployment: GitHub’s public repository metadata reports `http://tanzilahmed.tech/pakhiatlas/`. Configure-pages supplies the actual origin/base during the official Pages workflow; no CNAME/custom-domain settings were changed. Check the exact commit in Actions for deployment evidence; the final delivery report records the observed result. A direct production-host request remains subject to the environment network policy and is separate from Actions success.

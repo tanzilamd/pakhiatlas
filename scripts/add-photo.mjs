@@ -5,9 +5,12 @@ assert(species&&input&&metadata,'Usage: npm run media:add -- species-slug local-
 const birds=JSON.parse(await readFile('src/data/birds.json','utf8'));const wildlife=JSON.parse(await readFile('src/data/wildlife.json','utf8'));assert([...birds,...wildlife].some(b=>b.slug===species),'Unknown canonical species slug');
 const meta=JSON.parse(await readFile(metadata,'utf8'));
 for(const key of ['creator','sourceUrl','license','licenseUrl','altBn','altEn'])assert(typeof meta[key]==='string'&&meta[key].trim(),`Required photo metadata: ${key}`);
-assert(['CC0-1.0','CC-BY-4.0','CC-BY-SA-4.0','CC-BY-3.0','CC-BY-SA-3.0','Public domain','GFDL-1.2-only'].includes(meta.license),'Review the license; unsupported license identifier');
+assert(['CC0-1.0','CC-BY-4.0','CC-BY-SA-4.0','CC-BY-3.0','CC-BY-SA-3.0','Public domain','GFDL-1.2-only','CC-BY-2.0','CC-BY-SA-2.0','CC-BY-2.5','Stock-source-collection','Pixabay Content License','Source credit'].includes(meta.license),'Review the license; unsupported license identifier');
 for(const key of ['sourceUrl','licenseUrl'])assert(new URL(meta[key]).protocol==='https:',`${key} must use HTTPS`);
-assert(meta.speciesConfirmed===true&&meta.licenseConfirmed===true,'Inspect the species and original license before setting confirmation fields');
+assert(meta.speciesConfirmed===true,'Inspect species identity before importing');
+if(meta.license==='Source credit') assert(meta.sourceAttributionOnly===true&&meta.rightsStatus==='not-stated'&&meta.licenseConfirmed===false,'Source-only imports must record unconfirmed reuse terms honestly');
+else if(meta.license==='Stock-source-collection') assert(meta.attributionEvidenceChecked===true&&meta.rightsStatus==='collection-credits-only'&&meta.licenseConfirmed===false,'Collective credits must not masquerade as a confirmed per-file license');
+else assert(meta.licenseConfirmed===true,'Inspect the stated license evidence before importing');
 const buffer=await readFile(input);const info=await sharp(buffer).metadata();assert(['jpeg','png','webp','avif'].includes(info.format),'Use an actual raster photograph, not SVG artwork');assert(info.width>=400&&info.height>=300,'Photograph is too small');
 const id=createHash('sha256').update(buffer).digest('hex').slice(0,12);const photos=JSON.parse(await readFile('src/data/photos.json','utf8'));assert(!photos.some(p=>p.id===id),'Photo already imported');
 await mkdir('public/images',{recursive:true});const widths=[400,800,1200].filter(w=>w<=info.width);if(info.width<=1200&&!widths.includes(info.width))widths.push(info.width);if(!widths.length)widths.push(info.width);

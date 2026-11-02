@@ -6,6 +6,8 @@ Bilingual, entirely static bird encyclopedia and care reference for Bangladesh. 
 
 **Research edition, not a complete verified encyclopedia.** Twenty-six companion profiles, five native-bird identification entries and eighteen guides in both languages are presented as reader-facing articles, with internal research status recorded in docs/COVERAGE.md. Direct source research was network-blocked. No legal permission, local availability or veterinary review is claimed. See [coverage](docs/COVERAGE.md).
 
+All 31 published bird profiles have real local photographs: 38 photos, 109 responsive variants. Cockatiel uses a lutino cover; colour examples, compact below-photo credits and click-to-enlarge galleries are built in. [Photo provenance](docs/MEDIA_SOURCES.md) distinguishes explicit license evidence from source-only credits.
+
 ## Develop
 
 Node 24 and npm: `npm ci`, `npm run dev`. Validate with `npm run check`, `npm run build`, `npm test`. In restricted machines set `ASTRO_TELEMETRY_DISABLED=1`. Build generates Pagefind indexes in both languages. Preview with `npm run preview`; dev mode has no generated search index.
