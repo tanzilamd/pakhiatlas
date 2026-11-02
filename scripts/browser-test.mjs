@@ -8,7 +8,7 @@ const browser=await chromium.launch({executablePath:process.env.CHROMIUM_PATH||'
 const page=await browser.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
 for(const width of [360,768,1440]){
  await page.setViewportSize({width,height:900});
- for(const route of ['/bn/','/en/','/bn/birds/','/bn/birds/cockatiel/','/en/birds/green-cheeked-conure/','/bn/guides/droppings/','/en/guides/cockatiel-feeding/','/bn/guides/seed-mix/','/bn/tools/#compare','/bn/tools/#finder','/bn/tools/#food','/bn/tools/#budget','/bn/feeding/','/en/feeding/','/bn/sources/']){
+ for(const route of ['/bn/','/en/','/bn/birds/','/bn/birds/cockatiel/','/en/birds/green-cheeked-conure/','/bn/guides/droppings/','/en/guides/cockatiel-feeding/','/bn/guides/seed-mix/','/bn/tools/#compare','/bn/tools/#finder','/bn/tools/#food','/bn/tools/#budget','/bn/feeding/','/en/feeding/','/bn/sources/','/bn/guides/food-transition/','/en/guides/travel-care/','/bn/birds/blue-crowned-conure/','/en/birds/blue-and-yellow-macaw/']){
   await page.goto(root+route);assert(await page.locator('h1').textContent());assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`overflow ${width} ${route}`);
  }
  await page.goto(root+'/bn/birds/');await page.screenshot({path:`/tmp/pakhi-ux-explorer-${width}.png`,fullPage:true});
@@ -19,7 +19,7 @@ for(const [collection,records] of [['birds',birds],['wildlife',wildlife]])for(co
  assert.equal(await page.locator('.bird-gallery .gallery-stage img').count(),1);
  assert(!(await page.locator('main').innerText()).includes('খসড়া'));
 }
-await page.goto(root+'/bn/birds/');assert.equal(await page.locator('[data-bird]:visible').count(),birds.length+wildlife.length);assert.equal(await page.locator('.bird-card').filter({hasText:'যত্নের পরিচিতি'}).count(),0);assert.equal(await page.locator('a[href$="/varieties/"]').count(),0);
+await page.goto(root+'/bn/birds/');assert(await page.locator('.bird-card .bird-art img').first().evaluate(i=>{const p=i.parentElement.getBoundingClientRect();const r=i.getBoundingClientRect();return getComputedStyle(i).objectFit==='cover'&&Math.abs(p.width-r.width)<1&&Math.abs(p.height-r.height)<1}));assert.equal(await page.locator('[data-bird]:visible').count(),birds.length+wildlife.length);assert.equal(await page.locator('.bird-card').filter({hasText:'যত্নের পরিচিতি'}).count(),0);assert.equal(await page.locator('a[href$="/varieties/"]').count(),0);
 for(const group of ['budgies','cockatiels','conures','lovebirds']){
  await page.locator(`button[data-group="${group}"]`).click();const expected=group==='budgies'||group==='cockatiels'?1:birds.filter(b=>b.slug.includes(group==='conures'?'conure':'lovebird')).length;assert.equal(await page.locator('[data-bird]:visible').count(),expected);assert.equal(await page.locator('[name=group]').inputValue(),group);
 }
@@ -32,7 +32,7 @@ await page.goto(root+'/bn/birds/budgerigar/');assert((await page.locator('.purch
 await page.goto(root+'/bn/feeding/');assert.equal(await page.locator('[data-food]:visible').count(),26);assert.equal(await page.locator('.feeding-guides a[href$="/guides/cockatiel-feeding/"]').count(),1);await page.locator('.feeding-species a[href*="cockatiel"]').click();assert(page.url().endsWith('/birds/cockatiel/#daily-food'));
 for(const legacy of ['wildlife','varieties']){await page.goto(`${root}/bn/${legacy}/`);await page.waitForURL(root+'/bn/birds/');}
 await page.goto(root+'/bn/birds/cockatiel/');await page.locator('[data-language]').click();assert.equal(await page.locator('html').getAttribute('lang'),'en');assert(page.url().endsWith('/en/birds/cockatiel/'));
-for(const [lang,query,want] of [['en','budgie','Budgerigar'],['bn','বাজরি','বাজরিগার'],['bn','কনুর','কনিউর'],['en','Pyrrhura','Conure'],['bn','বিষ্ঠা','বিষ্ঠা'],['bn','ময়না','ময়না'],['bn','হলুদ টিয়া','টিয়া'],['bn','সিড','সিড']]){
+for(const [lang,query,want] of [['en','budgie','Budgerigar'],['bn','বাজরি','বাজরিগার'],['bn','কনুর','কনিউর'],['en','Pyrrhura','Conure'],['bn','বিষ্ঠা','বিষ্ঠা'],['bn','ময়না','ময়না'],['bn','হলুদ টিয়া','টিয়া'],['bn','সিড','সিড'],['en','Thectocercus','Conure'],['bn','ম্যাকাও','ম্যাকাও']]){
  await page.goto(`${root}/${lang}/search/?q=${encodeURIComponent(query)}`);await page.locator('.pagefind-ui__result-link').first().waitFor({timeout:15000});assert((await page.locator('.pagefind-ui__results').textContent()).includes(want));assert((await page.locator('.pagefind-ui__result-link').first().getAttribute('href')).includes(`/pakhiatlas/${lang}/`));
 }
-assert.deepEqual(errors,[]);console.log(`Browser checks passed: ${birds.length+wildlife.length} species in both languages; unified filters and legacy redirects; eight multilingual searches; all four tools and article galleries at three viewports; no page errors or sampled document overflow.`);await browser.close();
+assert.deepEqual(errors,[]);console.log(`Browser checks passed: ${birds.length+wildlife.length} species in both languages; unified filters and legacy redirects; ten multilingual searches; all four tools and article galleries at three viewports; no page errors or sampled document overflow.`);await browser.close();

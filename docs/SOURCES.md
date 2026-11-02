@@ -7,3 +7,5 @@ The pinned OrnithoDex secondary species/media records and their per-file attribu
 All per-photo evidence, original file URLs, rights limitations and rejected examples are in photos.json and MEDIA_SOURCES.md. The localized /sources/ page centralizes reader-facing research links and photograph/software credits. /media/ redirects there. Article frontmatter keeps source IDs and the internal editorial state. Centralized display is not removal of attribution or a verified-source claim.
 
 Original SVG decorative mark and labelled droppings diagram are original illustrations, not clinical photographs. No generated bird photograph is used.
+
+A manufacturer budgie50/50 canary-seed/millet composition was located in a pinned secondary source registry and read2026-11-02. Only this bounded dry-batch composition and arithmetic were added, not a veterinary formulation. Exact evidence: evidence/seed-composition-5050.json. The original manufacturer page was not directly retrieved. New photo-source declarations and rejected mismatches are documented in MEDIA_SOURCES.md.

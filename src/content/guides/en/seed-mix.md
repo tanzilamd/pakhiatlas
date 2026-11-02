@@ -1,7 +1,7 @@
 ---
 {
   "title": "Seed mixes: choosing, preparing and storing seeds",
-  "summary": "A practical process for small clean batches, identifiable ingredients and monitoring consumption without mistaking seed variety for complete nutrition.",
+  "summary": "A weighed 50/50 seed-portion example, a small-batch calculator and practical preparation, storage and monitoring steps.",
   "language": "en",
   "slug": "seed-mix",
   "reviewedAt": "2026-11-02",
@@ -9,7 +9,9 @@
     "vcacockatiel",
     "vcadiet",
     "aav",
-    "cdc"
+    "cdc",
+    "verselemix",
+    "feedcomposition"
   ],
   "contentStatus": "editorial-draft"
 }
@@ -19,7 +21,7 @@
 
 One kilogram recipe cannot be assumed appropriate for budgies, cockatiels, lovebirds and conures. Many seed types do not guarantee vitamin and mineral balance. First decide the species-appropriate staple, the role of seed and how dietary changes will be monitored.
 
-Preparing a mix is different from formulating a nutritionally complete ration. This guide covers preparation and storage, not a universal complete-food recipe.
+Preparing a mix is different from formulating a nutritionally complete ration. The calculator above scales one published budgie seed-portion composition into grams. Batch size is not a daily feeding allowance.
 
 ## Step 1: identify actual ingredients
 
@@ -50,3 +52,5 @@ Do not salvage moldy food by washing, sun-drying or mixing it with fresh seed. D
 A selective eater does not consume ingredients in the proportions present in the bowl. Remove husks, check edible food, provide separate feeding positions and monitor weight and behaviour. Never remove familiar food to starve a bird into accepting something new.
 
 Read the [cockatiel feeding guide](../cockatiel-feeding/) for vegetables, fruit, legumes and grit. Do not copy this parrot-seed approach for nectar-feeding lorikeets or quail.
+
+Use the [food-transition steps](../food-transition/) to introduce changes gradually while observing actual intake.

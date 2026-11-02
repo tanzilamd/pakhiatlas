@@ -60,6 +60,14 @@
       "timneh-grey": [
         "Dark grey with a maroon tail and a lighter upper-beak area",
         "গাঢ় ধূসর শরীর, মেরুন লেজ ও ওপরের ঠোঁটে হালকা অংশ"
+      ],
+      "blue-crowned-conure": [
+        "Green body, blue-tinged head and long tail",
+        "সবুজ শরীর, নীলচে মাথা ও লম্বা লেজ"
+      ],
+      "blue-and-yellow-macaw": [
+        "Very large parrot with blue wings, yellow breast and long tail",
+        "নীল ডানা, হলুদ বুক ও লম্বা লেজের বড় ম্যাকাও"
       ]
     },
     "sound": {
@@ -740,6 +748,34 @@
       "watchOut": [
         "Its two dark chest bands aid identification; provide compatible small companions.",
         "বুকের দুটি গাঢ় রেখা পরিচয়ের সহায়ক; মানানসই ছোট পাখির সঙ্গ দিন।"
+      ]
+    },
+    "blue-crowned-conure": {
+      "body": "blue-crowned-conure",
+      "sound": "loud",
+      "social": "bond",
+      "housing": "climb",
+      "diet": "parrot",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "intensive",
+      "watchOut": [
+        "Blue head colour is not a sign of quieter calls; plan for a conure-sized voice and daily climbing.",
+        "মাথার নীল রং দেখে নরম ডাক আশা করবেন না; কনিউরের জোরালো ডাক ও প্রতিদিন বেয়ে চলার সুযোগ ধরেই ভাবুন।"
+      ]
+    },
+    "blue-and-yellow-macaw": {
+      "body": "blue-and-yellow-macaw",
+      "sound": "loud",
+      "social": "bond",
+      "housing": "heavy",
+      "diet": "parrot",
+      "dust": "normal",
+      "cleanup": "chew",
+      "interaction": "intensive",
+      "watchOut": [
+        "A long tail and powerful beak need substantial safe space, replacement enrichment and reliable experienced care.",
+        "লম্বা লেজ ও শক্ত ঠোঁটের জন্য বড় নিরাপদ জায়গা, নিয়মিত বদলানোর খেলনা ও অভিজ্ঞ দেখাশোনা দরকার।"
       ]
     }
   }

@@ -70,16 +70,6 @@
     "id": "domestic-pigeon-type-8"
   },
   {
-    "species": "canary",
-    "en": "Song, colour and form varieties",
-    "bn": "গান, রং ও গঠনের জাত",
-    "typeEn": "Domestic varieties",
-    "typeBn": "গৃহপালিত বিভিন্ন ধরন",
-    "noteEn": "Choose for actual welfare needs rather than guaranteed song.",
-    "noteBn": "নিশ্চিত গানের আশ্বাসের বদলে নিজস্ব যত্নের চাহিদা দেখে বাছুন।",
-    "id": "canary-type-9"
-  },
-  {
     "species": "rose-ringed-parakeet",
     "en": "Lutino Ringneck",
     "bn": "লুটিনো রিংনেক",
@@ -198,5 +188,85 @@
     "typeBn": "রঙের ধরন",
     "noteEn": "Blue plumage within the ringneck species; colour does not establish age, sex or provenance.",
     "noteBn": "একই রিংনেক প্রজাতির নীল পালক; রং দিয়ে বয়স, লিঙ্গ বা উৎস নিশ্চিত হয় না।"
+  },
+  {
+    "id": "canary-white",
+    "species": "canary",
+    "en": "White",
+    "bn": "সাদা",
+    "typeEn": "Domestic colour / form",
+    "typeBn": "গৃহপালিত রং ও গড়ন",
+    "noteEn": "White body plumage with dark eyes in this example. White appearance alone does not mean albino.",
+    "noteBn": "এই ছবিতে সাদা পালক ও গাঢ় চোখ দেখা যায়। সাদা রং মানেই অ্যালবিনো নয়।"
+  },
+  {
+    "id": "canary-crested",
+    "species": "canary",
+    "en": "Crested",
+    "bn": "ঝুঁটিযুক্ত",
+    "typeEn": "Domestic colour / form",
+    "typeBn": "গৃহপালিত রং ও গড়ন",
+    "noteEn": "A rounded feather crest changes the head outline. A photograph shows appearance, not a pedigree or a promise of song.",
+    "noteBn": "মাথার গোল ঝুঁটি চেহারা আলাদা করে। ছবি থেকে গড়ন বোঝা যায়; বংশের নথি বা গানের নিশ্চয়তা পাওয়া যায় না।"
+  },
+  {
+    "id": "canary-yellow",
+    "species": "canary",
+    "en": "Yellow",
+    "bn": "হলুদ",
+    "typeEn": "Domestic colour / form",
+    "typeBn": "গৃহপালিত রং ও গড়ন",
+    "noteEn": "A familiar domestic canary colour. Colour, body form and song lines are different ways of describing domestic varieties.",
+    "noteBn": "গৃহপালিত ক্যানারির পরিচিত একটি রং। রং, শরীরের গড়ন ও গানের বংশধারা আলাদা পরিচয়।"
+  },
+  {
+    "id": "peach-faced-lovebird-lutino",
+    "species": "peach-faced-lovebird",
+    "en": "Lutino",
+    "bn": "লুটিনো",
+    "typeEn": "Colour form",
+    "typeBn": "রঙের ধরন",
+    "noteEn": "Yellow body, pale flight feathers, rosy face and reddish eyes in this example. It remains a peach-faced lovebird.",
+    "noteBn": "হলুদ শরীর, হালকা ডানার পালক, গোলাপি মুখ ও লালচে চোখ। একই পিচ-ফেসড লাভবার্ডের রঙের ধরন।"
+  },
+  {
+    "id": "peach-faced-lovebird-turquoise-pied",
+    "species": "peach-faced-lovebird",
+    "en": "Turquoise violet pied",
+    "bn": "টারকোয়েজ ভায়োলেট পাইড",
+    "typeEn": "Combined colour form",
+    "typeBn": "রঙের সমন্বয়",
+    "noteEn": "A pale face and irregular light patches on grey-blue plumage. Combined colour labels do not create another species; individual appearance varies.",
+    "noteBn": "ফ্যাকাশে মুখ ও নীলচে-ধূসর পালকের মাঝে অনিয়মিত হালকা অংশ। রঙের সমন্বয়ে নতুন প্রজাতি হয় না; পাখিভেদে নকশা বদলায়।"
+  },
+  {
+    "id": "monk-parakeet-natural",
+    "species": "monk-parakeet",
+    "en": "Natural green",
+    "bn": "প্রাকৃতিক সবুজ",
+    "typeEn": "Colour / plumage form",
+    "typeBn": "রং ও পালকের ধরন",
+    "noteEn": "Green body with a grey face and breast; the familiar wild-type appearance.",
+    "noteBn": "সবুজ শরীরের সঙ্গে ধূসর মুখ ও বুক—পরিচিত স্বাভাবিক রঙের গড়ন।"
+  },
+  {
+    "id": "monk-parakeet-blue",
+    "species": "monk-parakeet",
+    "en": "Blue",
+    "bn": "নীল",
+    "typeEn": "Colour / plumage form",
+    "typeBn": "রং ও পালকের ধরন",
+    "noteEn": "Blue body feathers and the grey face/breast pattern. It remains a monk parakeet.",
+    "noteBn": "শরীরে নীল পালক, মুখ ও বুকে ধূসর অংশ থাকে। একই মঙ্ক প্যারাকিটের রঙের ধরন।"
+  },
+  {
+    "id": "monk-parakeet-lutino",
+    "species": "monk-parakeet",
+    "en": "Lutino",
+    "bn": "লুটিনো",
+    "typeEn": "Colour / plumage form",
+    "typeBn": "রং ও পালকের ধরন",
+    "noteEn": "Predominantly yellow plumage and pale face areas in this example; colour does not establish sex or ancestry.",
+    "noteBn": "এই ছবিতে শরীর মূলত হলুদ এবং মুখের অংশ হালকা। রং দিয়ে লিঙ্গ বা বংশ নিশ্চিত হয় না।"
   }
 ]

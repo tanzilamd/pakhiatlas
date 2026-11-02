@@ -212,34 +212,6 @@
     "coverageStatus": "bilingual published profile with real photo; primary-source and local-evidence review incomplete"
   },
   {
-    "commonName": "Bourke’s Parakeet",
-    "scientificName": null,
-    "banglaName": null,
-    "aliases": [],
-    "family": null,
-    "category": "backlog",
-    "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Research captive provenance; native parakeets require particular caution",
-    "legalConcerns": "No legal permission established",
-    "sources": [],
-    "coverageStatus": "unpublished; taxonomy and sources required"
-  },
-  {
-    "commonName": "Lineolated Parakeet",
-    "scientificName": null,
-    "banglaName": null,
-    "aliases": [],
-    "family": null,
-    "category": "backlog",
-    "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Research captive provenance; native parakeets require particular caution",
-    "legalConcerns": "No legal permission established",
-    "sources": [],
-    "coverageStatus": "unpublished; taxonomy and sources required"
-  },
-  {
     "commonName": "Monk Parakeet",
     "scientificName": null,
     "banglaName": null,
@@ -316,20 +288,6 @@
       "merck"
     ],
     "coverageStatus": "bilingual published profile with real photo; primary-source and local-evidence review incomplete"
-  },
-  {
-    "commonName": "Blue-crowned Conure",
-    "scientificName": null,
-    "banglaName": null,
-    "aliases": [],
-    "family": null,
-    "category": "backlog",
-    "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Research captive provenance; native parakeets require particular caution",
-    "legalConcerns": "No legal permission established",
-    "sources": [],
-    "coverageStatus": "unpublished; taxonomy and sources required"
   },
   {
     "commonName": "Pineapple Green-cheeked Conure (mutation)",
@@ -435,20 +393,6 @@
   },
   {
     "commonName": "Ringneck Parakeet",
-    "scientificName": null,
-    "banglaName": null,
-    "aliases": [],
-    "family": null,
-    "category": "backlog",
-    "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Research captive provenance; native parakeets require particular caution",
-    "legalConcerns": "No legal permission established",
-    "sources": [],
-    "coverageStatus": "unpublished; taxonomy and sources required"
-  },
-  {
-    "commonName": "Alexandrine Parakeet",
     "scientificName": null,
     "banglaName": null,
     "aliases": [],
@@ -1080,5 +1024,41 @@
       "aav"
     ],
     "coverageStatus": "bilingual published profile with real photo; primary-source and local-evidence review incomplete"
+  },
+  {
+    "commonName": "Blue-crowned Conure",
+    "scientificName": "Thectocercus acuticaudatus",
+    "banglaName": "ব্লু-ক্রাউনড কনিউর",
+    "aliases": "নীল মাথার কনিউর blue crown blue-crowned conure Aratinga acuticaudata",
+    "family": "Psittacidae",
+    "category": "captive-research",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "not established",
+    "originConsiderations": "Documented captive origin required; no wild-caught acquisition recommendation",
+    "legalConcerns": "No local possession, breeding, sale or import permission asserted",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "trgcatalog"
+    ],
+    "coverageStatus": "bilingual introductory profile with matching real photo; primary-source and local-evidence review incomplete"
+  },
+  {
+    "commonName": "Blue-and-yellow Macaw",
+    "scientificName": "Ara ararauna",
+    "banglaName": "ব্লু-অ্যান্ড-ইয়েলো ম্যাকাও",
+    "aliases": "নীল হলুদ ম্যাকাও ব্লু গোল্ড ম্যাকাও blue gold macaw blue-and-gold macaw",
+    "family": "Psittacidae",
+    "category": "captive-research",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "not established",
+    "originConsiderations": "Documented captive origin required; no wild-caught acquisition recommendation",
+    "legalConcerns": "No local possession, breeding, sale or import permission asserted",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "parrotphotos"
+    ],
+    "coverageStatus": "bilingual introductory profile with matching real photo; primary-source and local-evidence review incomplete"
   }
 ]

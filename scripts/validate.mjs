@@ -53,3 +53,5 @@ const foods=JSON.parse(await readFile('src/data/foods.json','utf8'));for(const f
 console.log(`Validated ${total} localized articles, canonical species and translation parity; ${varieties.length} variety groups; ${photos.length} real photo records.`);
 
 const prices=JSON.parse(await readFile('src/data/prices.json','utf8'));for(const p of prices){assert(birds.some(b=>b.slug===p.species));assert(references[p.source]);assert.equal(p.currency,'BDT');assert.equal(p.unit,'bird');assert.equal(p.dhakaConfirmed,false);for(const range of p.ranges){assert(range.min>0&&range.max>=range.min);assert(range.bn&&range.en)}}
+
+const seedMixes=JSON.parse(await readFile('src/data/seed-mixes.json','utf8'));for(const mix of seedMixes){assert(birds.some(b=>b.slug===mix.species));assert(references[mix.source]&&references[mix.evidence]);assert.equal(mix.completeDiet,false,'Seed examples must not claim complete nutrition');assert.equal(mix.ingredients.reduce((n,i)=>n+i.percent,0),100);assert.equal(new Set(mix.ingredients.map(i=>i.id)).size,mix.ingredients.length);for(const i of mix.ingredients)assert(i.percent>0&&i.bn&&i.en)}

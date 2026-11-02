@@ -16,3 +16,11 @@ Published corrections, in both languages:
 - Bathing is voluntary, ventilation excludes fumes, and sun exposure requires shade and supervision.
 
 References linked: VCA Cockatiels: Feeding; VCA Birds: General Nutrition; AAV owner resources; CDC hygiene. These original reference URLs were not directly retrieved in the restricted environment. Do not claim passage-level or veterinary review. The original mixture was not republished as an endorsed complete diet. No numeric feeding dose, medicine dose or invented therapeutic claim was added.
+
+## Weighed seed-portion example — latest request
+
+The owner specifically requested ingredient quantities. A real secondary source registry in Crypto-Shroom/Bird-Feed-Calculator at bbef1a4eb7e9085c5816009b3e8b5faefaedfdf6 documents the manufacturer’s Prestige Budgies English Mixture50/50 as50% canary seed and50% millet. This record was retrieved and read on2026-11-02; its reported original URL is preserved. The manufacturer page itself was not directly retrieved.
+
+We publish only that bounded composition example and derived dry-batch arithmetic. No complete-nutrition, daily-ration, breeding-food or cross-species recommendation is inferred. In particular it is not a cockatiel formulation. Evidence and exact scope: evidence/seed-composition-5050.json; canonical data: src/data/seed-mixes.json; UI: SeedMixPlanner.astro. The previous prohibition on invented universal recipes remains in force; it does not prohibit an explicitly scoped, traceable composition example.
+
+New food-transition guidance covers actual intake, voluntary acceptance, gradual changes, body-condition observation and when assessment matters. New travel-care guidance provides caregiver notes, carrier preparation and veterinary transport without invasive care or emergency feeding instructions.

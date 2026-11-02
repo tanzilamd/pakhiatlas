@@ -1,6 +1,6 @@
 # Photograph provenance — 2026-11-02
 
-56 distinct real photographs cover every one of the 43 published species (38 companion, 5 native). They produce 157 optimized local WebP variants. All source images were opened and visually inspected; generated art, wrong-species substitutions and watermarked previews were rejected. No source-repository programs were executed. Files were ordinary pre-existing public GitHub assets; no blocked-domain requests were relayed.
+65 distinct real photographs cover every one of the 45 published species (40 companion, 5 native). They produce 180 optimized local WebP variants. All source images were opened and visually inspected; generated art, wrong-species substitutions and watermarked previews were rejected. No source-repository programs were executed. Files were ordinary pre-existing public GitHub assets; no blocked-domain requests were relayed.
 
 ## Evidence and honest rights records
 
@@ -101,3 +101,27 @@ The README collectively states Unsplash photos but does not provide per-file pho
 Rejected during this revision: fauna-atlas cockatiel sequence with signs of generated imagery (not imported); notion-clock cartoon/anime collages; lovebird calculator text thumbnails; hand-held low-resolution mutation collages unsuitable for clear body identification. Do not count them as real photographs added. Other absent mutation photos remain documented gaps.
 
 Budgie now uses the blue Alana Elliott photograph as cover; the former GFDL image remains in the gallery with full license and received original. Cockatiel cover is sing.jpg, not a food bowl view. Variety selection uses the same primary-aware ordering. Bird-card and home images preserve the full frame with contain, so crests/tails are not silently cut away.
+
+## Full-width and additional colour-form release — 2026-11-02
+
+The owner explicitly overrode letterboxed card framing. Cards/variety previews now fill their frames with cover and head-aware positioning. Profile main photographs fill the content width at natural height; the full original frame also remains in PhotoSwipe. The new relaxed upright cockatiel cover replaces the yawning sing.jpg cover. No photo was recoloured or generated.
+
+Nine additional real photographs, each opened before import:
+
+| Canonical profile | Example | Actual source evidence | Rights record |
+|---|---|---|---|
+| canary | White | allsiterepos/trg-catalog @209d16cc3aad13342138f0603847876b09a0454b, img/white-canary.jpg; catalog.json credits NEWSchr | CC BY-SA4.0 declaration |
+| canary | Crested | same commit, img/gloster-fancy-canary.jpg; Loran; representative-photo caveat retained, no pedigree guarantee | CC BY-SA3.0 declaration |
+| blue-crowned-conure | Species photograph | same commit, img/blue-crown-conure-v2.jpg; Bernard DUPONT | CC BY-SA2.0 declaration |
+| blue-and-yellow-macaw | Species photograph | RezuwanHassan262/Parrot-Species-Classifier @f318a83b92c74d912b4b594f13d097fbc1ffb977, test_images/unknown_03.jpg; README describes web-collected test photos | Source credit; original photographer/reuse terms not supplied |
+| peach-faced-lovebird | Lutino | RodrigoMoreno2001/AgapornisBootstrap @99c5e0e5b173509ce1aa01d68942ac674a8cecb1, img/lutino.jpg; html/index.html captions it Lutino; rosy face, no bare white eye ring and red eyes visually inspected | Source credit; original photographer/reuse terms not supplied |
+| peach-faced-lovebird | Turquoise violet pied | same commit, img/arlequin turquesa violeta.jpg; source caption matched; pale face/irregular patches visible | Source credit; not genotype/ancestry proof |
+| monk-parakeet | Blue | Majda1707/pokus @d5bb6c167876e52522d61dcfac70dde63807a400, obrázky/Blue.jpg; barevnemutace.html caption matched and grey monk face/blue body inspected | Source credit; original photographer/reuse terms not supplied |
+| monk-parakeet | Lutino | same commit, obrázky/Lutino.jpg; source colour-caption and visible monk body/face matched | Source credit; original photographer/reuse terms not supplied |
+| cockatiel | New lutino cover | mauricioc08/Sitas-e-Peculiar @0459c1f85d16d4854b8fc27c9aa8f2141355d1c9, img/site/brincar-corda-1600.jpg; crest, orange cheek, pale body and tail inspected | Source credit; collective Unsplash statement has no per-file author/rights evidence |
+
+Current rights totals: TWELVE Source credit records with licenseConfirmed:false and THREE Stock-source-collection records with no confirmed per-file author mapping. These are not permission grants; do not silently relabel them CC/public-domain. The remaining records retain their explicit source-repository license declarations. Original third-party pages were not retrieved. Exact pinned file, identity and rights fields remain in photos.json; all public credits are centralized on /sources/.
+
+Existing yellow canary and natural green monk photographs were linked to appropriate appearance entries, without adding duplicate species/photos. All colour records have their own stable IDs.Current canonical count is27 variety records,20 with matching photos. Seven prior gaps remain as recorded in COVERAGE.md.
+
+Rejected: a commercial site's uniform portrait series with generated-looking anatomy and toy scenes (thisaitech/Static-Aqua-E-com); the OrnithoDex black-cheeked lovebird image is a museum skin specimen, unsuitable as the requested living-bird profile photo; source-labelled albino monk image with a mismatching dark beak, not safely identifiable; cage-obscured/uncertain olive photo; watermarked or tiny lovebird mutation images; Daisy gallery pictures unsuitable for confidently identifying the missing budgie mutations. Foreign catalog images marked colour may vary were not misassigned to turquoise GCC. No watermark was removed to disguise a source.

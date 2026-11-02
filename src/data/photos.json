@@ -187,7 +187,10 @@
     "licenseEvidenceUrl": "https://github.com/mibermar/pruebaOpenCode/blob/6b2255b7eb3e8db81e4c825c9cf071b38e28e9f5/src/data/birds.ts",
     "changeNotice": "Resized and converted to WebP; no generated or replaced bird content.",
     "identityCheckedAt": "2026-11-02",
-    "licenseEvidenceScope": "source-repository-declaration"
+    "licenseEvidenceScope": "source-repository-declaration",
+    "varietyIds": [
+      "canary-yellow"
+    ]
   },
   {
     "id": "2d12cec6c9d0",
@@ -935,7 +938,10 @@
     "licenseConfirmed": true,
     "changeNotice": "Resized and converted to WebP.",
     "identityCheckedAt": "2026-11-02",
-    "licenseEvidenceScope": "source-repository-declaration"
+    "licenseEvidenceScope": "source-repository-declaration",
+    "varietyIds": [
+      "monk-parakeet-natural"
+    ]
   },
   {
     "id": "815245ae6b90",
@@ -1239,7 +1245,7 @@
     "altBn": "লুটিনো ককাটেলের হালকা হলুদ-সাদা শরীর ও কমলা গাল।",
     "captionEn": "A pale yellow-white lutino-coloured cockatiel, showing most of the body.",
     "captionBn": "লুটিনো ককাটেলের হালকা হলুদ-সাদা শরীর ও কমলা গাল।",
-    "primary": true,
+    "primary": false,
     "varietyIds": [
       "cockatiel-lutino"
     ],
@@ -1253,7 +1259,8 @@
     "identityCheckedAt": "2026-11-02",
     "attributionEvidenceChecked": true,
     "rightsStatus": "collection-credits-only",
-    "licenseEvidenceScope": "collective-readme-not-per-file"
+    "licenseEvidenceScope": "collective-readme-not-per-file",
+    "objectPosition": "50% 10%"
   },
   {
     "id": "da3bd1ffe8a2",
@@ -2031,7 +2038,8 @@
     "licenseEvidenceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/catalog.json",
     "licenseEvidenceScope": "source-repository-declaration",
     "identityCheckedAt": "2026-11-02",
-    "changeNotice": "Resized and converted to WebP."
+    "changeNotice": "Resized and converted to WebP.",
+    "objectPosition": "50% 38%"
   },
   {
     "id": "4ba37821b801",
@@ -2113,7 +2121,8 @@
     "downloadUrl": "https://raw.githubusercontent.com/mauricioc08/Sitas-e-Peculiar/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/img/site/sexagem-retrato-1600.jpg",
     "licenseEvidenceUrl": "https://github.com/mauricioc08/Sitas-e-Peculiar/blob/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/README.md",
     "identityCheckedAt": "2026-11-02",
-    "changeNotice": "Resized only; no generated or recoloured bird content. Source README names Unsplash collectively without original per-file photographer or license evidence."
+    "changeNotice": "Resized only; no generated or recoloured bird content. Source README names Unsplash collectively without original per-file photographer or license evidence.",
+    "primary": false
   },
   {
     "id": "fd76637ac497",
@@ -2157,6 +2166,365 @@
     "downloadUrl": "https://raw.githubusercontent.com/mauricioc08/Sitas-e-Peculiar/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/img/site/gaiola-limpeza-1600.jpg",
     "licenseEvidenceUrl": "https://github.com/mauricioc08/Sitas-e-Peculiar/blob/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/README.md",
     "identityCheckedAt": "2026-11-02",
-    "changeNotice": "Resized only; no generated or recoloured bird content. Source README names Unsplash collectively without original per-file photographer or license evidence."
+    "changeNotice": "Resized only; no generated or recoloured bird content. Source README names Unsplash collectively without original per-file photographer or license evidence.",
+    "primary": false
+  },
+  {
+    "id": "79c18eb19be7",
+    "species": "canary",
+    "src": "/images/canary-79c18eb19be7-608.webp",
+    "width": 608,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/canary-79c18eb19be7-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/canary-79c18eb19be7-608.webp",
+        "width": 608
+      }
+    ],
+    "creator": "NEWSchr",
+    "sourceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/img/white-canary.jpg",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "altBn": "সাদা ক্যানারি; গাঢ় চোখ ও সরু ডালে বসা শরীর দেখা যাচ্ছে।",
+    "altEn": "White canary with dark eyes, shown on a small perch.",
+    "captionBn": "সাদা ক্যানারি; গাঢ় চোখ ও সরু ডালে বসা শরীর দেখা যাচ্ছে।",
+    "captionEn": "White canary with dark eyes, shown on a small perch.",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "varietyIds": [
+      "canary-white"
+    ],
+    "sourceRepository": "https://github.com/allsiterepos/trg-catalog",
+    "sourceCommit": "209d16cc3aad13342138f0603847876b09a0454b",
+    "downloadUrl": "https://raw.githubusercontent.com/allsiterepos/trg-catalog/209d16cc3aad13342138f0603847876b09a0454b/img/white-canary.jpg",
+    "licenseEvidenceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/catalog.json",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized to responsive display copies; no generated or recoloured bird content."
+  },
+  {
+    "id": "c159036a2fbe",
+    "species": "canary",
+    "src": "/images/canary-c159036a2fbe-800.webp",
+    "width": 800,
+    "height": 588,
+    "srcset": [
+      {
+        "src": "/images/canary-c159036a2fbe-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/canary-c159036a2fbe-800.webp",
+        "width": 800
+      }
+    ],
+    "creator": "Loran",
+    "sourceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/img/gloster-fancy-canary.jpg",
+    "license": "CC-BY-SA-3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "altBn": "ঝুঁটিযুক্ত ক্যানারি; মাথার গোল পালক, ডানা ও শরীরের গড়ন দেখা যাচ্ছে।",
+    "altEn": "Crested canary showing the rounded head feathers, wings and body shape.",
+    "captionBn": "ঝুঁটিযুক্ত ক্যানারি; মাথার গোল পালক, ডানা ও শরীরের গড়ন দেখা যাচ্ছে।",
+    "captionEn": "Crested canary showing the rounded head feathers, wings and body shape.",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "varietyIds": [
+      "canary-crested"
+    ],
+    "sourceRepository": "https://github.com/allsiterepos/trg-catalog",
+    "sourceCommit": "209d16cc3aad13342138f0603847876b09a0454b",
+    "downloadUrl": "https://raw.githubusercontent.com/allsiterepos/trg-catalog/209d16cc3aad13342138f0603847876b09a0454b/img/gloster-fancy-canary.jpg",
+    "licenseEvidenceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/catalog.json",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized to responsive display copies; no generated or recoloured bird content."
+  },
+  {
+    "id": "7fc7210f6b13",
+    "species": "blue-crowned-conure",
+    "src": "/images/blue-crowned-conure-7fc7210f6b13-663.webp",
+    "width": 663,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/blue-crowned-conure-7fc7210f6b13-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/blue-crowned-conure-7fc7210f6b13-663.webp",
+        "width": 663
+      }
+    ],
+    "creator": "Bernard DUPONT from FRANCE",
+    "sourceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/img/blue-crown-conure-v2.jpg",
+    "license": "CC-BY-SA-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "altBn": "নীলচে মাথার ব্লু-ক্রাউনড কনিউর; সবুজ শরীর, ঠোঁট ও লম্বা লেজ দেখা যাচ্ছে।",
+    "altEn": "Blue-crowned conure showing its blue-tinged head, green body, beak and long tail.",
+    "captionBn": "নীলচে মাথার ব্লু-ক্রাউনড কনিউর; সবুজ শরীর, ঠোঁট ও লম্বা লেজ দেখা যাচ্ছে।",
+    "captionEn": "Blue-crowned conure showing its blue-tinged head, green body, beak and long tail.",
+    "speciesConfirmed": true,
+    "licenseConfirmed": true,
+    "primary": true,
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized only; no generated or recoloured bird content.",
+    "licenseEvidenceUrl": "https://github.com/allsiterepos/trg-catalog/blob/209d16cc3aad13342138f0603847876b09a0454b/catalog.json",
+    "licenseEvidenceScope": "source-repository-declaration",
+    "sourceCommit": "209d16cc3aad13342138f0603847876b09a0454b",
+    "sourceRepository": "https://github.com/allsiterepos/trg-catalog",
+    "objectPosition": "50% 0%"
+  },
+  {
+    "id": "6765f360efe8",
+    "species": "blue-and-yellow-macaw",
+    "src": "/images/blue-and-yellow-macaw-6765f360efe8-1023.webp",
+    "width": 1023,
+    "height": 807,
+    "srcset": [
+      {
+        "src": "/images/blue-and-yellow-macaw-6765f360efe8-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/blue-and-yellow-macaw-6765f360efe8-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/blue-and-yellow-macaw-6765f360efe8-1023.webp",
+        "width": 1023
+      }
+    ],
+    "creator": "Source: Parrot Species Classifier test collection; photographer not supplied",
+    "sourceUrl": "https://github.com/RezuwanHassan262/Parrot-Species-Classifier/blob/f318a83b92c74d912b4b594f13d097fbc1ffb977/test_images/unknown_03.jpg",
+    "license": "Source credit",
+    "licenseUrl": "https://github.com/RezuwanHassan262/Parrot-Species-Classifier/blob/f318a83b92c74d912b4b594f13d097fbc1ffb977/README.md",
+    "altBn": "ডালে বসা ব্লু-অ্যান্ড-ইয়েলো ম্যাকাও; নীল ডানা, হলুদ বুক ও লম্বা লেজ দেখা যাচ্ছে।",
+    "altEn": "Blue-and-yellow macaw on a branch, with blue wings, yellow breast and a long tail.",
+    "captionBn": "ডালে বসা ব্লু-অ্যান্ড-ইয়েলো ম্যাকাও; নীল ডানা, হলুদ বুক ও লম্বা লেজ দেখা যাচ্ছে।",
+    "captionEn": "Blue-and-yellow macaw on a branch, with blue wings, yellow breast and a long tail.",
+    "speciesConfirmed": true,
+    "licenseConfirmed": false,
+    "primary": true,
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized only; no generated or recoloured bird content.",
+    "rightsStatus": "not-stated",
+    "sourceAttributionOnly": true,
+    "sourceCommit": "f318a83b92c74d912b4b594f13d097fbc1ffb977",
+    "sourceRepository": "https://github.com/RezuwanHassan262/Parrot-Species-Classifier"
+  },
+  {
+    "id": "af42bf007087",
+    "species": "peach-faced-lovebird",
+    "src": "/images/peach-faced-lovebird-af42bf007087-1200.webp",
+    "width": 1200,
+    "height": 1800,
+    "srcset": [
+      {
+        "src": "/images/peach-faced-lovebird-af42bf007087-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/peach-faced-lovebird-af42bf007087-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/peach-faced-lovebird-af42bf007087-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "Source: RodrigoMoreno2001 / AgapornisBootstrap; photographer not supplied",
+    "creditLabelEn": "AgapornisBootstrap photo collection",
+    "creditLabelBn": "আগাপর্নিস বুটস্ট্র্যাপ ছবির সংগ্রহ",
+    "sourceUrl": "https://github.com/RodrigoMoreno2001/AgapornisBootstrap/blob/99c5e0e5b173509ce1aa01d68942ac674a8cecb1/img/lutino.jpg",
+    "license": "Source credit",
+    "licenseUrl": "https://github.com/RodrigoMoreno2001/AgapornisBootstrap/blob/99c5e0e5b173509ce1aa01d68942ac674a8cecb1/html/index.html",
+    "sourceAttributionOnly": true,
+    "rightsStatus": "not-stated",
+    "licenseConfirmed": false,
+    "speciesConfirmed": true,
+    "varietyIds": [
+      "peach-faced-lovebird-lutino"
+    ],
+    "altBn": "লুটিনো পিচ-ফেসড লাভবার্ডের হলুদ শরীর, গোলাপি মুখ, লালচে চোখ ও লম্বাটে ডানার পালক।",
+    "altEn": "Lutino peach-faced lovebird showing its yellow body, rosy face, reddish eyes and pale flight feathers.",
+    "captionBn": "লুটিনো পিচ-ফেসড লাভবার্ডের হলুদ শরীর, গোলাপি মুখ, লালচে চোখ ও লম্বাটে ডানার পালক।",
+    "captionEn": "Lutino peach-faced lovebird showing its yellow body, rosy face, reddish eyes and pale flight feathers.",
+    "sourceRepository": "https://github.com/RodrigoMoreno2001/AgapornisBootstrap",
+    "sourceCommit": "99c5e0e5b173509ce1aa01d68942ac674a8cecb1",
+    "downloadUrl": "https://raw.githubusercontent.com/RodrigoMoreno2001/AgapornisBootstrap/99c5e0e5b173509ce1aa01d68942ac674a8cecb1/img/lutino.jpg",
+    "identityCheckedAt": "2026-11-02",
+    "identityEvidenceUrl": "https://github.com/RodrigoMoreno2001/AgapornisBootstrap/blob/99c5e0e5b173509ce1aa01d68942ac674a8cecb1/html/index.html",
+    "changeNotice": "Resized only; original bird colours and anatomy retained. Source page captions matched; no per-file photographer or reuse terms supplied."
+  },
+  {
+    "id": "2d70faed95d6",
+    "species": "peach-faced-lovebird",
+    "src": "/images/peach-faced-lovebird-2d70faed95d6-1080.webp",
+    "width": 1080,
+    "height": 1422,
+    "srcset": [
+      {
+        "src": "/images/peach-faced-lovebird-2d70faed95d6-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/peach-faced-lovebird-2d70faed95d6-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/peach-faced-lovebird-2d70faed95d6-1080.webp",
+        "width": 1080
+      }
+    ],
+    "creator": "Source: RodrigoMoreno2001 / AgapornisBootstrap; photographer not supplied",
+    "creditLabelEn": "AgapornisBootstrap photo collection",
+    "creditLabelBn": "আগাপর্নিস বুটস্ট্র্যাপ ছবির সংগ্রহ",
+    "sourceUrl": "https://github.com/RodrigoMoreno2001/AgapornisBootstrap/blob/99c5e0e5b173509ce1aa01d68942ac674a8cecb1/img/arlequin%20turquesa%20violeta.jpg",
+    "license": "Source credit",
+    "licenseUrl": "https://github.com/RodrigoMoreno2001/AgapornisBootstrap/blob/99c5e0e5b173509ce1aa01d68942ac674a8cecb1/html/index.html",
+    "sourceAttributionOnly": true,
+    "rightsStatus": "not-stated",
+    "licenseConfirmed": false,
+    "speciesConfirmed": true,
+    "varietyIds": [
+      "peach-faced-lovebird-turquoise-pied"
+    ],
+    "altBn": "টারকোয়েজ ভায়োলেট পাইড পিচ-ফেসড লাভবার্ড; হালকা মুখ ও শরীরে ফ্যাকাশে ছোপ দেখা যাচ্ছে।",
+    "altEn": "Turquoise violet pied peach-faced lovebird, showing a pale face and irregular lighter body patches.",
+    "captionBn": "টারকোয়েজ ভায়োলেট পাইড পিচ-ফেসড লাভবার্ড; হালকা মুখ ও শরীরে ফ্যাকাশে ছোপ দেখা যাচ্ছে।",
+    "captionEn": "Turquoise violet pied peach-faced lovebird, showing a pale face and irregular lighter body patches.",
+    "sourceRepository": "https://github.com/RodrigoMoreno2001/AgapornisBootstrap",
+    "sourceCommit": "99c5e0e5b173509ce1aa01d68942ac674a8cecb1",
+    "downloadUrl": "https://raw.githubusercontent.com/RodrigoMoreno2001/AgapornisBootstrap/99c5e0e5b173509ce1aa01d68942ac674a8cecb1/img/arlequin%20turquesa%20violeta.jpg",
+    "identityCheckedAt": "2026-11-02",
+    "identityEvidenceUrl": "https://github.com/RodrigoMoreno2001/AgapornisBootstrap/blob/99c5e0e5b173509ce1aa01d68942ac674a8cecb1/html/index.html",
+    "changeNotice": "Resized only; original bird colours and anatomy retained. Source page captions matched; no per-file photographer or reuse terms supplied."
+  },
+  {
+    "id": "f938ade74f96",
+    "species": "monk-parakeet",
+    "src": "/images/monk-parakeet-f938ade74f96-778.webp",
+    "width": 778,
+    "height": 600,
+    "srcset": [
+      {
+        "src": "/images/monk-parakeet-f938ade74f96-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/monk-parakeet-f938ade74f96-778.webp",
+        "width": 778
+      }
+    ],
+    "creator": "Source: Majda1707 / monk-parakeet colour gallery; photographer not supplied",
+    "sourceUrl": "https://github.com/Majda1707/pokus/blob/d5bb6c167876e52522d61dcfac70dde63807a400/obr%C3%A1zky/Blue.jpg",
+    "license": "Source credit",
+    "licenseUrl": "https://github.com/Majda1707/pokus/blob/d5bb6c167876e52522d61dcfac70dde63807a400/barevnemutace.html",
+    "licenseConfirmed": false,
+    "sourceAttributionOnly": true,
+    "rightsStatus": "not-stated",
+    "speciesConfirmed": true,
+    "varietyIds": [
+      "monk-parakeet-blue"
+    ],
+    "altBn": "নীল কোয়াকার বা মঙ্ক প্যারাকিট; ধূসর মুখ ও নীল শরীর দেখা যাচ্ছে।",
+    "altEn": "Blue monk parakeet, showing the grey face and blue body.",
+    "captionBn": "নীল কোয়াকার বা মঙ্ক প্যারাকিট; ধূসর মুখ ও নীল শরীর দেখা যাচ্ছে।",
+    "captionEn": "Blue monk parakeet, showing the grey face and blue body.",
+    "sourceRepository": "https://github.com/Majda1707/pokus",
+    "sourceCommit": "d5bb6c167876e52522d61dcfac70dde63807a400",
+    "downloadUrl": "https://raw.githubusercontent.com/Majda1707/pokus/d5bb6c167876e52522d61dcfac70dde63807a400/obr%C3%A1zky/Blue.jpg",
+    "identityCheckedAt": "2026-11-02",
+    "identityEvidenceUrl": "https://github.com/Majda1707/pokus/blob/d5bb6c167876e52522d61dcfac70dde63807a400/barevnemutace.html",
+    "changeNotice": "Resized only; source colour-caption and visible species matched. Original author/reuse terms not supplied."
+  },
+  {
+    "id": "698c5bc75487",
+    "species": "monk-parakeet",
+    "src": "/images/monk-parakeet-698c5bc75487-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      {
+        "src": "/images/monk-parakeet-698c5bc75487-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/monk-parakeet-698c5bc75487-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/monk-parakeet-698c5bc75487-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "Source: Majda1707 / monk-parakeet colour gallery; photographer not supplied",
+    "sourceUrl": "https://github.com/Majda1707/pokus/blob/d5bb6c167876e52522d61dcfac70dde63807a400/obr%C3%A1zky/Lutino.jpg",
+    "license": "Source credit",
+    "licenseUrl": "https://github.com/Majda1707/pokus/blob/d5bb6c167876e52522d61dcfac70dde63807a400/barevnemutace.html",
+    "licenseConfirmed": false,
+    "sourceAttributionOnly": true,
+    "rightsStatus": "not-stated",
+    "speciesConfirmed": true,
+    "varietyIds": [
+      "monk-parakeet-lutino"
+    ],
+    "altBn": "ডালে বসা হলুদ লুটিনো মঙ্ক প্যারাকিট; পাশে একই রঙের অন্য পাখি।",
+    "altEn": "Yellow lutino monk parakeets on a branch, showing the body colour and pale face areas.",
+    "captionBn": "ডালে বসা হলুদ লুটিনো মঙ্ক প্যারাকিট; পাশে একই রঙের অন্য পাখি।",
+    "captionEn": "Yellow lutino monk parakeets on a branch, showing the body colour and pale face areas.",
+    "sourceRepository": "https://github.com/Majda1707/pokus",
+    "sourceCommit": "d5bb6c167876e52522d61dcfac70dde63807a400",
+    "downloadUrl": "https://raw.githubusercontent.com/Majda1707/pokus/d5bb6c167876e52522d61dcfac70dde63807a400/obr%C3%A1zky/Lutino.jpg",
+    "identityCheckedAt": "2026-11-02",
+    "identityEvidenceUrl": "https://github.com/Majda1707/pokus/blob/d5bb6c167876e52522d61dcfac70dde63807a400/barevnemutace.html",
+    "changeNotice": "Resized only; source colour-caption and visible species matched. Original author/reuse terms not supplied."
+  },
+  {
+    "id": "75e3cc8f2973",
+    "species": "cockatiel",
+    "src": "/images/cockatiel-75e3cc8f2973-1200.webp",
+    "width": 1200,
+    "height": 1500,
+    "srcset": [
+      {
+        "src": "/images/cockatiel-75e3cc8f2973-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/cockatiel-75e3cc8f2973-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/cockatiel-75e3cc8f2973-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "Unsplash collection credited by Sitas&Peculiar; individual photographer not supplied",
+    "sourceUrl": "https://github.com/mauricioc08/Sitas-e-Peculiar/blob/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/img/site/brincar-corda-1600.jpg",
+    "license": "Source credit",
+    "licenseUrl": "https://github.com/mauricioc08/Sitas-e-Peculiar/blob/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/README.md",
+    "sourceAttributionOnly": true,
+    "rightsStatus": "not-stated",
+    "licenseConfirmed": false,
+    "speciesConfirmed": true,
+    "primary": true,
+    "objectPosition": "50% 0%",
+    "varietyIds": [
+      "cockatiel-lutino"
+    ],
+    "altBn": "লুটিনো ককাটেল; হলুদ ঝুঁটি, কমলা গাল, হালকা শরীর ও পুরো লেজ ডালে বসা অবস্থায় দেখা যাচ্ছে।",
+    "altEn": "Lutino cockatiel on a perch, showing the yellow crest, orange cheek, pale body and full tail.",
+    "captionBn": "লুটিনো ককাটেলের ঝুঁটি, শরীর ও লম্বা লেজ।",
+    "captionEn": "A clear view of the lutino cockatiel’s crest, body and long tail.",
+    "sourceRepository": "https://github.com/mauricioc08/Sitas-e-Peculiar",
+    "sourceCommit": "0459c1f85d16d4854b8fc27c9aa8f2141355d1c9",
+    "downloadUrl": "https://raw.githubusercontent.com/mauricioc08/Sitas-e-Peculiar/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/img/site/brincar-corda-1600.jpg",
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized only. Source collection credits Unsplash but supplies no per-file author or reuse evidence."
   }
 ]

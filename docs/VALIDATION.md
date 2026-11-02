@@ -1,36 +1,28 @@
-# Validation — feeding, photo and filtering revision, 2026-11-02
+# Validation — full-width photos, colour forms and seed weights, 2026-11-02
 
-Current library: 38 companion + 5 native species and 21 guides, EACH in bn/en: 128 localized articles. 43 unique species, all photographed; 56 distinct photos / 157 responsive variants; 20 in-profile variety records; 26 foods. PhotoSwipe 5.4.4 is pinned and local.
+Current library:40 companion +5 native species and23 guides, EACH in bn/en:136 localized articles.45 unique species, all photographed;65 distinct photos/180 responsive variants;27 in-profile colour/variety records,20 pictured;26 foods. Dependencies remain pinned and unchanged.
 
-Executed successfully for this revision:
+Executed successfully:
 
-- `npm run validate:content`: bilingual parity, valid reference IDs, canonical species, unique and correctly associated varieties/photos, every species photographed, honest rights records, complete care traits, food groups/categories and scoped price records.
-- `npm run check`: 0 errors, warnings or hints across 41 Astro files.
-- `npm run build`: 154 static HTML files; Pagefind indexes 128 articles in two languages. No server/runtime backend.
-- `npm test`: 4,744 local links/assets resolve under `/pakhiatlas`, including relative Markdown links.
-- Separate `SITE_URL=https://birds.example.org BASE_PATH=''` build and all 4,744 root-path checks passed. The normal project-base build was restored before browser tests. This tests configuration, not a real domain.
-- `npm run test:browser`: all 86 localized species routes, galleries and context-preserving language links. At 360/768/1440px representative home, explorer, profiles, droppings/feeding/seed guides, all tools, the new Feeding hub and centralized sources page had no sampled document overflow or page errors.
-- Explorer: all 43 records; synchronized priority-group shortcuts/select; finch/dove/quail/native groups; sound and size combined; text/alias queries; reset and empty state. “আগে দেখুন” and generic care-overview card tags are absent. Old wildlife/variety indexes redirect.
-- Eight Pagefind searches in English/Bangla, including aliases, scientific names, myna, yellow parrot and seed mix, passed with correct language/base result links.
-- All four priority profiles have stable food anchors and expanded chapters in bn/en. Feeding hub links reach those chapters, and cockatiel/seed-mix guides are prominent. Blue budgie cover and published budget scope/amount asserted.
-- Food list shows all 26 entries initially. Bengali spinach query, grit and herbal-use qualifications, unknown-food empty state, combined fruit/danger filters and reset passed. Canned keyword buttons were removed; duplicate banana/papaya entries consolidated.
-- All 56 photos decoded with the expected selected-photo alt text/caption. No external credit links remain in gallery captions. Sources page has a per-image credit entry, exact source links, full GFDL text and received-original link.
-- PhotoSwipe: open/next/zoom/Escape/focus restoration and thumbnail synchronization passed. Cockatiel lutino cover and at least 24px gallery/fact separation asserted. All five cockatiel variety cards have real photo links; each opens the corresponding PhotoSwipe item.
-- Comparison: three defaults, useful dust differences, shared-row visibility, optional third bird and duplicate rejection. Finder: explicit answers; experience/noise/dust preferences; silent-home and inadequate-care readiness gates. Budget: user-entered taka arithmetic and reset. No test value is represented as a market price.
-- Bookmark save/reload/language/legacy migration/removal, root language preference, no-JS photo/language links and storage-disabled fallback passed. Tools preserve the selected budget tab across language switch.
-- Mobile and desktop home, explorer, Feeding hub, cockatiel profile/varieties and sources screenshots inspected. Full-frame card/home images and primary-aware variety selection corrected after visual review. No claim of exhaustive accessibility certification, real-device gesture testing or measured Core Web Vitals.
-- `git diff --check` passed. Static output about 15MB; images about 9.7MB including the GFDL original. No dependency changes in this revision; the previous pinned-dependency production audit reported zero vulnerabilities.
+- `npm run validate:content`: language parity; canonical identities and no companion/native duplicates; unique photos/varieties and valid associations; honest source-only/collective rights records; complete comparison traits; food groups/categories/source IDs; price scope; seed-example species/source IDs, positive shares summing100 and completeDiet:false.
+- `npm run check`:0 errors, warnings or hints across42 Astro files.
+- `npm run build`:162 static HTML files;136 articles indexed in two Pagefind languages. No server/runtime backend.
+- `npm test`:5,120 local links/assets resolve under `/pakhiatlas`, including relative Markdown links. A separate `SITE_URL=https://birds.example.org BASE_PATH=''` build passed all5,120 root-path checks, then project-subpath output was restored. This tests configuration, not a real domain.
+- `npm run test:browser`:all90 localized species routes, full-width profile galleries, context-preserving language links, legacy index redirects and ten English/Bangla/scientific/alias searches. New Thectocercus and Bengali macaw queries passed with language/base-aware result links.
+- Representative home, explorer, core profiles, droppings/feeding/seed guides, new species, new food-transition/travel guides, all tools, Feeding hub and sources at360/768/1440px: no sampled horizontal document overflow or page errors.
+- Full-frame cards:computed cover mode and image/container width AND height match, preventing the screenshot's side gutters. Profile photos use width100% and natural height; full original frames remain in the viewer. Screenshots of card grid, seed table, lovebird/monk varieties and macaw page inspected at all three widths. Relaxed lutino cover replaced the yawning cover.
+- All65 gallery photographs decoded with expected selected-photo identity/caption. PhotoSwipe open/next/zoom/Escape/focus restoration, thumbnail sync, minimum24px gallery/facts separation and all five cockatiel variety links passed. Both new peach-faced-lovebird variety links open the correct viewer photo.
+- Seed selector tested in bn/en:250g→125+125g;2000g→1000+1000g; localized totals correct and species/complete-food limitation present. Initial1000g table is statically rendered. Without JS the selector stays disabled and the1000g total remains correct; it cannot display a changed batch choice with stale quantities.
+- Print media verified:main gallery image height200px, avoiding a full-page portrait printout.
+- Explorer filters:all45 records; group shortcut/select sync; family-equivalent group choices; combined sound/size; names/aliases; reset and empty state. No “আগে দেখুন”, generic care-overview card tag or duplicate mutation index.
+- Comparison:three defaults, useful species traits, shared-row visibility, optional third bird and duplicate rejection. Finder:required answers, experience/noise/dust preferences, silent-home and insufficient-care gates. Food:all26 initially, name queries and safety qualifications, unknown-food state, combined fruit/danger filters and reset. Budget:user-entered taka arithmetic and reset, without treating test values as market prices.
+- Bookmarks:save/reload/language/legacy migration/removal; root language preference; no-JS localized/native image links; storage-disabled fallback; tools' cross-language budget-tab context. No page errors.
+- `git diff --check` passed. Static output about17MB; images about11MB including GFDL original. No dependency changes; prior production dependency audit reported0 vulnerabilities. No measured Core Web Vitals or exhaustive accessibility/gesture certification is claimed.
 
-Research limits: original veterinary-source passages and current Dhaka market quotations remain inaccessible. No clinical review or current Dhaka survey is claimed. One actual archived secondary Bangladesh budgie range is published with historic period, per-adult-bird unit and explicit scope. Other numeric species prices and some morph photos remain incomplete. Six source-only and three collective-stock-credit photographs lack confirmed per-file reuse evidence; see MEDIA_SOURCES.md.
+Evidence limits remain explicit in development records:primary clinical-source review and current Dhaka price survey are incomplete. The50/50 seed example is secondary manufacturer-composition evidence for budgies only, not a clinically balanced formula, daily ration or cockatiel recipe. Twelve source-only and three collective-stock-credit photos lack confirmed per-file reuse evidence. See MEDIA_SOURCES.md and evidence/seed-composition-5050.json.
 
-Deployment uses the official configure-pages/upload-pages-artifact/deploy-pages workflow. No custom-domain setting changed. GitHub reports http://tanzilahmed.tech/pakhiatlas/; direct production-host requests remain network-limited. Exact commit and Actions evidence are recorded in the release note below, separately from local browser verification.
+Photo coverage:20/27 variety groups pictured. Seven gaps remain:budgie English/exhibition, ino and pied/spangle; turquoise GCC; Giribaz/Tumbler and Fantail pigeon; lutino ringneck. Unpictured forms use compact editorial notes, not empty image cards or generated substitutes.
 
-## Verified implementation deployment
+GitHub Pages uses unchanged official configure-pages/upload-pages-artifact/deploy-pages actions, with real origin/base outputs. No CNAME/custom-domain setting was changed. Actual GitHub-reported Pages URL:http://tanzilahmed.tech/pakhiatlas/. Local browser checks are separate from production-host verification, which the runner's proxy has denied.
 
-- Implementation commit: `dbe552a2aeb0c17081010a9440e3130347ba1dc0`.
-- Official Pages run: https://github.com/tanzilamd/pakhiatlas/actions/runs/41470754419 — exact commit matched from public Actions data; completed with SUCCESS on 2026-11-02.
-- The run page reports the production URL as http://tanzilahmed.tech/pakhiatlas/.
-- Direct HTTPS request to the production /bn/ route was attempted after push and denied by the environment proxy (CONNECT 403). The production host was not browser-loaded here; local preview functional verification and GitHub deployment success are separate evidence.
-- Subsequent documentation-only commits record this observed deployment; they do not change the implementation above.
-
-Photo coverage detail: 12 of 20 in-profile variety groups have matching photographs. All five cockatiel groups are pictured; eight other variety groups remain without examples (budgie exhibition/ino/pied-spangle, turquoise GCC, Giribaz/Tumbler, Fantail, canary varieties and lutino ringneck). All 43 canonical species have photographs. No missing example is shown as a generated or wrong-species substitute.
+Previous observed deployment:a88dce6794ee13aebe7cea1c9e39920bb046d941, run https://github.com/tanzilamd/pakhiatlas/actions/runs/41471140633, SUCCESS. This historical success does not establish the status of a newer commit; verify the exact pushed commit's run.

@@ -1,0 +1,37 @@
+{
+  "claim": "Published manufacturer budgie seed-mix example contains 50% canary seed and 50% millet by weight.",
+  "scope": "Commercial composition example, not complete nutrition, a daily ration or a formula for other species.",
+  "manufacturerUrl": "https://www.versele.com/en/gb/prestige/products/prestige-budgiesenglishmixture5050",
+  "secondaryEvidenceUrl": "https://github.com/Crypto-Shroom/Bird-Feed-Calculator/blob/bbef1a4eb7e9085c5816009b3e8b5faefaedfdf6/database/provenance/sources.json",
+  "secondaryRecordId": "versele-budgies-english-mixture-5050-2026",
+  "secondaryRecordReadAt": "2026-11-02",
+  "manufacturerRetrievedDirectly": false,
+  "evidenceType": "secondary record of manufacturer composition",
+  "derivedBatchExamplesGrams": [
+    {
+      "batch": 250,
+      "canarySeed": 125,
+      "millet": 125
+    },
+    {
+      "batch": 500,
+      "canarySeed": 250,
+      "millet": 250
+    },
+    {
+      "batch": 1000,
+      "canarySeed": 500,
+      "millet": 500
+    },
+    {
+      "batch": 2000,
+      "canarySeed": 1000,
+      "millet": 1000
+    }
+  ],
+  "limits": [
+    "No clinical trial or individual feeding recommendation inferred.",
+    "No universal cockatiel seed formulation supplied.",
+    "No vitamins, mineral supplements or medication mixed by guessed dose."
+  ]
+}

@@ -65,3 +65,5 @@ Offer bathing according to preference and conditions without forcibly soaking a 
 - Have behaviour, weight trends or droppings changed persistently?
 
 Stopping eating, weakness or breathing difficulty needs prompt veterinary assessment rather than continued diet experiments. Read the [seed-mix guide](../seed-mix/) for preparation and storage.
+
+Use the [food-transition steps](../food-transition/) to introduce changes gradually while observing actual intake.

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "budgie-5050",
+    "species": "budgerigar",
+    "titleEn": "Budgie seed portion: a 50/50 example",
+    "titleBn": "বাজরিগারের বীজের অংশ: ৫০:৫০-এর উদাহরণ",
+    "source": "verselemix",
+    "evidence": "feedcomposition",
+    "completeDiet": false,
+    "ingredients": [
+      {
+        "id": "canary-seed",
+        "en": "Canary seed",
+        "bn": "ক্যানারি সিড",
+        "percent": 50
+      },
+      {
+        "id": "millet",
+        "en": "Millet",
+        "bn": "মিলেট",
+        "percent": 50
+      }
+    ]
+  }
+]
