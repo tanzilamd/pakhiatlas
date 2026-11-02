@@ -22,3 +22,5 @@ Dedicated Feeding main-navigation hub, homepage entry, prioritized guide cards a
 Budgie cover changed to a clear blue body-view image. Cockatiel cover is the single lutino on a perch; Pearl and Whiteface each have real matching photographs. PhotoSwipe and variety cards use the same preferred-photo selection. All card images preserve the whole frame. Other missing morph images remain a real coverage gap (including budgie exhibition/ino/pied examples and turquoise green-cheek). No generated replacements were used.
 
 One localized sources/acknowledgements page collects references and all photograph credits, licenses and original/GFDL links. Source records remain in Git; article prose, food cards and gallery captions no longer repeat external reference blocks or conversion jargon.
+
+Exact variety-photo coverage: 12/20 groups, including all five cockatiel forms. Eight missing groups: budgie English/exhibition, ino, pied/spangle; turquoise GCC; Giribaz/Tumbler and Fantail pigeon; grouped canary varieties; lutino ringneck. All 43 canonical species remain pictured.

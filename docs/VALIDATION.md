@@ -24,3 +24,13 @@ Executed successfully for this revision:
 Research limits: original veterinary-source passages and current Dhaka market quotations remain inaccessible. No clinical review or current Dhaka survey is claimed. One actual archived secondary Bangladesh budgie range is published with historic period, per-adult-bird unit and explicit scope. Other numeric species prices and some morph photos remain incomplete. Six source-only and three collective-stock-credit photographs lack confirmed per-file reuse evidence; see MEDIA_SOURCES.md.
 
 Deployment uses the official configure-pages/upload-pages-artifact/deploy-pages workflow. No custom-domain setting changed. GitHub reports http://tanzilahmed.tech/pakhiatlas/; direct production-host requests remain network-limited. Exact commit and Actions evidence are recorded in the release note below, separately from local browser verification.
+
+## Verified implementation deployment
+
+- Implementation commit: `dbe552a2aeb0c17081010a9440e3130347ba1dc0`.
+- Official Pages run: https://github.com/tanzilamd/pakhiatlas/actions/runs/41470754419 — exact commit matched from public Actions data; completed with SUCCESS on 2026-11-02.
+- The run page reports the production URL as http://tanzilahmed.tech/pakhiatlas/.
+- Direct HTTPS request to the production /bn/ route was attempted after push and denied by the environment proxy (CONNECT 403). The production host was not browser-loaded here; local preview functional verification and GitHub deployment success are separate evidence.
+- Subsequent documentation-only commits record this observed deployment; they do not change the implementation above.
+
+Photo coverage detail: 12 of 20 in-profile variety groups have matching photographs. All five cockatiel groups are pictured; eight other variety groups remain without examples (budgie exhibition/ino/pied-spangle, turquoise GCC, Giribaz/Tumbler, Fantail, canary varieties and lutino ringneck). All 43 canonical species have photographs. No missing example is shown as a generated or wrong-species substitute.
