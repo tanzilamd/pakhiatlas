@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "rose-ringed-parakeet",
+    "en": "Rose-ringed / Indian Ringneck Parakeet",
+    "bn": "রিংনেক টিয়া",
+    "scientificName": "Psittacula krameri",
+    "taxonomicFamily": "Psittaculidae",
+    "aliases": "টিয়া তিয়া হলুদ টিয়া লুটিনো নীল টিয়া ringneck indian lutino yellow parrot Lutino / Blue Ringneck লুটিনো / ব্লু রিংনেক",
+    "family": "Native",
+    "size": "medium",
+    "noise": "high",
+    "experience": "experienced",
+    "kind": "wildlife"
+  },
+  {
+    "slug": "alexandrine-parakeet",
+    "en": "Alexandrine Parakeet",
+    "bn": "চন্দনা টিয়া",
+    "scientificName": "Psittacula eupatria",
+    "taxonomicFamily": "Psittaculidae",
+    "aliases": "চন্দনা বড় টিয়া আলেকজান্ড্রিন alexandrine parrot ",
+    "family": "Native",
+    "size": "medium",
+    "noise": "high",
+    "experience": "experienced",
+    "kind": "wildlife"
+  },
+  {
+    "slug": "plum-headed-parakeet",
+    "en": "Plum-headed Parakeet",
+    "bn": "প্লাম-হেডেড টিয়া",
+    "scientificName": "Psittacula cyanocephala",
+    "taxonomicFamily": "Psittaculidae",
+    "aliases": "লালমাথা টিয়া প্লাম হেডেড plum headed parrot ",
+    "family": "Native",
+    "size": "medium",
+    "noise": "high",
+    "experience": "experienced",
+    "kind": "wildlife"
+  },
+  {
+    "slug": "hill-myna",
+    "en": "Common Hill Myna",
+    "bn": "পাহাড়ি ময়না",
+    "scientificName": "Gracula religiosa",
+    "taxonomicFamily": "Sturnidae",
+    "aliases": "ময়না ময়না পাহাড়ি ময়না কথা বলা ময়না hill myna moyna ",
+    "family": "Native",
+    "size": "medium",
+    "noise": "high",
+    "experience": "experienced",
+    "kind": "wildlife"
+  },
+  {
+    "slug": "common-myna",
+    "en": "Common Myna",
+    "bn": "ভাতশালিক",
+    "scientificName": "Acridotheres tristis",
+    "taxonomicFamily": "Sturnidae",
+    "aliases": "ভাতশালিক শালিক ময়না myna common myna salik ",
+    "family": "Native",
+    "size": "medium",
+    "noise": "high",
+    "experience": "experienced",
+    "kind": "wildlife"
+  }
+]

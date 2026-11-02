@@ -33,13 +33,12 @@ Use a species-appropriate balanced feeding plan, not a bowl made mainly of favou
 
 Change drinking water and clean bowls whenever soiled. Keep a predictable rest routine and offer suitable bathing without force. Observe activity, appetite and droppings every day. Clean spoiled food and damp waste promptly; safe ventilation matters in Bangladesh’s humid weather.
 
-## Breeding age and readiness
+## Pairing, nesting and parent welfare
 
 **Sexual maturity is not a recommended breeding age.** A first egg, mating behaviour or a seller calling a bird “adult” is not enough. Use a known hatch date, an appropriate species-specific age assessment, healthy body condition and a compatible unrelated pair.
 
 The sexes can look alike. Do not rely on pelvic feeling, head shape or a seller’s guess. Establish identity and unrelated parentage before considering breeding; do not mix lovebird species to produce saleable colour names.
 
-An exact recommended minimum breeding age has not yet been confirmed against a retrieved source for this entry. Rather than publish an unsupported number, this field remains open. Do not use this page alone to schedule breeding. See the linked breeding-readiness guide for the practical checks to complete first.
 
 ## Eggs, chicks and warning signs
 
@@ -47,10 +46,16 @@ Before providing a nest, plan for parent health, daily unobtrusive observation, 
 
 Straining, weakness, unusual posture, sitting low or breathing difficulty need prompt veterinary assessment. Do not massage an abdomen, manipulate an egg or give a guessed supplement dose. A chick that is weak or not being fed needs experienced help; amateur syringe feeding risks serious injury. Choose fully weaned birds.
 
+## Droppings, odour and cleaning
+
+Many household surfaces can be soiled during exercise. Place washable protection below favourite perches and keep food-preparation areas separate. Check the usual appearance of feces, urates and urine rather than expecting every dropping to look identical. A sudden persistent increase in liquid or a new strong smell needs attention, not perfume.
+
+Food, water intake, stress and species can affect the urine component. Formed feces surrounded by more urine is not the same as loss of fecal form. Colour alone cannot diagnose illness. Persistent changes, especially with reduced appetite, lethargy or breathing difficulty, need veterinary assessment.
+
 ## Handling and health
 
 Use voluntary, reward-based interaction and allow withdrawal. Not every species wants hand contact. Never chase, punish or promise speech. Sudden behavior changes, poor intake or persistent droppings changes warrant assessment; collapse, major bleeding, suspected toxins or breathing difficulty are urgent.
 
 ## Before bringing one home
 
-Check daily care time, household noise tolerance, safe space, ongoing costs and who will care during travel. Look at individual behavior and records instead of a colour or breed label. See the first-bird and acquisition guides for a checklist; species-level Bangladesh availability has not been independently established here.
+Check daily care time, household noise tolerance, safe space, ongoing costs and who will care during travel. Look at individual behavior and records instead of a colour or breed label. See the first-bird and acquisition guides for a checklist.

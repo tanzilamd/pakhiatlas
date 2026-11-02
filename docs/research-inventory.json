@@ -3,145 +3,145 @@
     "commonName": "Budgerigar",
     "scientificName": "Melopsittacus undulatus",
     "banglaName": "বাজরিগার",
-    "aliases": "বাজরিগার বাজরিগার বাজরি budgie budgerigar English exhibition",
-    "family": "Parrots",
+    "aliases": "বাজরিগার বাজরিগার বাজরি budgie budgerigar English exhibition English / Exhibition ইংলিশ / এক্সিবিশন Lutino / Albino লুটিনো / অ্যালবিনো Pied / Spangle পাইড / স্প্যাঙ্গল",
+    "family": "Psittaculidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Cockatiel",
     "scientificName": "Nymphicus hollandicus",
     "banglaName": "ককাটেল",
-    "aliases": "ককাটেইল ককাটেল cockatiel tiel",
-    "family": "Parrots",
+    "aliases": "ককাটেইল ককাটেল cockatiel tiel Lutino / Pearl / Pied লুটিনো / পার্ল / পাইড Whiteface হোয়াইটফেস",
+    "family": "Cacatuidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Peach-faced Lovebird",
     "scientificName": "Agapornis roseicollis",
     "banglaName": "পিচ-ফেসড লাভবার্ড",
-    "aliases": "লাভবার্ড love bird rosy-faced",
-    "family": "Parrots",
+    "aliases": "লাভবার্ড love bird rosy-faced ",
+    "family": "Psittaculidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Green-cheeked Conure",
     "scientificName": "Pyrrhura molinae",
     "banglaName": "গ্রিন-চিকড কনিউর",
-    "aliases": "কনুর কনিউর green cheek pineapple turquoise",
-    "family": "Parrots",
+    "aliases": "কনুর কনিউর green cheek pineapple turquoise Pineapple পাইনঅ্যাপল Turquoise / Cinnamon টারকোয়েজ / সিনামন",
+    "family": "Psittacidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Sun Conure",
     "scientificName": "Aratinga solstitialis",
     "banglaName": "সান কনিউর",
-    "aliases": "সান কনুর sun parakeet",
-    "family": "Parrots",
+    "aliases": "সান কনুর sun parakeet ",
+    "family": "Psittacidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "African Grey",
     "scientificName": "Psittacus erithacus",
     "banglaName": "আফ্রিকান গ্রে",
-    "aliases": "গ্রে grey gray Congo African",
-    "family": "Parrots",
+    "aliases": "গ্রে grey gray Congo African ",
+    "family": "Psittacidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Zebra Finch",
     "scientificName": "Taeniopygia guttata",
     "banglaName": "জেব্রা ফিঞ্চ",
-    "aliases": "জেব্রা ফিঞ্চ zebra finch",
-    "family": "Finches",
+    "aliases": "জেব্রা ফিঞ্চ zebra finch ",
+    "family": "Estrildidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Domestic Canary",
     "scientificName": "Serinus canaria",
     "banglaName": "ক্যানারি",
-    "aliases": "কেনারি ক্যানারি canary",
-    "family": "Finches",
+    "aliases": "কেনারি ক্যানারি canary Song, colour and form varieties গান, রং ও গঠনের জাত",
+    "family": "Fringillidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "English/Exhibition Budgie (domestic variety)",
@@ -161,55 +161,55 @@
     "commonName": "Fischer’s Lovebird",
     "scientificName": "Agapornis fischeri",
     "banglaName": "ফিশার্স লাভবার্ড",
-    "aliases": "ফিশার ফিশার্স ফিশারস লাভবার্ড fischer eye ring",
-    "family": "Parrots",
+    "aliases": "ফিশার ফিশার্স ফিশারস লাভবার্ড fischer eye ring ",
+    "family": "Psittaculidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Masked Lovebird",
     "scientificName": "Agapornis personatus",
     "banglaName": "মাস্কড লাভবার্ড",
-    "aliases": "মাস্ক মাস্কড ব্ল্যাক মাস্কড lovebird black masked",
-    "family": "Parrots",
+    "aliases": "মাস্ক মাস্কড ব্ল্যাক মাস্কড lovebird black masked ",
+    "family": "Psittaculidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Pacific Parrotlet",
     "scientificName": "Forpus coelestis",
     "banglaName": "প্যাসিফিক প্যারটলেট",
-    "aliases": "প্যারটলেট প্যারোটলেট pacific celestial parrotlet",
-    "family": "Parrots",
+    "aliases": "প্যারটলেট প্যারোটলেট pacific celestial parrotlet ",
+    "family": "Psittacidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Bourke’s Parakeet",
@@ -285,37 +285,37 @@
     "commonName": "Jenday Conure",
     "scientificName": "Aratinga jandaya",
     "banglaName": "জেন্ডে কনিউর",
-    "aliases": "জেন্ডে জেনডে জেন্ডায় jenday jandaya conure",
-    "family": "Parrots",
+    "aliases": "জেন্ডে জেনডে জেন্ডায় jenday jandaya conure ",
+    "family": "Psittacidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Nanday Conure",
     "scientificName": "Aratinga nenday",
     "banglaName": "নানডে কনিউর",
-    "aliases": "নানডে ন্যান্ডে কালোমাথা nanday black hooded Nandayus",
-    "family": "Parrots",
+    "aliases": "নানডে ন্যান্ডে কালোমাথা nanday black hooded Nandayus ",
+    "family": "Psittacidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Blue-crowned Conure",
@@ -377,19 +377,19 @@
     "commonName": "Senegal Parrot",
     "scientificName": "Poicephalus senegalus",
     "banglaName": "সেনেগাল প্যারট",
-    "aliases": "সেনেগাল সেনেগ্যাল senegal poicephalus",
-    "family": "Parrots",
+    "aliases": "সেনেগাল সেনেগ্যাল senegal poicephalus ",
+    "family": "Psittacidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Eclectus (resolve species)",
@@ -521,37 +521,37 @@
     "commonName": "Gouldian Finch",
     "scientificName": "Chloebia gouldiae",
     "banglaName": "গোল্ডিয়ান ফিঞ্চ",
-    "aliases": "গোল্ডিয়ান গোল্ডেন গুলডিয়ান gouldian Erythrura",
-    "family": "Finches",
+    "aliases": "গোল্ডিয়ান গোল্ডেন গুলডিয়ান gouldian Erythrura ",
+    "family": "Estrildidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Java Sparrow",
     "scientificName": "Padda oryzivora",
     "banglaName": "জাভা স্প্যারো",
-    "aliases": "জাভা জাবা java finch rice bird Lonchura oryzivora",
-    "family": "Finches",
+    "aliases": "জাভা জাবা java finch rice bird Lonchura oryzivora ",
+    "family": "Estrildidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Doves (resolve species)",
@@ -599,72 +599,270 @@
     "commonName": "Society / Bengalese Finch",
     "scientificName": "Lonchura striata domestica",
     "banglaName": "সোসাইটি বা বেঙ্গলিজ ফিঞ্চ",
-    "aliases": "সোসাইটি বেঙ্গলি বেঙ্গলিজ bengalese society",
-    "family": "Finches",
+    "aliases": "সোসাইটি বেঙ্গলি বেঙ্গলিজ bengalese society ",
+    "family": "Estrildidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Domestic Pigeon",
     "scientificName": "Columba livia domestica",
     "banglaName": "গৃহপালিত কবুতর",
-    "aliases": "কবুতর পায়রা pigeon tumbler fantail giribaz গিরিবাজ লোটন ফ্যানটেইল",
-    "family": "Doves",
+    "aliases": "কবুতর পায়রা pigeon tumbler fantail giribaz গিরিবাজ লোটন ফ্যানটেইল Giribaz / Tumbler গিরিবাজ / লোটন Fantail ফ্যানটেইল",
+    "family": "Columbidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Diamond Dove",
     "scientificName": "Geopelia cuneata",
     "banglaName": "ডায়মন্ড ডাভ",
-    "aliases": "ডায়মন্ড ডাভ ঘুঘু diamond dove",
-    "family": "Doves",
+    "aliases": "ডায়মন্ড ডাভ ঘুঘু diamond dove ",
+    "family": "Columbidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   },
   {
     "commonName": "Japanese Quail",
     "scientificName": "Coturnix japonica",
     "banglaName": "জাপানি কোয়েল",
-    "aliases": "কোয়েল বটের quail coturnix japanese",
-    "family": "Quail",
+    "aliases": "কোয়েল বটের quail coturnix japanese ",
+    "family": "Phasianidae",
     "category": "captive-research",
     "bangladeshEvidence": null,
-    "availabilityConfidence": "unverified",
-    "originConsiderations": "Verify documented captive origin",
-    "legalConcerns": "No assurance of legality",
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
     "sources": [
       "taxonomy",
       "aav",
       "merck"
     ],
-    "coverageStatus": "bilingual editorial draft; direct source checks pending"
+    "coverageStatus": "bilingual article; primary-source review incomplete"
+  },
+  {
+    "commonName": "Bourke’s Parakeet",
+    "scientificName": "Neopsephotus bourkii",
+    "banglaName": "বোর্কস প্যারাকিট",
+    "aliases": "বোর্কস বার্কস bourke bourkes parakeet ",
+    "family": "Psittaculidae",
+    "category": "captive-research",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual article; primary-source review incomplete"
+  },
+  {
+    "commonName": "Lineolated Parakeet",
+    "scientificName": "Bolborhynchus lineola",
+    "banglaName": "লাইনোলেটেড প্যারাকিট",
+    "aliases": "লাইনি লাইনোলেটেড linnie lineolated ",
+    "family": "Psittacidae",
+    "category": "captive-research",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual article; primary-source review incomplete"
+  },
+  {
+    "commonName": "Monk / Quaker Parakeet",
+    "scientificName": "Myiopsitta monachus",
+    "banglaName": "কোয়েকার বা মঙ্ক প্যারাকিট",
+    "aliases": "কোয়েকার মঙ্ক quaker monk ",
+    "family": "Psittacidae",
+    "category": "captive-research",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual article; primary-source review incomplete"
+  },
+  {
+    "commonName": "Timneh Grey",
+    "scientificName": "Psittacus timneh",
+    "banglaName": "টিমনেহ গ্রে",
+    "aliases": "টিমনেহ টিমনে timneh grey gray ",
+    "family": "Psittacidae",
+    "category": "captive-research",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual article; primary-source review incomplete"
+  },
+  {
+    "commonName": "Rainbow Lorikeet",
+    "scientificName": "Trichoglossus moluccanus",
+    "banglaName": "রেইনবো লরিকিট",
+    "aliases": "রেইনবো লরিকিট লরিকেট rainbow lorikeet nectar ",
+    "family": "Psittaculidae",
+    "category": "captive-research",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual article; primary-source review incomplete"
+  },
+  {
+    "commonName": "Sulphur-crested Cockatoo",
+    "scientificName": "Cacatua galerita",
+    "banglaName": "সালফার-ক্রেস্টেড কাকাতুয়া",
+    "aliases": "কাকাতুয়া কাকাতুয়া হলুদ ঝুঁটি cockatoo sulphur crested ",
+    "family": "Cacatuidae",
+    "category": "captive-research",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual article; primary-source review incomplete"
+  },
+  {
+    "commonName": "Rose-ringed / Indian Ringneck Parakeet",
+    "scientificName": "Psittacula krameri",
+    "banglaName": "রিংনেক টিয়া",
+    "aliases": "টিয়া তিয়া হলুদ টিয়া লুটিনো নীল টিয়া ringneck indian lutino yellow parrot Lutino / Blue Ringneck লুটিনো / ব্লু রিংনেক",
+    "family": "Psittaculidae",
+    "category": "native-education",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual article; primary-source review incomplete"
+  },
+  {
+    "commonName": "Alexandrine Parakeet",
+    "scientificName": "Psittacula eupatria",
+    "banglaName": "চন্দনা টিয়া",
+    "aliases": "চন্দনা বড় টিয়া আলেকজান্ড্রিন alexandrine parrot ",
+    "family": "Psittaculidae",
+    "category": "native-education",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual article; primary-source review incomplete"
+  },
+  {
+    "commonName": "Plum-headed Parakeet",
+    "scientificName": "Psittacula cyanocephala",
+    "banglaName": "প্লাম-হেডেড টিয়া",
+    "aliases": "লালমাথা টিয়া প্লাম হেডেড plum headed parrot ",
+    "family": "Psittaculidae",
+    "category": "native-education",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual article; primary-source review incomplete"
+  },
+  {
+    "commonName": "Common Hill Myna",
+    "scientificName": "Gracula religiosa",
+    "banglaName": "পাহাড়ি ময়না",
+    "aliases": "ময়না ময়না পাহাড়ি ময়না কথা বলা ময়না hill myna moyna ",
+    "family": "Sturnidae",
+    "category": "native-education",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual article; primary-source review incomplete"
+  },
+  {
+    "commonName": "Common Myna",
+    "scientificName": "Acridotheres tristis",
+    "banglaName": "ভাতশালিক",
+    "aliases": "ভাতশালিক শালিক ময়না myna common myna salik ",
+    "family": "Sturnidae",
+    "category": "native-education",
+    "bangladeshEvidence": null,
+    "availabilityConfidence": "not established",
+    "originConsiderations": "No wild-caught acquisition recommendation",
+    "legalConcerns": "No permission asserted",
+    "sources": [
+      "taxonomy",
+      "aav",
+      "merck"
+    ],
+    "coverageStatus": "bilingual article; primary-source review incomplete"
   }
 ]

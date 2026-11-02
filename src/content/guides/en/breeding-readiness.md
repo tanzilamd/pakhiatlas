@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Breeding age: maturity is only the beginning",
+  "title": "Before the nest: pairing and breeding readiness",
   "summary": "Age, body condition, pairing and records: a practical checklist before offering a nest.",
   "language": "en",
   "slug": "breeding-readiness",
@@ -22,9 +22,9 @@ Sexual maturity asks when reproduction becomes biologically possible. Recommende
 
 Ask for a hatch date or a clearly stated uncertainty, not simply “adult” or “breeding ready”. Keep identification and parentage records. Feather colour, cere appearance, eye appearance, song and mating attempts are not universal clocks. Species and mutations differ. If birth records are absent, discuss the limits of age assessment rather than inventing an exact birthday.
 
-## Why no universal month chart?
+## Watch the pair, not just the nest
 
-A finch, quail, budgie and large parrot mature on different schedules. A table of earliest reported fertility can easily be mistaken for recommended breeding ages. This edition does not supply unsupported minimum ages. Species-specific numbers require an inspected reliable reference and clear distinction between sexual maturity and a welfare recommendation. Do not treat a missing value as permission to breed early.
+Sitting together is not enough to establish compatibility. Check that both birds can eat and rest without repeated displacement. Food guarding, repeated escape attempts or injury need attention before adding a nest. Separate birds safely when necessary; a nest box does not repair an incompatible pairing.
 
 ## The readiness checklist
 

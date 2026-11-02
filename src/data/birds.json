@@ -8,13 +8,14 @@
     "size": "small",
     "noise": "moderate",
     "experience": "beginner",
-    "aliases": "বাজরিগার বাজরিগার বাজরি budgie budgerigar English exhibition",
+    "aliases": "বাজরিগার বাজরিগার বাজরি budgie budgerigar English exhibition English / Exhibition ইংলিশ / এক্সিবিশন Lutino / Albino লুটিনো / অ্যালবিনো Pied / Spangle পাইড / স্প্যাঙ্গল",
     "origin": "Australia",
     "originBn": "অস্ট্রেলিয়া",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Psittaculidae"
+    "taxonomicFamily": "Psittaculidae",
+    "cleaningEn": "Many household surfaces can be soiled during exercise. Place washable protection below favourite perches and keep food-preparation areas separate. Check the usual appearance of feces, urates and urine rather than expecting every dropping to look identical. A sudden persistent increase in liquid or a new strong smell needs attention, not perfume.",
+    "cleaningBn": "খাঁচার বাইরে প্রিয় বসার জায়গার নিচেও বিষ্ঠা পড়বে—ঘর সাজানোর সময় সেটি ধরেই পরিকল্পনা করুন। ধোয়া যায় এমন আবরণ রাখুন এবং রান্না বা খাবার তৈরির স্থান আলাদা রাখুন। মল, সাদা ইউরেট ও তরল মূত্রের স্বাভাবিক চেহারা চিনে রাখুন। হঠাৎ স্থায়ীভাবে পানি বেড়ে গেলে বা নতুন তীব্র গন্ধ হলে সুগন্ধি দিয়ে ঢাকবেন না; কারণ খুঁজুন।"
   },
   {
     "slug": "cockatiel",
@@ -25,13 +26,14 @@
     "size": "small",
     "noise": "moderate",
     "experience": "beginner",
-    "aliases": "ককাটেইল ককাটেল cockatiel tiel",
+    "aliases": "ককাটেইল ককাটেল cockatiel tiel Lutino / Pearl / Pied লুটিনো / পার্ল / পাইড Whiteface হোয়াইটফেস",
     "origin": "Australia",
     "originBn": "অস্ট্রেলিয়া",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Cacatuidae"
+    "taxonomicFamily": "Cacatuidae",
+    "cleaningEn": "Many household surfaces can be soiled during exercise. Place washable protection below favourite perches and keep food-preparation areas separate. Check the usual appearance of feces, urates and urine rather than expecting every dropping to look identical. A sudden persistent increase in liquid or a new strong smell needs attention, not perfume.",
+    "cleaningBn": "খাঁচার বাইরে প্রিয় বসার জায়গার নিচেও বিষ্ঠা পড়বে—ঘর সাজানোর সময় সেটি ধরেই পরিকল্পনা করুন। ধোয়া যায় এমন আবরণ রাখুন এবং রান্না বা খাবার তৈরির স্থান আলাদা রাখুন। মল, সাদা ইউরেট ও তরল মূত্রের স্বাভাবিক চেহারা চিনে রাখুন। হঠাৎ স্থায়ীভাবে পানি বেড়ে গেলে বা নতুন তীব্র গন্ধ হলে সুগন্ধি দিয়ে ঢাকবেন না; কারণ খুঁজুন।"
   },
   {
     "slug": "peach-faced-lovebird",
@@ -42,13 +44,14 @@
     "size": "small",
     "noise": "high",
     "experience": "intermediate",
-    "aliases": "লাভবার্ড love bird rosy-faced",
+    "aliases": "লাভবার্ড love bird rosy-faced ",
     "origin": "Southwestern Africa",
     "originBn": "দক্ষিণ-পশ্চিম আফ্রিকা",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Psittaculidae"
+    "taxonomicFamily": "Psittaculidae",
+    "cleaningEn": "Many household surfaces can be soiled during exercise. Place washable protection below favourite perches and keep food-preparation areas separate. Check the usual appearance of feces, urates and urine rather than expecting every dropping to look identical. A sudden persistent increase in liquid or a new strong smell needs attention, not perfume.",
+    "cleaningBn": "খাঁচার বাইরে প্রিয় বসার জায়গার নিচেও বিষ্ঠা পড়বে—ঘর সাজানোর সময় সেটি ধরেই পরিকল্পনা করুন। ধোয়া যায় এমন আবরণ রাখুন এবং রান্না বা খাবার তৈরির স্থান আলাদা রাখুন। মল, সাদা ইউরেট ও তরল মূত্রের স্বাভাবিক চেহারা চিনে রাখুন। হঠাৎ স্থায়ীভাবে পানি বেড়ে গেলে বা নতুন তীব্র গন্ধ হলে সুগন্ধি দিয়ে ঢাকবেন না; কারণ খুঁজুন।"
   },
   {
     "slug": "green-cheeked-conure",
@@ -59,13 +62,14 @@
     "size": "medium",
     "noise": "moderate",
     "experience": "intermediate",
-    "aliases": "কনুর কনিউর green cheek pineapple turquoise",
+    "aliases": "কনুর কনিউর green cheek pineapple turquoise Pineapple পাইনঅ্যাপল Turquoise / Cinnamon টারকোয়েজ / সিনামন",
     "origin": "South America",
     "originBn": "দক্ষিণ আমেরিকা",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Psittacidae"
+    "taxonomicFamily": "Psittacidae",
+    "cleaningEn": "Many household surfaces can be soiled during exercise. Place washable protection below favourite perches and keep food-preparation areas separate. Check the usual appearance of feces, urates and urine rather than expecting every dropping to look identical. A sudden persistent increase in liquid or a new strong smell needs attention, not perfume.",
+    "cleaningBn": "খাঁচার বাইরে প্রিয় বসার জায়গার নিচেও বিষ্ঠা পড়বে—ঘর সাজানোর সময় সেটি ধরেই পরিকল্পনা করুন। ধোয়া যায় এমন আবরণ রাখুন এবং রান্না বা খাবার তৈরির স্থান আলাদা রাখুন। মল, সাদা ইউরেট ও তরল মূত্রের স্বাভাবিক চেহারা চিনে রাখুন। হঠাৎ স্থায়ীভাবে পানি বেড়ে গেলে বা নতুন তীব্র গন্ধ হলে সুগন্ধি দিয়ে ঢাকবেন না; কারণ খুঁজুন।"
   },
   {
     "slug": "sun-conure",
@@ -76,13 +80,14 @@
     "size": "medium",
     "noise": "high",
     "experience": "experienced",
-    "aliases": "সান কনুর sun parakeet",
+    "aliases": "সান কনুর sun parakeet ",
     "origin": "Northeastern South America",
     "originBn": "দক্ষিণ আমেরিকার উত্তর-পূর্বাঞ্চল",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Psittacidae"
+    "taxonomicFamily": "Psittacidae",
+    "cleaningEn": "Many household surfaces can be soiled during exercise. Place washable protection below favourite perches and keep food-preparation areas separate. Check the usual appearance of feces, urates and urine rather than expecting every dropping to look identical. A sudden persistent increase in liquid or a new strong smell needs attention, not perfume.",
+    "cleaningBn": "খাঁচার বাইরে প্রিয় বসার জায়গার নিচেও বিষ্ঠা পড়বে—ঘর সাজানোর সময় সেটি ধরেই পরিকল্পনা করুন। ধোয়া যায় এমন আবরণ রাখুন এবং রান্না বা খাবার তৈরির স্থান আলাদা রাখুন। মল, সাদা ইউরেট ও তরল মূত্রের স্বাভাবিক চেহারা চিনে রাখুন। হঠাৎ স্থায়ীভাবে পানি বেড়ে গেলে বা নতুন তীব্র গন্ধ হলে সুগন্ধি দিয়ে ঢাকবেন না; কারণ খুঁজুন।"
   },
   {
     "slug": "african-grey",
@@ -93,13 +98,14 @@
     "size": "large",
     "noise": "high",
     "experience": "experienced",
-    "aliases": "গ্রে grey gray Congo African",
+    "aliases": "গ্রে grey gray Congo African ",
     "origin": "Equatorial Africa",
     "originBn": "নিরক্ষীয় আফ্রিকা",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Psittacidae"
+    "taxonomicFamily": "Psittacidae",
+    "cleaningEn": "Many household surfaces can be soiled during exercise. Place washable protection below favourite perches and keep food-preparation areas separate. Check the usual appearance of feces, urates and urine rather than expecting every dropping to look identical. A sudden persistent increase in liquid or a new strong smell needs attention, not perfume.",
+    "cleaningBn": "খাঁচার বাইরে প্রিয় বসার জায়গার নিচেও বিষ্ঠা পড়বে—ঘর সাজানোর সময় সেটি ধরেই পরিকল্পনা করুন। ধোয়া যায় এমন আবরণ রাখুন এবং রান্না বা খাবার তৈরির স্থান আলাদা রাখুন। মল, সাদা ইউরেট ও তরল মূত্রের স্বাভাবিক চেহারা চিনে রাখুন। হঠাৎ স্থায়ীভাবে পানি বেড়ে গেলে বা নতুন তীব্র গন্ধ হলে সুগন্ধি দিয়ে ঢাকবেন না; কারণ খুঁজুন।"
   },
   {
     "slug": "zebra-finch",
@@ -110,13 +116,14 @@
     "size": "small",
     "noise": "low",
     "experience": "beginner",
-    "aliases": "জেব্রা ফিঞ্চ zebra finch",
+    "aliases": "জেব্রা ফিঞ্চ zebra finch ",
     "origin": "Australia and nearby islands; taxonomic treatment varies",
     "originBn": "অস্ট্রেলিয়া ও আশপাশের দ্বীপ; শ্রেণিবিন্যাসে ভিন্নতা রয়েছে",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Estrildidae"
+    "taxonomicFamily": "Estrildidae",
+    "cleaningEn": "Small droppings can accumulate across perches, feeders and enclosure floors. Easy-to-change plain lining and accessible feeding trays reduce the cleaning burden. Keep wet waste away from food; do not confuse small body size with no daily cleaning. New persistent changes in droppings or odour deserve assessment.",
+    "cleaningBn": "বিষ্ঠা ছোট হলেও ডাল, খাবারের পাত্র ও খাঁচার মেঝেতে ছড়িয়ে জমে। সহজে বদলানো যায় এমন সাধারণ কাগজ ও খোলা যায় এমন পাত্র রাখলে পরিষ্কার করা সুবিধা হয়। ভেজা ময়লা খাবারের কাছ থেকে সরান। ছোট পাখি মানেই কম নজরদারি নয়; নতুন স্থায়ী পরিবর্তন বা দুর্গন্ধ হলে বিষয়টি খেয়াল করুন।"
   },
   {
     "slug": "canary",
@@ -127,13 +134,14 @@
     "size": "small",
     "noise": "moderate",
     "experience": "beginner",
-    "aliases": "কেনারি ক্যানারি canary",
+    "aliases": "কেনারি ক্যানারি canary Song, colour and form varieties গান, রং ও গঠনের জাত",
     "origin": "Domestic lineage from Atlantic island canaries",
     "originBn": "আটলান্টিক দ্বীপপুঞ্জের ক্যানারি থেকে গৃহপালিত বংশ",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Fringillidae"
+    "taxonomicFamily": "Fringillidae",
+    "cleaningEn": "Small droppings can accumulate across perches, feeders and enclosure floors. Easy-to-change plain lining and accessible feeding trays reduce the cleaning burden. Keep wet waste away from food; do not confuse small body size with no daily cleaning. New persistent changes in droppings or odour deserve assessment.",
+    "cleaningBn": "বিষ্ঠা ছোট হলেও ডাল, খাবারের পাত্র ও খাঁচার মেঝেতে ছড়িয়ে জমে। সহজে বদলানো যায় এমন সাধারণ কাগজ ও খোলা যায় এমন পাত্র রাখলে পরিষ্কার করা সুবিধা হয়। ভেজা ময়লা খাবারের কাছ থেকে সরান। ছোট পাখি মানেই কম নজরদারি নয়; নতুন স্থায়ী পরিবর্তন বা দুর্গন্ধ হলে বিষয়টি খেয়াল করুন।"
   },
   {
     "slug": "fischers-lovebird",
@@ -144,13 +152,14 @@
     "size": "small",
     "noise": "high",
     "experience": "intermediate",
-    "aliases": "ফিশার ফিশার্স ফিশারস লাভবার্ড fischer eye ring",
+    "aliases": "ফিশার ফিশার্স ফিশারস লাভবার্ড fischer eye ring ",
     "origin": "East Africa",
     "originBn": "পূর্ব আফ্রিকা",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Psittaculidae"
+    "taxonomicFamily": "Psittaculidae",
+    "cleaningEn": "Many household surfaces can be soiled during exercise. Place washable protection below favourite perches and keep food-preparation areas separate. Check the usual appearance of feces, urates and urine rather than expecting every dropping to look identical. A sudden persistent increase in liquid or a new strong smell needs attention, not perfume.",
+    "cleaningBn": "খাঁচার বাইরে প্রিয় বসার জায়গার নিচেও বিষ্ঠা পড়বে—ঘর সাজানোর সময় সেটি ধরেই পরিকল্পনা করুন। ধোয়া যায় এমন আবরণ রাখুন এবং রান্না বা খাবার তৈরির স্থান আলাদা রাখুন। মল, সাদা ইউরেট ও তরল মূত্রের স্বাভাবিক চেহারা চিনে রাখুন। হঠাৎ স্থায়ীভাবে পানি বেড়ে গেলে বা নতুন তীব্র গন্ধ হলে সুগন্ধি দিয়ে ঢাকবেন না; কারণ খুঁজুন।"
   },
   {
     "slug": "masked-lovebird",
@@ -161,13 +170,14 @@
     "size": "small",
     "noise": "high",
     "experience": "intermediate",
-    "aliases": "মাস্ক মাস্কড ব্ল্যাক মাস্কড lovebird black masked",
+    "aliases": "মাস্ক মাস্কড ব্ল্যাক মাস্কড lovebird black masked ",
     "origin": "East Africa",
     "originBn": "পূর্ব আফ্রিকা",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Psittaculidae"
+    "taxonomicFamily": "Psittaculidae",
+    "cleaningEn": "Many household surfaces can be soiled during exercise. Place washable protection below favourite perches and keep food-preparation areas separate. Check the usual appearance of feces, urates and urine rather than expecting every dropping to look identical. A sudden persistent increase in liquid or a new strong smell needs attention, not perfume.",
+    "cleaningBn": "খাঁচার বাইরে প্রিয় বসার জায়গার নিচেও বিষ্ঠা পড়বে—ঘর সাজানোর সময় সেটি ধরেই পরিকল্পনা করুন। ধোয়া যায় এমন আবরণ রাখুন এবং রান্না বা খাবার তৈরির স্থান আলাদা রাখুন। মল, সাদা ইউরেট ও তরল মূত্রের স্বাভাবিক চেহারা চিনে রাখুন। হঠাৎ স্থায়ীভাবে পানি বেড়ে গেলে বা নতুন তীব্র গন্ধ হলে সুগন্ধি দিয়ে ঢাকবেন না; কারণ খুঁজুন।"
   },
   {
     "slug": "society-finch",
@@ -178,13 +188,14 @@
     "size": "small",
     "noise": "low",
     "experience": "beginner",
-    "aliases": "সোসাইটি বেঙ্গলি বেঙ্গলিজ bengalese society",
+    "aliases": "সোসাইটি বেঙ্গলি বেঙ্গলিজ bengalese society ",
     "origin": "Domesticated lineage; not a separate wild species",
     "originBn": "গৃহপালিত বংশ; আলাদা বন্য প্রজাতি নয়",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Estrildidae"
+    "taxonomicFamily": "Estrildidae",
+    "cleaningEn": "Small droppings can accumulate across perches, feeders and enclosure floors. Easy-to-change plain lining and accessible feeding trays reduce the cleaning burden. Keep wet waste away from food; do not confuse small body size with no daily cleaning. New persistent changes in droppings or odour deserve assessment.",
+    "cleaningBn": "বিষ্ঠা ছোট হলেও ডাল, খাবারের পাত্র ও খাঁচার মেঝেতে ছড়িয়ে জমে। সহজে বদলানো যায় এমন সাধারণ কাগজ ও খোলা যায় এমন পাত্র রাখলে পরিষ্কার করা সুবিধা হয়। ভেজা ময়লা খাবারের কাছ থেকে সরান। ছোট পাখি মানেই কম নজরদারি নয়; নতুন স্থায়ী পরিবর্তন বা দুর্গন্ধ হলে বিষয়টি খেয়াল করুন।"
   },
   {
     "slug": "gouldian-finch",
@@ -195,13 +206,14 @@
     "size": "small",
     "noise": "low",
     "experience": "intermediate",
-    "aliases": "গোল্ডিয়ান গোল্ডেন গুলডিয়ান gouldian Erythrura",
+    "aliases": "গোল্ডিয়ান গোল্ডেন গুলডিয়ান gouldian Erythrura ",
     "origin": "Northern Australia",
     "originBn": "উত্তর অস্ট্রেলিয়া",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Estrildidae"
+    "taxonomicFamily": "Estrildidae",
+    "cleaningEn": "Small droppings can accumulate across perches, feeders and enclosure floors. Easy-to-change plain lining and accessible feeding trays reduce the cleaning burden. Keep wet waste away from food; do not confuse small body size with no daily cleaning. New persistent changes in droppings or odour deserve assessment.",
+    "cleaningBn": "বিষ্ঠা ছোট হলেও ডাল, খাবারের পাত্র ও খাঁচার মেঝেতে ছড়িয়ে জমে। সহজে বদলানো যায় এমন সাধারণ কাগজ ও খোলা যায় এমন পাত্র রাখলে পরিষ্কার করা সুবিধা হয়। ভেজা ময়লা খাবারের কাছ থেকে সরান। ছোট পাখি মানেই কম নজরদারি নয়; নতুন স্থায়ী পরিবর্তন বা দুর্গন্ধ হলে বিষয়টি খেয়াল করুন।"
   },
   {
     "slug": "java-sparrow",
@@ -212,13 +224,14 @@
     "size": "small",
     "noise": "moderate",
     "experience": "intermediate",
-    "aliases": "জাভা জাবা java finch rice bird Lonchura oryzivora",
+    "aliases": "জাভা জাবা java finch rice bird Lonchura oryzivora ",
     "origin": "Java and nearby Indonesian islands",
     "originBn": "জাভা ও কাছাকাছি ইন্দোনেশীয় দ্বীপপুঞ্জ",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Estrildidae"
+    "taxonomicFamily": "Estrildidae",
+    "cleaningEn": "Small droppings can accumulate across perches, feeders and enclosure floors. Easy-to-change plain lining and accessible feeding trays reduce the cleaning burden. Keep wet waste away from food; do not confuse small body size with no daily cleaning. New persistent changes in droppings or odour deserve assessment.",
+    "cleaningBn": "বিষ্ঠা ছোট হলেও ডাল, খাবারের পাত্র ও খাঁচার মেঝেতে ছড়িয়ে জমে। সহজে বদলানো যায় এমন সাধারণ কাগজ ও খোলা যায় এমন পাত্র রাখলে পরিষ্কার করা সুবিধা হয়। ভেজা ময়লা খাবারের কাছ থেকে সরান। ছোট পাখি মানেই কম নজরদারি নয়; নতুন স্থায়ী পরিবর্তন বা দুর্গন্ধ হলে বিষয়টি খেয়াল করুন।"
   },
   {
     "slug": "domestic-pigeon",
@@ -229,13 +242,14 @@
     "size": "medium",
     "noise": "low",
     "experience": "beginner",
-    "aliases": "কবুতর পায়রা pigeon tumbler fantail giribaz গিরিবাজ লোটন ফ্যানটেইল",
+    "aliases": "কবুতর পায়রা pigeon tumbler fantail giribaz গিরিবাজ লোটন ফ্যানটেইল Giribaz / Tumbler গিরিবাজ / লোটন Fantail ফ্যানটেইল",
     "origin": "Domestic lineage of the rock dove",
     "originBn": "রক ডোভের গৃহপালিত বংশ",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Columbidae"
+    "taxonomicFamily": "Columbidae",
+    "cleaningEn": "Plan for regular loft or floor cleaning, not only wiping a perch. Damp accumulated droppings and leftover feed increase the hygiene burden. Prevent rain entering, clean feeding surfaces and avoid raising clouds of dried waste. A bad smell is a reason to inspect waste, food, moisture and the bird’s health, not a normal species guarantee.",
+    "cleaningBn": "শুধু বসার ডাল মুছলেই হবে না; ঘরের মেঝে, কোণ ও খাবারের আশপাশ নিয়মিত পরিষ্কার করতে হবে। বৃষ্টির পানি ঢোকা ও ভেজা বিষ্ঠা জমে থাকা ঠেকান। শুকনা ময়লা ঝাড়ার সময় ধুলোর মেঘ তুলবেন না। গন্ধ হলে আগে ময়লা, নষ্ট খাবার, ভেজাভাব ও পাখির স্বাস্থ্য দেখুন; জাতের স্বাভাবিক বৈশিষ্ট্য বলে মেনে নেবেন না।"
   },
   {
     "slug": "diamond-dove",
@@ -246,13 +260,14 @@
     "size": "small",
     "noise": "low",
     "experience": "intermediate",
-    "aliases": "ডায়মন্ড ডাভ ঘুঘু diamond dove",
+    "aliases": "ডায়মন্ড ডাভ ঘুঘু diamond dove ",
     "origin": "Australia",
     "originBn": "অস্ট্রেলিয়া",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Columbidae"
+    "taxonomicFamily": "Columbidae",
+    "cleaningEn": "Plan for regular loft or floor cleaning, not only wiping a perch. Damp accumulated droppings and leftover feed increase the hygiene burden. Prevent rain entering, clean feeding surfaces and avoid raising clouds of dried waste. A bad smell is a reason to inspect waste, food, moisture and the bird’s health, not a normal species guarantee.",
+    "cleaningBn": "শুধু বসার ডাল মুছলেই হবে না; ঘরের মেঝে, কোণ ও খাবারের আশপাশ নিয়মিত পরিষ্কার করতে হবে। বৃষ্টির পানি ঢোকা ও ভেজা বিষ্ঠা জমে থাকা ঠেকান। শুকনা ময়লা ঝাড়ার সময় ধুলোর মেঘ তুলবেন না। গন্ধ হলে আগে ময়লা, নষ্ট খাবার, ভেজাভাব ও পাখির স্বাস্থ্য দেখুন; জাতের স্বাভাবিক বৈশিষ্ট্য বলে মেনে নেবেন না।"
   },
   {
     "slug": "japanese-quail",
@@ -263,13 +278,14 @@
     "size": "small",
     "noise": "moderate",
     "experience": "intermediate",
-    "aliases": "কোয়েল বটের quail coturnix japanese",
+    "aliases": "কোয়েল বটের quail coturnix japanese ",
     "origin": "Domesticated lineage of an East Asian quail",
     "originBn": "পূর্ব এশীয় কোয়েলের গৃহপালিত বংশ",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Phasianidae"
+    "taxonomicFamily": "Phasianidae",
+    "cleaningEn": "Floor litter needs frequent inspection because droppings, spilled water and feed collect in the same area. Remove wet patches and soiled material promptly; ventilation alone does not clean bedding. Plan litter storage and disposal before acquisition. New abnormal odour or persistent droppings changes need investigation.",
+    "cleaningBn": "কোয়েলের বিছানায় বিষ্ঠা, ছিটকে পড়া পানি ও খাবার একই জায়গায় জমতে পারে। তাই ভেজা অংশ দ্রুত সরিয়ে পরিষ্কার শুকনা বিছানা রাখুন। শুধু ফ্যান চালালেই নোংরা বিছানা পরিষ্কার হয় না। আনার আগে বিছানা বদলানো ও ময়লা ফেলার ব্যবস্থা ভাবুন। নতুন অস্বাভাবিক গন্ধ বা স্থায়ী বিষ্ঠার পরিবর্তন হলে কারণ দেখুন।"
   },
   {
     "slug": "jenday-conure",
@@ -280,13 +296,14 @@
     "size": "medium",
     "noise": "high",
     "experience": "experienced",
-    "aliases": "জেন্ডে জেনডে জেন্ডায় jenday jandaya conure",
+    "aliases": "জেন্ডে জেনডে জেন্ডায় jenday jandaya conure ",
     "origin": "Brazil",
     "originBn": "ব্রাজিল",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Psittacidae"
+    "taxonomicFamily": "Psittacidae",
+    "cleaningEn": "Many household surfaces can be soiled during exercise. Place washable protection below favourite perches and keep food-preparation areas separate. Check the usual appearance of feces, urates and urine rather than expecting every dropping to look identical. A sudden persistent increase in liquid or a new strong smell needs attention, not perfume.",
+    "cleaningBn": "খাঁচার বাইরে প্রিয় বসার জায়গার নিচেও বিষ্ঠা পড়বে—ঘর সাজানোর সময় সেটি ধরেই পরিকল্পনা করুন। ধোয়া যায় এমন আবরণ রাখুন এবং রান্না বা খাবার তৈরির স্থান আলাদা রাখুন। মল, সাদা ইউরেট ও তরল মূত্রের স্বাভাবিক চেহারা চিনে রাখুন। হঠাৎ স্থায়ীভাবে পানি বেড়ে গেলে বা নতুন তীব্র গন্ধ হলে সুগন্ধি দিয়ে ঢাকবেন না; কারণ খুঁজুন।"
   },
   {
     "slug": "nanday-conure",
@@ -297,13 +314,14 @@
     "size": "medium",
     "noise": "high",
     "experience": "experienced",
-    "aliases": "নানডে ন্যান্ডে কালোমাথা nanday black hooded Nandayus",
+    "aliases": "নানডে ন্যান্ডে কালোমাথা nanday black hooded Nandayus ",
     "origin": "Central South America",
     "originBn": "দক্ষিণ আমেরিকার মধ্যাঞ্চল",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Psittacidae"
+    "taxonomicFamily": "Psittacidae",
+    "cleaningEn": "Many household surfaces can be soiled during exercise. Place washable protection below favourite perches and keep food-preparation areas separate. Check the usual appearance of feces, urates and urine rather than expecting every dropping to look identical. A sudden persistent increase in liquid or a new strong smell needs attention, not perfume.",
+    "cleaningBn": "খাঁচার বাইরে প্রিয় বসার জায়গার নিচেও বিষ্ঠা পড়বে—ঘর সাজানোর সময় সেটি ধরেই পরিকল্পনা করুন। ধোয়া যায় এমন আবরণ রাখুন এবং রান্না বা খাবার তৈরির স্থান আলাদা রাখুন। মল, সাদা ইউরেট ও তরল মূত্রের স্বাভাবিক চেহারা চিনে রাখুন। হঠাৎ স্থায়ীভাবে পানি বেড়ে গেলে বা নতুন তীব্র গন্ধ হলে সুগন্ধি দিয়ে ঢাকবেন না; কারণ খুঁজুন।"
   },
   {
     "slug": "senegal-parrot",
@@ -314,13 +332,14 @@
     "size": "medium",
     "noise": "moderate",
     "experience": "experienced",
-    "aliases": "সেনেগাল সেনেগ্যাল senegal poicephalus",
+    "aliases": "সেনেগাল সেনেগ্যাল senegal poicephalus ",
     "origin": "West Africa",
     "originBn": "পশ্চিম আফ্রিকা",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Psittacidae"
+    "taxonomicFamily": "Psittacidae",
+    "cleaningEn": "Many household surfaces can be soiled during exercise. Place washable protection below favourite perches and keep food-preparation areas separate. Check the usual appearance of feces, urates and urine rather than expecting every dropping to look identical. A sudden persistent increase in liquid or a new strong smell needs attention, not perfume.",
+    "cleaningBn": "খাঁচার বাইরে প্রিয় বসার জায়গার নিচেও বিষ্ঠা পড়বে—ঘর সাজানোর সময় সেটি ধরেই পরিকল্পনা করুন। ধোয়া যায় এমন আবরণ রাখুন এবং রান্না বা খাবার তৈরির স্থান আলাদা রাখুন। মল, সাদা ইউরেট ও তরল মূত্রের স্বাভাবিক চেহারা চিনে রাখুন। হঠাৎ স্থায়ীভাবে পানি বেড়ে গেলে বা নতুন তীব্র গন্ধ হলে সুগন্ধি দিয়ে ঢাকবেন না; কারণ খুঁজুন।"
   },
   {
     "slug": "pacific-parrotlet",
@@ -331,12 +350,121 @@
     "size": "small",
     "noise": "moderate",
     "experience": "intermediate",
-    "aliases": "প্যারটলেট প্যারোটলেট pacific celestial parrotlet",
+    "aliases": "প্যারটলেট প্যারোটলেট pacific celestial parrotlet ",
     "origin": "Western South America",
     "originBn": "দক্ষিণ আমেরিকার পশ্চিমাঞ্চল",
     "availability": "Unverified in Bangladesh",
     "status": "editorial-draft",
-    "image": "/illustrations/bird.svg",
-    "taxonomicFamily": "Psittacidae"
+    "taxonomicFamily": "Psittacidae",
+    "cleaningEn": "Many household surfaces can be soiled during exercise. Place washable protection below favourite perches and keep food-preparation areas separate. Check the usual appearance of feces, urates and urine rather than expecting every dropping to look identical. A sudden persistent increase in liquid or a new strong smell needs attention, not perfume.",
+    "cleaningBn": "খাঁচার বাইরে প্রিয় বসার জায়গার নিচেও বিষ্ঠা পড়বে—ঘর সাজানোর সময় সেটি ধরেই পরিকল্পনা করুন। ধোয়া যায় এমন আবরণ রাখুন এবং রান্না বা খাবার তৈরির স্থান আলাদা রাখুন। মল, সাদা ইউরেট ও তরল মূত্রের স্বাভাবিক চেহারা চিনে রাখুন। হঠাৎ স্থায়ীভাবে পানি বেড়ে গেলে বা নতুন তীব্র গন্ধ হলে সুগন্ধি দিয়ে ঢাকবেন না; কারণ খুঁজুন।"
+  },
+  {
+    "slug": "bourkes-parakeet",
+    "en": "Bourke’s Parakeet",
+    "bn": "বোর্কস প্যারাকিট",
+    "scientificName": "Neopsephotus bourkii",
+    "family": "Parrots",
+    "size": "small",
+    "noise": "moderate",
+    "experience": "intermediate",
+    "aliases": "বোর্কস বার্কস bourke bourkes parakeet ",
+    "origin": "Australia",
+    "originBn": "অস্ট্রেলিয়া",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "taxonomicFamily": "Psittaculidae",
+    "cleaningEn": "Plan daily enclosure and exercise-area cleaning; keep wet waste away from food.",
+    "cleaningBn": "খাঁচা ও বাইরে বসার জায়গা প্রতিদিন পরিষ্কার করুন; ভেজা ময়লা খাবারের কাছ থেকে সরিয়ে রাখুন."
+  },
+  {
+    "slug": "lineolated-parakeet",
+    "en": "Lineolated Parakeet",
+    "bn": "লাইনোলেটেড প্যারাকিট",
+    "scientificName": "Bolborhynchus lineola",
+    "family": "Parrots",
+    "size": "small",
+    "noise": "moderate",
+    "experience": "intermediate",
+    "aliases": "লাইনি লাইনোলেটেড linnie lineolated ",
+    "origin": "Central and South America",
+    "originBn": "মধ্য ও দক্ষিণ আমেরিকা",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "taxonomicFamily": "Psittacidae",
+    "cleaningEn": "Plan daily enclosure and exercise-area cleaning; keep wet waste away from food.",
+    "cleaningBn": "খাঁচা ও বাইরে বসার জায়গা প্রতিদিন পরিষ্কার করুন; ভেজা ময়লা খাবারের কাছ থেকে সরিয়ে রাখুন."
+  },
+  {
+    "slug": "monk-parakeet",
+    "en": "Monk / Quaker Parakeet",
+    "bn": "কোয়েকার বা মঙ্ক প্যারাকিট",
+    "scientificName": "Myiopsitta monachus",
+    "family": "Parrots",
+    "size": "medium",
+    "noise": "high",
+    "experience": "experienced",
+    "aliases": "কোয়েকার মঙ্ক quaker monk ",
+    "origin": "South America",
+    "originBn": "দক্ষিণ আমেরিকা",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "taxonomicFamily": "Psittacidae",
+    "cleaningEn": "Plan daily enclosure and exercise-area cleaning; keep wet waste away from food.",
+    "cleaningBn": "খাঁচা ও বাইরে বসার জায়গা প্রতিদিন পরিষ্কার করুন; ভেজা ময়লা খাবারের কাছ থেকে সরিয়ে রাখুন."
+  },
+  {
+    "slug": "timneh-grey",
+    "en": "Timneh Grey",
+    "bn": "টিমনেহ গ্রে",
+    "scientificName": "Psittacus timneh",
+    "family": "Parrots",
+    "size": "large",
+    "noise": "high",
+    "experience": "experienced",
+    "aliases": "টিমনেহ টিমনে timneh grey gray ",
+    "origin": "West Africa",
+    "originBn": "পশ্চিম আফ্রিকা",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "taxonomicFamily": "Psittacidae",
+    "cleaningEn": "Plan daily enclosure and exercise-area cleaning; keep wet waste away from food.",
+    "cleaningBn": "খাঁচা ও বাইরে বসার জায়গা প্রতিদিন পরিষ্কার করুন; ভেজা ময়লা খাবারের কাছ থেকে সরিয়ে রাখুন."
+  },
+  {
+    "slug": "rainbow-lorikeet",
+    "en": "Rainbow Lorikeet",
+    "bn": "রেইনবো লরিকিট",
+    "scientificName": "Trichoglossus moluccanus",
+    "family": "Parrots",
+    "size": "medium",
+    "noise": "high",
+    "experience": "experienced",
+    "aliases": "রেইনবো লরিকিট লরিকেট rainbow lorikeet nectar ",
+    "origin": "Australia",
+    "originBn": "অস্ট্রেলিয়া",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "taxonomicFamily": "Psittaculidae",
+    "cleaningEn": "Plan daily enclosure and exercise-area cleaning; keep wet waste away from food.",
+    "cleaningBn": "খাঁচা ও বাইরে বসার জায়গা প্রতিদিন পরিষ্কার করুন; ভেজা ময়লা খাবারের কাছ থেকে সরিয়ে রাখুন."
+  },
+  {
+    "slug": "sulphur-crested-cockatoo",
+    "en": "Sulphur-crested Cockatoo",
+    "bn": "সালফার-ক্রেস্টেড কাকাতুয়া",
+    "scientificName": "Cacatua galerita",
+    "family": "Parrots",
+    "size": "large",
+    "noise": "high",
+    "experience": "experienced",
+    "aliases": "কাকাতুয়া কাকাতুয়া হলুদ ঝুঁটি cockatoo sulphur crested ",
+    "origin": "Australia and New Guinea region",
+    "originBn": "অস্ট্রেলিয়া ও নিউ গিনি অঞ্চল",
+    "availability": "Unverified in Bangladesh",
+    "status": "editorial-draft",
+    "taxonomicFamily": "Cacatuidae",
+    "cleaningEn": "Plan daily enclosure and exercise-area cleaning; keep wet waste away from food.",
+    "cleaningBn": "খাঁচা ও বাইরে বসার জায়গা প্রতিদিন পরিষ্কার করুন; ভেজা ময়লা খাবারের কাছ থেকে সরিয়ে রাখুন."
   }
 ]

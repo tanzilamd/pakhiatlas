@@ -1,13 +1,6 @@
 {
   "assets": [
     {
-      "path": "/illustrations/bird.svg",
-      "type": "original generic botanical illustration",
-      "speciesIdentification": false,
-      "credit": "PakhiAtlas project artwork",
-      "license": "Repository-owned original artwork; owner retains editorial control"
-    },
-    {
       "path": "/illustrations/droppings.svg",
       "type": "original educational schematic",
       "clinicalPhotograph": false,

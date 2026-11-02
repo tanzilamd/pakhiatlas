@@ -10,7 +10,8 @@
     "preview": "astro preview --host 0.0.0.0",
     "test": "node scripts/test-built.mjs",
     "new:bird": "node scripts/scaffold.mjs birds",
-    "new:guide": "node scripts/scaffold.mjs guides"
+    "new:guide": "node scripts/scaffold.mjs guides",
+    "media:add": "node scripts/add-photo.mjs"
   },
   "repository": {
     "type": "git",
@@ -29,6 +30,7 @@
     "@tailwindcss/vite": "4.3.3",
     "astro": "7.4.4",
     "pagefind": "1.6.0",
+    "sharp": "0.35.5",
     "tailwindcss": "4.3.3",
     "typescript": "5.9.3",
     "zod": "4.6.7"

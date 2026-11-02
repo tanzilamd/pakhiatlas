@@ -1,0 +1,101 @@
+[
+  {
+    "species": "budgerigar",
+    "en": "English / Exhibition",
+    "bn": "ইংলিশ / এক্সিবিশন",
+    "typeEn": "Domestic variety",
+    "typeBn": "গৃহপালিত ধরন",
+    "noteEn": "Same species; appearance and selected body form differ.",
+    "noteBn": "একই প্রজাতি; নির্বাচিত গড়ন ও চেহারায় পার্থক্য থাকে।"
+  },
+  {
+    "species": "budgerigar",
+    "en": "Lutino / Albino",
+    "bn": "লুটিনো / অ্যালবিনো",
+    "typeEn": "Colour mutation",
+    "typeBn": "রঙের মিউটেশন",
+    "noteEn": "Colour labels do not guarantee sex, temperament or parentage.",
+    "noteBn": "রঙের নাম দিয়ে লিঙ্গ, স্বভাব বা বংশ নিশ্চিত হয় না।"
+  },
+  {
+    "species": "budgerigar",
+    "en": "Pied / Spangle",
+    "bn": "পাইড / স্প্যাঙ্গল",
+    "typeEn": "Colour pattern",
+    "typeBn": "রঙের নকশা",
+    "noteEn": "Patterns within budgerigars, not separate species.",
+    "noteBn": "বাজরিগারের পালকের নকশা, আলাদা প্রজাতি নয়।"
+  },
+  {
+    "species": "cockatiel",
+    "en": "Lutino / Pearl / Pied",
+    "bn": "লুটিনো / পার্ল / পাইড",
+    "typeEn": "Colour mutation",
+    "typeBn": "রঙের মিউটেশন",
+    "noteEn": "Mutation and age can complicate visual sexing.",
+    "noteBn": "মিউটেশন ও বয়সের কারণে দেখে লিঙ্গ চেনা জটিল হতে পারে।"
+  },
+  {
+    "species": "cockatiel",
+    "en": "Whiteface",
+    "bn": "হোয়াইটফেস",
+    "typeEn": "Colour mutation",
+    "typeBn": "রঙের মিউটেশন",
+    "noteEn": "A colour form within cockatiels.",
+    "noteBn": "ককাটেলের রঙের একটি ধরন।"
+  },
+  {
+    "species": "green-cheeked-conure",
+    "en": "Pineapple",
+    "bn": "পাইনঅ্যাপল",
+    "typeEn": "Colour mutation combination",
+    "typeBn": "রঙের মিউটেশনের সমন্বয়",
+    "noteEn": "A green-cheeked conure colour form, not a separate conure species.",
+    "noteBn": "গ্রিন-চিকড কনিউরের রঙের ধরন, আলাদা কনিউর প্রজাতি নয়।"
+  },
+  {
+    "species": "green-cheeked-conure",
+    "en": "Turquoise / Cinnamon",
+    "bn": "টারকোয়েজ / সিনামন",
+    "typeEn": "Colour mutation",
+    "typeBn": "রঙের মিউটেশন",
+    "noteEn": "Keep species and mutation names separate in records.",
+    "noteBn": "নথিতে প্রজাতি ও মিউটেশনের নাম আলাদা রাখুন।"
+  },
+  {
+    "species": "domestic-pigeon",
+    "en": "Giribaz / Tumbler",
+    "bn": "গিরিবাজ / লোটন",
+    "typeEn": "Domestic type",
+    "typeBn": "গৃহপালিত ধরন",
+    "noteEn": "Domestic pigeon types; local labels may cover different lines.",
+    "noteBn": "গৃহপালিত কবুতরের ধরন; স্থানীয় নামে ভিন্ন বংশ বোঝাতে পারে।"
+  },
+  {
+    "species": "domestic-pigeon",
+    "en": "Fantail",
+    "bn": "ফ্যানটেইল",
+    "typeEn": "Domestic breed type",
+    "typeBn": "গৃহপালিত জাতের ধরন",
+    "noteEn": "A domestic pigeon form, not a wild dove species.",
+    "noteBn": "গৃহপালিত কবুতরের ধরন, বন্য ঘুঘুর প্রজাতি নয়।"
+  },
+  {
+    "species": "canary",
+    "en": "Song, colour and form varieties",
+    "bn": "গান, রং ও গঠনের জাত",
+    "typeEn": "Domestic varieties",
+    "typeBn": "গৃহপালিত বিভিন্ন ধরন",
+    "noteEn": "Choose for actual welfare needs rather than guaranteed song.",
+    "noteBn": "নিশ্চিত গানের আশ্বাসের বদলে নিজস্ব যত্নের চাহিদা দেখে বাছুন।"
+  },
+  {
+    "species": "rose-ringed-parakeet",
+    "en": "Lutino / Blue Ringneck",
+    "bn": "লুটিনো / ব্লু রিংনেক",
+    "typeEn": "Colour mutation",
+    "typeBn": "রঙের মিউটেশন",
+    "noteEn": "“Yellow parrot” can mean a lutino ringneck, but can also mean another species. Establish identity first.",
+    "noteBn": "“হলুদ টিয়া” লুটিনো রিংনেক বোঝাতে পারে, আবার অন্য প্রজাতিও হতে পারে। আগে সঠিক পরিচয় জানুন।"
+  }
+]

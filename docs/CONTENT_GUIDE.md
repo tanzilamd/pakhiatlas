@@ -8,3 +8,11 @@
 6. Run `npm ci`, `npm run check`, `npm run build`, `npm test`. Review mobile appearance and both languages. Commit and push to main; Actions builds and deploys when Pages is enabled.
 
 A source-verified publishing status is deliberately not available in this initial schema: expand the schema, source ledger and review process together after real passage-level verification. Current content remains transparently marked as draft. Back up through Git commits, not a separate CMS.
+
+## Reader-facing presentation and photos
+
+Keep network diagnostics and editorial workflow labels out of the public page copy. Omit unsupported claims or replace them with useful supported guidance; never substitute “verified” or “veterinarian-reviewed” without evidence. Internal frontmatter status and the research ledger remain honest records.
+
+Canonical native entries: src/data/wildlife.json, with paired Markdown in src/content/wildlife/{bn,en}; these render under localized wildlife routes and do not enter companion recommendations. Colour/domestic varieties: src/data/varieties.json. Never assign a species-level scientific identity to a colour mutation.
+
+Real photos: inspect the species and original license, download the permitted file locally, and prepare metadata JSON with creator, sourceUrl, license, licenseUrl, altBn, altEn, speciesConfirmed:true and licenseConfirmed:true. Allowed license identifiers are CC0-1.0, CC-BY-4.0, CC-BY-SA-4.0, CC-BY-3.0, CC-BY-SA-3.0, Public domain. Run `npm run media:add -- species-slug /path/photo.jpg /path/metadata.json`. It produces local responsive WebP variants and updates src/data/photos.json. Repeat for additional views of the same species. These confirmation fields document actual review; do not set them speculatively. The gallery preserves creator/license links. Test the final photos visually, check sizes and attribution, and commit images plus metadata. The importer has not yet been validated against a real licensed bird asset in this environment because source access is blocked.
