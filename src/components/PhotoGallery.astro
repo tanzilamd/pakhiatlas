@@ -1,6 +1,6 @@
 ---
 import 'photoswipe/style.css';
-import PhotoCredit from './PhotoCredit.astro';
+
 import {photosForSpecies} from '../data/media';
 import {url,t,type Lang} from '../data/site';
 interface Props {species:string;lang:Lang}
@@ -9,7 +9,7 @@ const {species,lang}=Astro.props;const images=photosForSpecies(species);
 {images.length>0&&<section class="bird-gallery" aria-label={t(lang,'Bird photographs','পাখির ছবি')}>
   <div class="gallery-heading"><span>{t(lang,'A closer look','কাছে থেকে দেখুন')}</span><span class="muted">{t(lang,'Tap to zoom · swipe to browse','ছবিতে চাপুন · সোয়াইপ করে পরের ছবি দেখুন')}</span></div>
   <div class="gallery-stage"><a href={url(images[0].src)} class="gallery-open" data-gallery-open="0" aria-label={t(lang,'Open photo viewer','ছবি বড় করে দেখুন')}><img src={url(images[0].src)} srcset={images[0].srcset.map(v=>`${url(v.src)} ${v.width}w`).join(', ')} sizes="(max-width:700px) 90vw, 760px" width={images[0].width} height={images[0].height} alt={lang==='bn'?images[0].altBn:images[0].altEn} loading="eager" decoding="async"/><span class="gallery-expand" aria-hidden="true"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M8 3H3v5m13-5h5v5M3 16v5h5m13-5v5h-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></span></a></div>
-  <div class="gallery-captions">{images.map((photo,i)=><div data-gallery-caption={i} hidden={i!==0}><p>{lang==='bn'?(photo.captionBn||photo.altBn):(photo.captionEn||photo.altEn)}</p><PhotoCredit photo={photo} lang={lang}/></div>)}</div>
+  <div class="gallery-captions">{images.map((photo,i)=><div data-gallery-caption={i} hidden={i!==0}><p>{lang==='bn'?(photo.captionBn||photo.altBn):(photo.captionEn||photo.altEn)}</p></div>)}</div>
   {images.length>1&&<div class="gallery-thumbnails" aria-label={t(lang,'Choose a photograph','ছবি বেছে নিন')}>{images.map((p,i)=><a href={url(p.src)} data-gallery-thumb={i} aria-current={i===0?'true':undefined} aria-label={`${i+1}. ${lang==='bn'?p.altBn:p.altEn}`}><img src={url(p.srcset[0].src)} width={p.width} height={p.height} alt="" loading="lazy"/><span>{i+1}</span></a>)}</div>}
   <div class="gallery-source-links" hidden>{images.map((p,i)=><a href={url(p.src)} data-pswp-width={p.width} data-pswp-height={p.height} data-caption={lang==='bn'?(p.captionBn||p.altBn):(p.captionEn||p.altEn)} data-credit={p.sourceUrl} data-gallery-item={i}><img src={url(p.srcset[0].src)} alt={lang==='bn'?p.altBn:p.altEn} width={p.width} height={p.height} loading="lazy"/></a>)}</div>
 </section>}

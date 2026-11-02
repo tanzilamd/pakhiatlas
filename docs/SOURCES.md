@@ -1,5 +1,9 @@
 # Source ledger
 
-Canonical navigation links and access status: src/data/references.ts. All direct external medical, legal, taxonomic and official-doc requests were denied by the environment proxy at preparation time. Publication dates: unknown. Last retrieval attempt: 2026-11-02. No passages were successfully inspected. Citation presence does not certify a claim. Next editor must record passage-level support and verify destination URLs, including redirects and moved references.
+Canonical reference URLs and actual access/retrieval status are in src/data/references.ts. Medical, legal and taxonomic direct-source retrieval remained blocked on 2026-11-02; citations alone do not verify claims. Do not claim clinical review or passage-level verification. Next editors must add actual supporting passages and dated access evidence.
 
-Original SVG artwork: created for this repository, no external source images used. See public/images/manifest.json. No claims of photographic authenticity.
+The pinned OrnithoDex secondary species/media records and their per-file attribution declarations were read. A suspect cockatiel measurement was rejected. The archived KinBird regional budgie price table was actually read, but is only a secondary historic Bangladesh example; see PRICE_RESEARCH.md. No current Dhaka price survey was retrieved.
+
+All per-photo evidence, original file URLs, rights limitations and rejected examples are in photos.json and MEDIA_SOURCES.md. The localized /sources/ page centralizes reader-facing research links and photograph/software credits. /media/ redirects there. Article frontmatter keeps source IDs and the internal editorial state. Centralized display is not removal of attribution or a verified-source claim.
+
+Original SVG decorative mark and labelled droppings diagram are original illustrations, not clinical photographs. No generated bird photograph is used.

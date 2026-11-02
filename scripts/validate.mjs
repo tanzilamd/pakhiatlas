@@ -49,5 +49,7 @@ for(const photo of photos) {
 }
 const traits=JSON.parse(await readFile('src/data/care-traits.json','utf8'));
 for(const bird of birds){const values=traits.species[bird.slug];assert(values,'Missing care traits for '+bird.slug);for(const key of Object.keys(traits.labels))assert(traits.labels[key][values[key]],'Unknown care trait '+bird.slug+' '+key);assert(values.watchOut.length===2)}
-const foods=JSON.parse(await readFile('src/data/foods.json','utf8'));for(const food of foods){assert(references[food.source],'Unknown food source');assert(['danger','conditional','appropriate','avoid','evidence'].includes(food.category));}
+const foods=JSON.parse(await readFile('src/data/foods.json','utf8'));for(const food of foods){assert(references[food.source],'Unknown food source');assert(['fruit','vegetables','grains','protein','other'].includes(food.group),'Unknown food group');assert(['danger','conditional','appropriate','avoid','evidence'].includes(food.category));}
 console.log(`Validated ${total} localized articles, canonical species and translation parity; ${varieties.length} variety groups; ${photos.length} real photo records.`);
+
+const prices=JSON.parse(await readFile('src/data/prices.json','utf8'));for(const p of prices){assert(birds.some(b=>b.slug===p.species));assert(references[p.source]);assert.equal(p.currency,'BDT');assert.equal(p.unit,'bird');assert.equal(p.dhakaConfirmed,false);for(const range of p.ranges){assert(range.min>0&&range.max>=range.min);assert(range.bn&&range.en)}}

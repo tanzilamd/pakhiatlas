@@ -1,4 +1,5 @@
 export const references: Record<string,{name:string,url:string,status:string}> = {
+budgieprices:{name:'KinBird Aviary — Budgerigar Prices 2025–2026 by Region (archived published table)',url:'https://github.com/aayaan911/Budgerigar-Genetic-Calculator/blob/5c06cd37a68af16f8c7e226df8fbfa0c48dbd50b/index.html',status:'Archived table read 2026-11-02; secondary Bangladesh ranges per adult bird; underlying breeder reports not individually supplied; not a verified Dhaka survey'},
 ornithodex:{name:'OrnithoDex — species source collection',url:'https://github.com/naanouff/OrnithoDex/tree/4128f1a61fd5ced6d742b487c826d283762fd063',status:'Source data and per-file credits read 2026-11-02; secondary educational source, not veterinary review'},
 vcacockatiel:{name:'VCA — Cockatiels: Feeding',url:'https://vcahospitals.com/know-your-pet/cockatiels-feeding',status:'Known clinical reference link; direct retrieval blocked in this environment'},
 aav:{name:'Association of Avian Veterinarians — bird owner resources',url:'https://www.aav.org/page/birdowners',status:'Source retrieval blocked; passage verification pending'},

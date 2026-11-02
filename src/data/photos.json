@@ -38,7 +38,8 @@
       "budgerigar-natural-green"
     ],
     "identityCheckedAt": "2026-11-02",
-    "licenseEvidenceScope": "source-repository-declaration"
+    "licenseEvidenceScope": "source-repository-declaration",
+    "primary": false
   },
   {
     "id": "ef6f36193f9e",
@@ -77,7 +78,8 @@
       "cockatiel-normal-grey"
     ],
     "identityCheckedAt": "2026-11-02",
-    "licenseEvidenceScope": "source-repository-declaration"
+    "licenseEvidenceScope": "source-repository-declaration",
+    "primary": false
   },
   {
     "id": "ba8f57549676",
@@ -263,7 +265,8 @@
       "budgerigar-natural-green"
     ],
     "identityCheckedAt": "2026-11-02",
-    "licenseEvidenceScope": "source-repository-declaration"
+    "licenseEvidenceScope": "source-repository-declaration",
+    "primary": false
   },
   {
     "id": "53583c3812be",
@@ -305,7 +308,8 @@
       "cockatiel-normal-grey"
     ],
     "identityCheckedAt": "2026-11-02",
-    "licenseEvidenceScope": "source-repository-declaration"
+    "licenseEvidenceScope": "source-repository-declaration",
+    "primary": false
   },
   {
     "id": "4edc156ec41b",
@@ -1189,7 +1193,7 @@
     "altBn": "হালকা হলুদ-সাদা পালক ও কমলা গালের লুটিনো ককাটেল।",
     "captionEn": "Lutino-coloured cockatiels with pale yellow-white feathers and orange cheek patches.",
     "captionBn": "হালকা হলুদ-সাদা পালক ও কমলা গালের লুটিনো ককাটেল।",
-    "primary": true,
+    "primary": false,
     "varietyIds": [
       "cockatiel-lutino"
     ],
@@ -1235,7 +1239,7 @@
     "altBn": "লুটিনো ককাটেলের হালকা হলুদ-সাদা শরীর ও কমলা গাল।",
     "captionEn": "A pale yellow-white lutino-coloured cockatiel, showing most of the body.",
     "captionBn": "লুটিনো ককাটেলের হালকা হলুদ-সাদা শরীর ও কমলা গাল।",
-    "primary": false,
+    "primary": true,
     "varietyIds": [
       "cockatiel-lutino"
     ],
@@ -2018,7 +2022,7 @@
     "varietyIds": [
       "budgerigar-blue"
     ],
-    "primary": false,
+    "primary": true,
     "speciesConfirmed": true,
     "licenseConfirmed": true,
     "sourceRepository": "https://github.com/allsiterepos/trg-catalog",
@@ -2066,5 +2070,93 @@
     "licenseEvidenceScope": "source-repository-declaration",
     "identityCheckedAt": "2026-11-02",
     "changeNotice": "Resized and converted to WebP."
+  },
+  {
+    "id": "ed08e18e70d0",
+    "species": "cockatiel",
+    "src": "/images/cockatiel-ed08e18e70d0-1200.webp",
+    "width": 1200,
+    "height": 1500,
+    "srcset": [
+      {
+        "src": "/images/cockatiel-ed08e18e70d0-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/cockatiel-ed08e18e70d0-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/cockatiel-ed08e18e70d0-1200.webp",
+        "width": 1200
+      }
+    ],
+    "creator": "Unsplash collection credited by Sitas&Peculiar; individual photographer not supplied",
+    "creditLabelBn": "সিতাস অ্যান্ড পেকুলিয়ার সংগ্রহ",
+    "creditLabelEn": "Sitas&Peculiar image collection",
+    "sourceUrl": "https://github.com/mauricioc08/Sitas-e-Peculiar/blob/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/img/site/sexagem-retrato-1600.jpg",
+    "license": "Source credit",
+    "licenseUrl": "https://github.com/mauricioc08/Sitas-e-Peculiar/blob/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/README.md",
+    "sourceAttributionOnly": true,
+    "rightsStatus": "not-stated",
+    "licenseConfirmed": false,
+    "altBn": "পার্ল ককাটেল; ঘাড় ও ডানায় হালকা মুক্তোর মতো নকশা দেখা যাচ্ছে।",
+    "altEn": "Pearl cockatiel showing pale scalloped markings on the neck and wing.",
+    "captionBn": "পার্ল ককাটেল; ঘাড় ও ডানায় হালকা মুক্তোর মতো নকশা দেখা যাচ্ছে।",
+    "captionEn": "Pearl cockatiel showing pale scalloped markings on the neck and wing.",
+    "speciesConfirmed": true,
+    "varietyIds": [
+      "cockatiel-pearl"
+    ],
+    "sourceRepository": "https://github.com/mauricioc08/Sitas-e-Peculiar",
+    "sourceCommit": "0459c1f85d16d4854b8fc27c9aa8f2141355d1c9",
+    "downloadUrl": "https://raw.githubusercontent.com/mauricioc08/Sitas-e-Peculiar/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/img/site/sexagem-retrato-1600.jpg",
+    "licenseEvidenceUrl": "https://github.com/mauricioc08/Sitas-e-Peculiar/blob/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/README.md",
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized only; no generated or recoloured bird content. Source README names Unsplash collectively without original per-file photographer or license evidence."
+  },
+  {
+    "id": "fd76637ac497",
+    "species": "cockatiel",
+    "src": "/images/cockatiel-fd76637ac497-1024.webp",
+    "width": 1024,
+    "height": 576,
+    "srcset": [
+      {
+        "src": "/images/cockatiel-fd76637ac497-400.webp",
+        "width": 400
+      },
+      {
+        "src": "/images/cockatiel-fd76637ac497-800.webp",
+        "width": 800
+      },
+      {
+        "src": "/images/cockatiel-fd76637ac497-1024.webp",
+        "width": 1024
+      }
+    ],
+    "creator": "Unsplash collection credited by Sitas&Peculiar; individual photographer not supplied",
+    "creditLabelBn": "সিতাস অ্যান্ড পেকুলিয়ার সংগ্রহ",
+    "creditLabelEn": "Sitas&Peculiar image collection",
+    "sourceUrl": "https://github.com/mauricioc08/Sitas-e-Peculiar/blob/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/img/site/gaiola-limpeza-1600.jpg",
+    "license": "Source credit",
+    "licenseUrl": "https://github.com/mauricioc08/Sitas-e-Peculiar/blob/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/README.md",
+    "sourceAttributionOnly": true,
+    "rightsStatus": "not-stated",
+    "licenseConfirmed": false,
+    "altBn": "হোয়াইটফেস ককাটেলের সাদা-ধূসর মুখ; স্বাভাবিক হলুদ ও কমলা রং নেই।",
+    "altEn": "Whiteface cockatiel with a white-grey face lacking the usual yellow and orange colouring.",
+    "captionBn": "হোয়াইটফেস ককাটেলের সাদা-ধূসর মুখ; স্বাভাবিক হলুদ ও কমলা রং নেই।",
+    "captionEn": "Whiteface cockatiel with a white-grey face lacking the usual yellow and orange colouring.",
+    "speciesConfirmed": true,
+    "varietyIds": [
+      "cockatiel-whiteface"
+    ],
+    "sourceRepository": "https://github.com/mauricioc08/Sitas-e-Peculiar",
+    "sourceCommit": "0459c1f85d16d4854b8fc27c9aa8f2141355d1c9",
+    "downloadUrl": "https://raw.githubusercontent.com/mauricioc08/Sitas-e-Peculiar/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/img/site/gaiola-limpeza-1600.jpg",
+    "licenseEvidenceUrl": "https://github.com/mauricioc08/Sitas-e-Peculiar/blob/0459c1f85d16d4854b8fc27c9aa8f2141355d1c9/README.md",
+    "identityCheckedAt": "2026-11-02",
+    "changeNotice": "Resized only; no generated or recoloured bird content. Source README names Unsplash collectively without original per-file photographer or license evidence."
   }
 ]

@@ -6,7 +6,9 @@ Bilingual, entirely static bird encyclopedia and care reference for Bangladesh. 
 
 **Research edition, not a complete verified encyclopedia.** Thirty-eight companion profiles, five native-bird identification entries and twenty-one guides in both languages are presented as reader-facing articles, with internal research status recorded in docs/COVERAGE.md. Direct source research was network-blocked. No legal permission, local availability or veterinary review is claimed. See [coverage](docs/COVERAGE.md).
 
-All 43 published bird profiles have real local photographs: 54 photos, 151 responsive variants. Cockatiel uses a lutino cover; colour examples, compact below-photo credits and PhotoSwipe zoom/swipe galleries are built in. [Photo provenance](docs/MEDIA_SOURCES.md) distinguishes explicit license evidence from source-only credits.
+All 43 published bird profiles have real local photographs: 56 photos, 157 responsive variants. Blue budgie and bird-focused lutino cockatiel covers, five photographed cockatiel colour forms, whole-frame cards and local PhotoSwipe galleries are included. [Photo provenance](docs/MEDIA_SOURCES.md) distinguishes explicit license evidence from source-only credits; all public attribution is on one localized Sources & acknowledgements page.
+
+The main-navigation Feeding hub highlights the cockatiel plan, seed-mix preparation, balanced diet, species chapters and all 26 foods with practical filters. Four priority profiles have expanded bilingual arrival, housing, daily care, behaviour and FAQ chapters. The bird explorer combines synchronized group, name, sound, size and interaction filters.
 
 ## Develop
 
@@ -24,11 +26,10 @@ Local fallback origin/base is `https://tanzilamd.github.io` and `/pakhiatlas`. A
 
 The owner must verify current sources and law before treating this draft edition as a trusted care resource. See docs/AI_HANDOFF.md for external access blockers.
 
-## Photos and reading list
+## Photos, tools and evidence limits
 
-Six real species photographs are stored locally with credits and responsive WebP variants; see docs/MEDIA_SOURCES.md. Twenty-five species still need photographs. Reading-list pages work entirely in browser storage, migrate older saved entries, and retain article identity across languages. Run `npm run test:browser` with preview running for functional browser checks.
+Reading lists work entirely in browser storage, migrate older saved entries and retain article identity across languages. Run `npm run test:browser` with preview running for functional checks, including photo decoding, viewer controls, food filters, feeding routes and central attribution.
 
-Public GitHub Actions data confirms previous Pages deployments succeeded. GitHub reports the Pages URL as http://tanzilahmed.tech/pakhiatlas/; the local runner cannot request the live host because of its network policy. Environment Publish and GitHub Pages deployment are separate operations.
+The explorer includes every canonical species; varieties stay inside profiles. Tools compare practical care differences, build a readiness-based shortlist, check foods and calculate user-entered taka budgets. prices.json records one scoped, archived secondary Bangladesh budgie range (2025–2026 per adult bird). It is not a current Dhaka survey. Current prices for cockatiel, lovebirds and conures remain a research gap; no demo/foreign rates were substituted. See [price research](docs/PRICE_RESEARCH.md) and [feeding corrections](docs/FEEDING_REVIEW.md).
 
-
-The bird explorer now combines every species, while varieties stay inside profiles. Practical tools compare actual care differences, build a readiness-based shortlist, check 28 foods and calculate user-entered taka budgets. Current numeric Dhaka market prices remain a documented research gap; see [price research](docs/PRICE_RESEARCH.md). [Feeding corrections](docs/FEEDING_REVIEW.md) explain the changes to the supplied cockatiel note.
+Public GitHub Actions data confirms previous Pages deployments succeeded. GitHub reports the Pages URL as http://tanzilahmed.tech/pakhiatlas/; direct live-host requests remain denied by the runner network. Exact latest workflow evidence is recorded in docs/VALIDATION.md. Environment Publish and GitHub Pages deployment are separate operations.

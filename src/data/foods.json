@@ -6,7 +6,8 @@
     "category": "danger",
     "noteEn": "Avoid. Potentially toxic to birds; contact a veterinarian after exposure.",
     "noteBn": "এড়িয়ে চলুন। পাখির জন্য বিষাক্ত হতে পারে; খেয়ে ফেললে চিকিৎসককে জানান।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "fruit"
   },
   {
     "en": "Chocolate and caffeine",
@@ -15,7 +16,8 @@
     "category": "danger",
     "noteEn": "Avoid chocolate, coffee and caffeinated drinks. Suspected ingestion needs prompt veterinary advice.",
     "noteBn": "চকলেট, কফি ও ক্যাফেইনযুক্ত পানীয় এড়ান। খেয়ে ফেলেছে সন্দেহ হলে দ্রুত চিকিৎসকের পরামর্শ নিন।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "other"
   },
   {
     "en": "Apple flesh",
@@ -24,7 +26,8 @@
     "category": "conditional",
     "noteEn": "Washed flesh can be offered as part of an appropriate species-specific diet. Remove seeds and core. Fruit is not a complete diet.",
     "noteBn": "উপযুক্ত প্রজাতিভিত্তিক খাদ্যের অংশ হিসেবে ধোয়া শাঁস দেওয়া যায়। বীজ ও মাঝের শক্ত অংশ সরান। ফল পূর্ণাঙ্গ খাবার নয়।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "fruit"
   },
   {
     "en": "Carrot",
@@ -33,7 +36,8 @@
     "category": "appropriate",
     "noteEn": "Washed, plain carrot can be part of a suitable varied diet. Prepare for the bird’s size and avoid salt, oil and sauces.",
     "noteBn": "উপযুক্ত বৈচিত্র্যময় খাবারের অংশ হিসেবে ধোয়া সাধারণ গাজর দেওয়া যায়। আকার অনুযায়ী প্রস্তুত করুন; লবণ, তেল ও সস নয়।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "vegetables"
   },
   {
     "en": "Moldy food",
@@ -42,7 +46,8 @@
     "category": "avoid",
     "noteEn": "Discard moldy or spoiled food. Do not trim off visible mold and feed the rest.",
     "noteBn": "ছত্রাকযুক্ত বা পচা খাবার ফেলে দিন। দৃশ্যমান ছত্রাকটুকু কেটে বাকিটা দেবেন না।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "other"
   },
   {
     "en": "Banana flesh",
@@ -51,7 +56,8 @@
     "category": "conditional",
     "noteEn": "Plain peeled banana may be part of an appropriate species-specific plan; fruit is not a complete diet. Remove spoiled leftovers.",
     "noteBn": "খোসা ছাড়ানো সাধারণ কলা প্রজাতির উপযুক্ত খাদ্যতালিকার অংশ হতে পারে। ফল পূর্ণাঙ্গ খাবার নয়; নষ্ট বা পড়ে থাকা অংশ সরান।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "fruit"
   },
   {
     "en": "Papaya flesh",
@@ -60,7 +66,8 @@
     "category": "conditional",
     "noteEn": "Offer plain prepared flesh only as part of a suitable balanced diet. Prepare washed flesh without skin and seeds for simple serving.",
     "noteBn": "উপযুক্ত সুষম খাদ্যের অংশ হিসেবে সাধারণ শাঁস দিন। ধুয়ে খোসা ও বীজ ছাড়িয়ে পরিবেশনের উপযোগী করুন।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "fruit"
   },
   {
     "en": "Mango flesh",
@@ -69,7 +76,8 @@
     "category": "conditional",
     "noteEn": "Wash and offer plain flesh without the stone. Fruit should complement, not replace, an appropriate feeding plan.",
     "noteBn": "ধুয়ে আঁটি ছাড়া সাধারণ শাঁস দিন। ফল প্রজাতির উপযুক্ত খাবারের সঙ্গে থাকবে, পুরো খাদ্যতালিকার বিকল্প হবে না।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "fruit"
   },
   {
     "en": "Guava",
@@ -78,7 +86,8 @@
     "category": "conditional",
     "noteEn": "Wash and prepare manageable pieces for the individual bird. Species-specific food needs still apply; guava alone is not a complete ration.",
     "noteBn": "ধুয়ে নিজের পাখির খাওয়ার উপযোগী করে দিন। প্রজাতির খাদ্যচাহিদা মাথায় রাখুন; শুধু পেয়ারা পূর্ণাঙ্গ খাবার নয়।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "fruit"
   },
   {
     "en": "Cucumber",
@@ -87,7 +96,8 @@
     "category": "conditional",
     "noteEn": "Offer washed plain cucumber, without salt or seasoning, within a suitable plan. Water-rich foods can affect the urine component; persistent changes still need attention.",
     "noteBn": "লবণ-মসলা ছাড়া ধোয়া সাধারণ শসা উপযুক্ত খাদ্যতালিকার অংশ হিসেবে দিন। জলীয় খাবারে মূত্রের অংশ বদলাতে পারে; স্থায়ী পরিবর্তনকে শুধু খাবারের দোষ ধরে নেবেন না।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "vegetables"
   },
   {
     "en": "Broccoli",
@@ -96,7 +106,8 @@
     "category": "appropriate",
     "noteEn": "Washed plain broccoli can contribute to a suitable varied diet. Avoid salt, oil and sauces; check what is actually eaten.",
     "noteBn": "ধোয়া সাধারণ ব্রকলি উপযুক্ত বৈচিত্র্যময় খাবারের অংশ হতে পারে। লবণ, তেল ও সস এড়ান; আসলে কতটা খাচ্ছে দেখুন।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "vegetables"
   },
   {
     "en": "Peas",
@@ -105,7 +116,8 @@
     "category": "conditional",
     "noteEn": "Plain peas may fit an appropriate diet; avoid salted canned preparations or spicy household dishes. They are not a complete ration.",
     "noteBn": "উপযুক্ত খাবারের অংশ হিসেবে সাধারণ মটরশুঁটি দেওয়া যায়। লবণযুক্ত কৌটার খাবার বা মসলার তরকারি দেবেন না। এটি পূর্ণাঙ্গ খাদ্য নয়।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "vegetables"
   },
   {
     "en": "Plain cooked rice",
@@ -114,7 +126,8 @@
     "category": "conditional",
     "noteEn": "A little plain cooked rice can fit some birds’ plans, but rice alone is nutritionally incomplete. Do not serve salted, oily or spoiled leftovers.",
     "noteBn": "কিছু পাখির উপযুক্ত খাদ্যতালিকায় সাধারণ রান্না করা ভাত থাকতে পারে, কিন্তু শুধু ভাতে পূর্ণ পুষ্টি হয় না। লবণ-তেল মেশানো বা নষ্ট বাসি অংশ দেবেন না।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "grains"
   },
   {
     "en": "Plain cooked lentils",
@@ -123,7 +136,8 @@
     "category": "conditional",
     "noteEn": "Use only a suitable fully cooked plain preparation within an individual plan. Household dal with onion, salt, oil and spices is not the same food.",
     "noteBn": "নিজের পাখির খাবারের পরিকল্পনা অনুযায়ী ভালোভাবে সেদ্ধ সাধারণ ডাল ব্যবহার করুন। পেঁয়াজ, লবণ, তেল ও মসলা দিয়ে রান্না করা ঘরের ডাল একই খাবার নয়।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "protein"
   },
   {
     "en": "Sunflower seed",
@@ -132,7 +146,8 @@
     "category": "conditional",
     "noteEn": "A favourite seed or training reward is not a balanced diet. Use only where appropriate to the species; do not let selective eating replace nutritional planning.",
     "noteBn": "পছন্দের বীজ বা অনুশীলনের পুরস্কার পূর্ণাঙ্গ খাদ্য নয়। প্রজাতির উপযোগী হলে ব্যবহার করুন; শুধু পছন্দের বীজ বেছে খাওয়াকে সুষম পরিকল্পনার বিকল্প ভাববেন না।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "grains"
   },
   {
     "en": "Salty processed snacks",
@@ -141,7 +156,8 @@
     "category": "avoid",
     "noteEn": "Do not use salty processed household snacks as bird feed. Choose an appropriate plain food instead.",
     "noteBn": "নোনতা প্যাকেটের খাবার পাখির খাবার হিসেবে দেবেন না। তার বদলে উপযুক্ত সাধারণ খাবার বেছে নিন।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "other"
   },
   {
     "en": "Alcohol",
@@ -150,7 +166,8 @@
     "category": "danger",
     "noteEn": "Keep alcoholic drinks away. Suspected ingestion needs prompt veterinary advice; do not attempt an improvised home antidote.",
     "noteBn": "অ্যালকোহলযুক্ত পানীয় দূরে রাখুন। খেয়ে ফেলেছে সন্দেহ হলে দ্রুত চিকিৎসকের পরামর্শ নিন; ঘরে আন্দাজের প্রতিষেধক দেওয়ার চেষ্টা করবেন না।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "other"
   },
   {
     "en": "Spinach",
@@ -159,7 +176,8 @@
     "category": "conditional",
     "noteEn": "Washed spinach can be one occasional leafy option, not the only green or a calcium supplement. Rotate with other suitable vegetables.",
     "noteBn": "ধোয়া পালং অল্প করে অন্য উপযুক্ত শাকসবজির সঙ্গে ঘুরিয়ে দেওয়া যায়। এটিই একমাত্র শাক বা ক্যালসিয়ামের উৎস ধরে নেবেন না।",
-    "source": "vcacockatiel"
+    "source": "vcacockatiel",
+    "group": "vegetables"
   },
   {
     "en": "Coriander leaves",
@@ -168,7 +186,8 @@
     "category": "appropriate",
     "noteEn": "Small amounts of clean, pesticide-free coriander can add variety to an appropriate parrot diet.",
     "noteBn": "পরিষ্কার, কীটনাশকমুক্ত ধনেপাতা অল্প করে উপযুক্ত প্যারটের খাবারে বৈচিত্র্য আনতে পারে।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "vegetables"
   },
   {
     "en": "Pumpkin",
@@ -177,25 +196,8 @@
     "category": "appropriate",
     "noteEn": "Offer washed plain pieces or plain cooked pumpkin suitable for the bird’s size; no salt, sugar or spices.",
     "noteBn": "পাখির আকারমতো ধোয়া ছোট টুকরা বা সাদাভাবে রান্না করা মিষ্টিকুমড়া দিন; লবণ, চিনি বা মসলা নয়।",
-    "source": "vcadiet"
-  },
-  {
-    "en": "Papaya",
-    "bn": "পাকা পেঁপে",
-    "aliases": "papaya পেঁপে পেপে",
-    "category": "conditional",
-    "noteEn": "Ripe flesh in a small portion can be an occasional fruit. Fruit does not replace balanced staple food.",
-    "noteBn": "পাকা পেঁপের শাঁস অল্প পরিমাণে মাঝে মাঝে দেওয়া যায়। ফল দিয়ে মূল সুষম খাবারের জায়গা পূরণ হয় না।",
-    "source": "vcadiet"
-  },
-  {
-    "en": "Banana",
-    "bn": "কলা",
-    "aliases": "banana কলা",
-    "category": "conditional",
-    "noteEn": "A small plain piece can be a fruit treat; remove uneaten soft food before it spoils.",
-    "noteBn": "কলা ছোট টুকরা করে ট্রিট হিসেবে দিতে পারেন। নরম খাবার নষ্ট হওয়ার আগেই তুলে ফেলুন।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "vegetables"
   },
   {
     "en": "Watermelon",
@@ -204,7 +206,8 @@
     "category": "conditional",
     "noteEn": "Offer a small piece of clean flesh. More liquid in droppings can follow watery fruit; illness cannot be diagnosed by this change alone.",
     "noteBn": "ধোয়া শাঁস ছোট টুকরা করে দিন। পানিযুক্ত ফল খেলে বিষ্ঠায় তরল বাড়তে পারে; শুধু সেটি দেখে রোগ নির্ণয় করা যায় না।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "fruit"
   },
   {
     "en": "Cooked chickpeas and mung beans",
@@ -213,7 +216,8 @@
     "category": "conditional",
     "noteEn": "Use thoroughly cooked, plain legumes as one part of a varied appropriate diet. Overnight soaking alone does not make them equivalent to cooked food.",
     "noteBn": "ভালোভাবে সিদ্ধ, লবণ-মসলাবিহীন ডাল অল্প করে বৈচিত্র্যের অংশ হতে পারে। শুধু সারা রাত ভিজিয়ে রাখলেই সেটি সিদ্ধ খাবারের সমান হয় না।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "protein"
   },
   {
     "en": "Soaked or sprouted seeds",
@@ -222,7 +226,8 @@
     "category": "conditional",
     "noteEn": "Moisture and warmth encourage microbial growth. Strict food hygiene is needed; discard sour, slimy or moldy batches. Do not feed leftovers left soaking in heat.",
     "noteBn": "গরম ও আর্দ্রতায় জীবাণু বাড়ে। কঠোর খাদ্য-পরিচ্ছন্নতা দরকার; টক গন্ধ, পিচ্ছিল ভাব বা ছত্রাক হলে পুরো ব্যাচ ফেলুন। গরমে পড়ে থাকা ভেজানো খাবার দেবেন না।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "grains"
   },
   {
     "en": "Neem or tulsi as medicine",
@@ -231,7 +236,8 @@
     "category": "evidence",
     "noteEn": "No routine medicinal schedule is recommended here. Plant identity, preparation and species matter; herbal products do not replace veterinary care.",
     "noteBn": "মাসে নির্দিষ্ট দিন “প্রাকৃতিক ওষুধ” হিসেবে খাওয়ানোর রুটিন রাখবেন না। গাছের পরিচয়, প্রস্তুতি ও প্রজাতি গুরুত্বপূর্ণ; অসুস্থতায় ভেষজ দিয়ে চিকিৎসা পিছিয়ে দেবেন না।",
-    "source": "vcadiet"
+    "source": "vcadiet",
+    "group": "other"
   },
   {
     "en": "Grit for parrots",
@@ -240,15 +246,17 @@
     "category": "avoid",
     "noteEn": "Budgies, cockatiels, lovebirds and conures generally do not need insoluble grit to digest hulled seeds. Do not copy pigeon practice; excess grit can cause problems.",
     "noteBn": "বাজরিগার, ককাটেল, লাভবার্ড ও কনিউর সাধারণত বীজের খোসা ছাড়িয়ে খায়; হজমের জন্য অদ্রবণীয় গ্রিট দরকার হয় না। কবুতরের অভ্যাস নকল করবেন না; বেশি গ্রিট সমস্যা করতে পারে।",
-    "source": "vcacockatiel"
+    "source": "vcacockatiel",
+    "group": "other"
   },
   {
-    "en": "Sunflower and safflower seeds",
-    "bn": "সূর্যমুখী ও কুসুম বীজ",
-    "aliases": "sunflower safflower কুসুম সূর্যমুখী",
+    "en": "Safflower seeds",
+    "bn": "কুসুম বীজ",
+    "aliases": "safflower কুসুম কুসুমফুল কুসুম ফুল বীজ",
     "category": "conditional",
-    "noteEn": "These are energy-dense seeds, useful as limited rewards within a balanced plan rather than the main daily food.",
-    "noteBn": "এগুলো বেশি শক্তিসমৃদ্ধ বীজ। মূল খাবার বানানোর বদলে সুষম খাদ্যপরিকল্পনার মধ্যে সীমিত পুরস্কার হিসেবে রাখুন।",
-    "source": "vcacockatiel"
+    "noteEn": "Energy-dense seeds can be a limited part of a balanced species-appropriate feeding plan, not its main ingredient.",
+    "noteBn": "বেশি শক্তিসমৃদ্ধ এই বীজ সুষম প্রজাতিভিত্তিক পরিকল্পনার সীমিত অংশ হতে পারে; মূল খাবার নয়।",
+    "source": "vcacockatiel",
+    "group": "grains"
   }
 ]

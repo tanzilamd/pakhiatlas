@@ -1,0 +1,27 @@
+[
+  {
+    "species": "budgerigar",
+    "currency": "BDT",
+    "unit": "bird",
+    "period": "2025–2026",
+    "geography": "Bangladesh",
+    "source": "budgieprices",
+    "ranges": [
+      {
+        "en": "Pet-quality green / blue",
+        "bn": "সাধারণ সবুজ / নীল, পোষার মান",
+        "min": 300,
+        "max": 1200
+      },
+      {
+        "en": "Common colour mutations",
+        "bn": "প্রচলিত রঙের মিউটেশন",
+        "min": 1500,
+        "max": 6000
+      }
+    ],
+    "retrievedAt": "2026-11-02",
+    "evidenceType": "published-secondary-range",
+    "dhakaConfirmed": false
+  }
+]

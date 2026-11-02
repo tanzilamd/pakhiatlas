@@ -25,7 +25,7 @@ Provide clean water every day. Rather than vegetables on only three days and see
 
 Washed broccoli, carrot, pumpkin and pesticide-free coriander are useful options to introduce. They need not all be mixed together. Try different safe presentations without salt, oil, sauces or spices.
 
-Spinach should not appear as both a routine ingredient and a completely forbidden food in one plan. Small amounts can be rotated with other suitable greens; it should not be the only vegetable or the assumed calcium source. Identify any plant and its clean source before offering it.
+Spinach is not universally forbidden. Small amounts can be rotated with other suitable greens; it should not be the only vegetable or the assumed calcium source. Identify any plant and its clean source before offering it.
 
 ## Fruit is an extra, not the staple
 
@@ -41,7 +41,7 @@ Plain thoroughly cooked egg can be a limited extra in some feeding plans, but he
 
 ## Two birds do not share one universal spoon allowance
 
-Do not turn three or four tablespoons daily for two cockatiels into a universal ration. Body condition, activity, staple type, seed density and actual consumption differ. Seed offered is also different from the edible portion consumed after hulling.
+Do not use a single spoon measure as the daily ration for every cockatiel. Body condition, activity, staple type, seed density and actual consumption differ. Seed offered is also different from the edible portion consumed after hulling.
 
 Husks can make an empty bowl look full. Provide separate feeding positions when one bird excludes another. Never starve birds into accepting a new diet; falling intake requires attention.
 
