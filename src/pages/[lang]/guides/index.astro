@@ -1,4 +1,42 @@
 ---
-import Layout from '../../../layouts/Layout.astro';import {getCollection} from 'astro:content';import {url,t,type Lang} from '../../../data/site';export const getStaticPaths=()=>['bn','en'].map(lang=>({params:{lang}}));const lang=Astro.params.lang as Lang;const priority=['cockatiel-feeding','seed-mix','balanced-diet','food-transition','first-bird','travel-care'];const guides=(await getCollection('guides')).filter(g=>g.data.language===lang).sort((a,b)=>{const rank=(slug:string)=>{const i=priority.indexOf(slug);return i<0?99:i};return rank(a.data.slug)-rank(b.data.slug)});
+import Layout from '../../../layouts/Layout.astro';
+import {getCollection} from 'astro:content';
+import {guideTopics} from '../../../data/guide-topics';
+import {url,t,type Lang} from '../../../data/site';
+export const getStaticPaths=()=>['bn','en'].map(lang=>({params:{lang}}));
+const lang=Astro.params.lang as Lang;
+const priority=['first-bird','cockatiel-feeding','seed-mix','balanced-diet','food-transition','illness-emergency','droppings'];
+const rank=(slug:string)=>{const i=priority.indexOf(slug);return i<0?99:i};
+const allGuides=await getCollection('guides');
+const guides=allGuides.filter(g=>g.data.language===lang).sort((a,b)=>rank(a.data.slug)-rank(b.data.slug)||a.data.title.localeCompare(b.data.title,lang));
 ---
-<Layout lang={lang} title={t(lang,'Care library','যত্নের পাঠাগার')} path="guides/"><section class="page-intro"><span class="eyebrow">{t(lang,'A LITTLE EVERY DAY','প্রতিদিন একটু যত্ন')}</span><h1>{t(lang,'Care is something we learn.','যত্নও শেখার বিষয়।')}</h1><p>{t(lang,'Practical reading for a more thoughtful life with birds, from the first day at home to everyday feeding, behaviour and health.','পাখি ঘরে আনার প্রস্তুতি থেকে খাবার, আচরণ ও অসুস্থতার লক্ষণ—প্রয়োজনের সময় কাজে লাগে এমন পরিচর্যার পাঠ।')}</p></section><section class="section guide-grid">{guides.map((g,i)=><a class="guide-card" href={url(`${lang}/guides/${g.data.slug}/`)}><span class="guide-number">{String(i+1).padStart(2,'0')}</span><h2>{g.data.title}</h2><p>{g.data.summary}</p><span class="text-link">{t(lang,'Read guide','পড়ুন')} →</span></a>)}</section></Layout>
+<Layout lang={lang} title={t(lang,'Care library','যত্নের পাঠাগার')} description={t(lang,'Browse bird-care guides by topic: getting started, food, housing, behaviour, health and responsible breeding.','শুরু করার প্রস্তুতি, খাবার, বাসস্থান, আচরণ, স্বাস্থ্য ও প্রজনন—বিষয় ধরে পাখির যত্নের গাইড খুঁজুন।')} path="guides/">
+  <section class="page-intro"><span class="eyebrow">{t(lang,'A LITTLE EVERY DAY','প্রতিদিন একটু যত্ন')}</span><h1>{t(lang,'Care is something we learn.','যত্নও শেখার বিষয়।')}</h1><p>{t(lang,'Find the guidance you need now, or follow a topic from the beginning.','এখন যে বিষয়টি দরকার, সেটি বেছে নিন। নতুন শুরু করলে প্রস্তুতির গাইডগুলো আগে পড়তে পারেন।')}</p></section>
+  <section class="section care-library">
+    <form id="guide-filters" class="filters"><label>{t(lang,'Find a guide','গাইড খুঁজুন')}<input name="query" type="search" placeholder={t(lang,'Food, quarantine, sleep…','খাবার, কোয়ারেন্টিন, ঘুম…')} disabled/></label><label>{t(lang,'Topic','বিষয়')}<select name="topic" disabled><option value="">{t(lang,'All topics','সব বিষয়')}</option>{guideTopics.map(topic=><option value={topic.id}>{lang==='bn'?topic.bn:topic.en}</option>)}</select></label><button type="reset" disabled>{t(lang,'Clear filters','ফিল্টার মুছুন')}</button></form>
+    <p id="guide-count" role="status" class="muted">{new Intl.NumberFormat(lang==='bn'?'bn-BD':'en-GB').format(guides.length)} {t(lang,'guides','টি গাইড')}</p>
+    <nav class="topic-jumps" aria-label={t(lang,'Jump to a care topic','যত্নের বিষয়ে যান')}>{guideTopics.map(topic=><a href={`#topic-${topic.id}`}>{lang==='bn'?topic.bn:topic.en}</a>)}</nav>
+    {guideTopics.map(topic=><section class="guide-topic" id={`topic-${topic.id}`} data-guide-topic={topic.id}><div class="section-heading"><div><h2>{lang==='bn'?topic.bn:topic.en}</h2><p>{lang==='bn'?topic.descriptionBn:topic.descriptionEn}</p></div></div><div class="guide-grid">{guides.filter(g=>g.data.topic===topic.id).map(g=><a class="guide-card" data-guide-card data-topic={topic.id} data-search={`${g.data.title} ${g.data.summary} ${allGuides.find(other=>other.data.slug===g.data.slug&&other.data.language!==lang)?.data.title||''} ${topic.bn} ${topic.en}`.normalize('NFC').toLowerCase()} href={url(`${lang}/guides/${g.data.slug}/`)}><h3>{g.data.title}</h3><p>{g.data.summary}</p><span class="text-link">{t(lang,'Read guide','পড়ুন')} →</span></a>)}</div></section>)}
+    <p id="guide-empty" hidden>{t(lang,'No guides match. Try a shorter phrase or clear the topic filter.','গাইড পাওয়া যায়নি। ছোট করে লিখুন বা বিষয়ের ফিল্টার সরিয়ে দেখুন।')}</p>
+  </section>
+</Layout>
+<script>
+const form=document.querySelector<HTMLFormElement>('#guide-filters')!;
+const cards=Array.from(document.querySelectorAll<HTMLElement>('[data-guide-card]'));
+const topics=document.querySelectorAll<HTMLElement>('[data-guide-topic]');
+const lang=document.documentElement.lang;
+const filters=['query','topic'] as const;
+form.querySelectorAll<HTMLInputElement|HTMLSelectElement|HTMLButtonElement>('input,select,button').forEach(el=>el.disabled=false);
+for(const key of filters){const el=form.elements.namedItem(key) as HTMLInputElement|HTMLSelectElement;const value=new URLSearchParams(location.search).get(key);if(value!==null)el.value=value}
+function filterGuides(){
+ const query=(form.elements.namedItem('query') as HTMLInputElement).value.normalize('NFC').trim().toLowerCase();
+ const topic=(form.elements.namedItem('topic') as HTMLSelectElement).value;
+ let count=0;for(const card of cards){card.hidden=!!((topic&&card.dataset.topic!==topic)||(query&&!card.dataset.search!.includes(query)));if(!card.hidden)count++}
+ for(const section of topics)section.hidden=!cards.some(card=>!card.hidden&&card.dataset.topic===section.dataset.guideTopic);
+ document.querySelector('#guide-count')!.textContent=new Intl.NumberFormat(lang==='bn'?'bn-BD':'en-GB').format(count)+(lang==='bn'?'টি গাইড দেখা যাচ্ছে':' guides shown');document.querySelector<HTMLElement>('#guide-empty')!.hidden=count!==0;
+ const address=new URL(location.href);for(const key of filters){const value=(form.elements.namedItem(key) as HTMLInputElement|HTMLSelectElement).value;if(value)address.searchParams.set(key,value);else address.searchParams.delete(key)}history.replaceState(null,'',address);
+}
+form.addEventListener('submit',e=>e.preventDefault());form.addEventListener('input',filterGuides);form.addEventListener('change',filterGuides);form.addEventListener('reset',()=>setTimeout(filterGuides,0));
+document.querySelectorAll<HTMLAnchorElement>('.topic-jumps a').forEach(link=>link.addEventListener('click',()=>{(form.elements.namedItem('query') as HTMLInputElement).value='';(form.elements.namedItem('topic') as HTMLSelectElement).value=link.hash.replace('#topic-','');filterGuides()}));
+filterGuides();
+</script>

@@ -1,4 +1,4 @@
 ---
 import Layout from '../layouts/Layout.astro';import {url} from '../data/site';
 ---
-<Layout noindex lang="bn" title="পাতাটি পাওয়া যায়নি"><section class="page-intro"><span class="eyebrow">404</span><h1>পাতাটি উড়ে গেছে।</h1><p>Page not found. Try the encyclopedia or search.</p><a class="button" href={url('bn/')}>শুরুতে ফিরুন →</a> <a href={url('en/')}>English home</a></section></Layout>
+<Layout noindex lang="bn" title="পাতাটি পাওয়া যায়নি"><section class="page-intro"><span class="eyebrow">404</span><h1>পাতাটি উড়ে গেছে।</h1><p>ঠিকানা বদলেছে বা পাতাটি এখানে নেই। পাখির তালিকা বা খোঁজার পাতা থেকে শুরু করুন।<br/>Page not found. Browse the birds or search for a topic.</p><a class="button" href={url('bn/')}>শুরুতে ফিরুন →</a> <a href={url('en/')}>English home</a><nav class="not-found-links" aria-label="পাখি ও গাইড খুঁজুন / Find birds and guides"><a href={url('bn/birds/')}>পাখির তালিকা</a><a href={url('bn/search/')}>খুঁজুন / Search</a><a href={url('bn/guides/')}>যত্নের গাইড</a></nav></section></Layout>

@@ -1,9 +1,10 @@
 import {readdir, readFile, access} from 'node:fs/promises';
 import assert from 'node:assert/strict';
+import {topicIds} from '../src/data/guide-topics.ts';
 import {references} from '../src/data/references.ts';
 const birds=JSON.parse(await readFile('src/data/birds.json','utf8'));
 const wildlife=JSON.parse(await readFile('src/data/wildlife.json','utf8'));
-let total=0;
+let total=0;const guideTopicBySlug=new Map();
 for(const collection of ['birds','guides','wildlife']) {
   const pairs=[];
   for(const language of ['bn','en']) {
@@ -14,6 +15,7 @@ for(const collection of ['birds','guides','wildlife']) {
       const meta=JSON.parse(text.split('---')[1]);
       assert.equal(meta.language,language,file);for(const guide of meta.relatedGuides||[]){assert(/^[a-z0-9-]+$/.test(guide));await access(`src/content/guides/${language}/${guide}.md`)}
       assert.equal(meta.slug+'.md',file);
+      if(collection==='guides'){assert(topicIds.includes(meta.topic),`Missing or invalid guide topic: ${file}`);if(guideTopicBySlug.has(meta.slug))assert.equal(meta.topic,guideTopicBySlug.get(meta.slug),`Guide topic differs across translations: ${file}`);else guideTopicBySlug.set(meta.slug,meta.topic)}
       assert(meta.summary.length>20);
       assert(meta.sources.length>0);
       meta.sources.forEach(key=>assert(references[key],`Unknown reference ${key}: ${file}`));

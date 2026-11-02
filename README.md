@@ -35,3 +35,5 @@ The explorer includes every canonical species; varieties stay inside profiles. T
 Public GitHub Actions data confirms previous Pages deployments succeeded. GitHub reports the Pages URL as http://tanzilahmed.tech/pakhiatlas/; direct live-host requests remain denied by the runner network. Exact latest workflow evidence is recorded in docs/VALIDATION.md. Environment Publish and GitHub Pages deployment are separate operations.
 
 The [seed planner](docs/SEED_PLANNER.md) preserves the owner's10.7kg note separately from dietary evidence. Single or multiple ingredients can be excluded while retaining the remaining relative ratios. Common care procedures are centralized in guides instead of copied across profiles; see [content ownership](docs/CONTENT_OWNERSHIP.md). Duplicate-paragraph validation runs during builds.
+
+The [whole-site audit](docs/SITE_AUDIT.md) adds a bilingual health hub, seven-topic searchable care library, keyboard mobile menu, persistent filter/comparison/search URLs and shared language anchors. Guide frontmatter requires a localized-pair `topic`. Static tests now include anchor targets, responsive images, IDs and structured data.

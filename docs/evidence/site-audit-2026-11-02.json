@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-02",
+  "tool": "axe-core",
+  "version": "4.11.0",
+  "scope": "158 nonredirect localized routes at 360px, each in light and dark themes",
+  "ruleTags": [
+    "wcag2a",
+    "wcag2aa",
+    "wcag21aa"
+  ],
+  "pageThemeChecks": 316,
+  "reportedViolations": [],
+  "pageErrors": [],
+  "documentOverflowCount": 0,
+  "limitations": [
+    "Automated checks only; no full WCAG certification.",
+    "Browser interaction tests run separately.",
+    "No clinical accuracy, source-rights or Core Web Vitals certification."
+  ]
+}

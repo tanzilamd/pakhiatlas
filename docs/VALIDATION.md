@@ -1,13 +1,13 @@
-# Validation — selectable seed planning and shared content, 2026-11-02
+# Validation — whole-site audit, 2026-11-02
 
 Current library:40 companion +5 native species and24 guides, EACH in bn/en:138 localized articles.45 unique species, all photographed;65 distinct photos/180 responsive variants;27 in-profile colour/variety records,20 pictured;26 foods. Dependencies remain pinned and unchanged.
 
 Executed successfully:
 
 - `npm run validate:content`: language parity; canonical identities and no companion/native duplicates; unique photos/varieties and valid associations; honest source-only/collective rights records; complete comparison traits; food groups/categories/source IDs; price scope; seed-example species/source IDs, positive original gram weights matching the stated total and completeDiet:false.
-- `npm run check`:0 errors, warnings or hints across46 Astro files.
-- `npm run build`:164 static HTML files;138 articles indexed in two Pagefind languages. No server/runtime backend.
-- `npm test`:5,599 local links/assets resolve under `/pakhiatlas`, including relative Markdown links. A separate `SITE_URL=https://birds.example.org BASE_PATH=''` build passed all5,599 root-path checks, then project-subpath output was restored. This tests configuration, not a real domain.
+- `npm run check`:0 errors, warnings or hints across50 Astro/TypeScript files.
+- `npm run build`:166 static HTML files;138 articles indexed in two Pagefind languages. No server/runtime backend.
+- `npm test`:166 HTML pages,7,172 internal links/assets including630 responsive-image candidates, and1,002 fragment targets resolve under `/pakhiatlas`. One H1, unique IDs, image alt/dimensions, localized metadata and JSON-LD also pass. Seed math covers the original note, exclusions, costs, stock and measured-use forecasts.
 - `npm run test:browser`:all90 localized species routes, full-width profile galleries, context-preserving language links, legacy index redirects and ten English/Bangla/scientific/alias searches. New Thectocercus and Bengali macaw queries passed with language/base-aware result links.
 - Representative home, explorer, core profiles, droppings/feeding/seed guides, new species, new food-transition/travel guides, all tools, Feeding hub and sources at360/768/1440px: no sampled horizontal document overflow or page errors.
 - Full-frame cards:computed cover mode and image/container width AND height match, preventing the screenshot's side gutters. Profile photos use width100% and natural height; full original frames remain in the viewer. Screenshots of card grid, seed table, lovebird/monk varieties and macaw page inspected at all three widths. Relaxed lutino cover replaced the yawning cover.
@@ -25,8 +25,16 @@ Photo coverage:20/27 variety groups pictured. Seven gaps remain:budgie English/e
 
 GitHub Pages uses unchanged official configure-pages/upload-pages-artifact/deploy-pages actions, with real origin/base outputs. No CNAME/custom-domain setting was changed. Actual GitHub-reported Pages URL:http://tanzilahmed.tech/pakhiatlas/. Local browser checks are separate from production-host verification, which the runner's proxy has denied.
 
-Previous observed deployment:e02ee1ad9089c42e1259ff328d26e45344445bdb, run https://github.com/tanzilamd/pakhiatlas/actions/runs/41479997017, SUCCESS. This historical success does not establish the status of a newer commit; verify the exact pushed commit's run.
+Previous observed deployment:77d6989e8511433e83e8d04bfd9cad2afe62c403, run https://github.com/tanzilamd/pakhiatlas/actions/runs/41489783039, SUCCESS. This historical success does not establish the status of a newer commit; verify the exact pushed commit's run.
 
 ## Repetition audit
 
 The content build now validates relatedGuides targets and rejects repeated prose paragraphs longer than180 characters.501 repeated copies were consolidated across86 localized profiles;216 link-only headings became related-reading metadata. Species-specific prose remains. The audit reports zero repeated long paragraphs; this does not claim semantic duplicate detection or clinical fact verification. The new paired wildlife-observation guide is included in138 indexed articles.
+
+## Whole-site accessibility and navigation audit
+
+Axe-core4.11.0 was temporarily installed under `/tmp` for inspection, with no dependency added to the project. All158 nonredirect localized routes were checked at360px in both light and dark themes:316 page/theme checks,0 reported WCAG2A/AA/2.1AA violations,0 sampled horizontal document overflows and0 browser page errors. The initial audit found insufficient light muted-text/guide-number contrast; those values were corrected before the complete final crawl. This does not establish full WCAG conformance or clinical correctness.
+
+The navigation regression adds all24 guides/seven topics, bilingual title searches, topic/empty/reset/jump states, persistent filters after reload/language changes, dedicated health links, stable food/variety/planner anchors, comparison/search URL state, theme aria-pressed, native mobile-menu Enter/Escape/focus/desktop behavior and no-JS fallbacks. Health and library layouts were visually inspected at mobile/tablet widths; representative layouts also run at360/768/1440px. See SITE_AUDIT.md for changes and maintenance boundaries.
+
+The alternate root build (`SITE_URL=https://birds.example.org BASE_PATH=''`) also passed7,172 local-link/asset and1,002 fragment checks, including sitemap validation. Project-subpath output was then restored. This is configuration testing, not a deployed custom-domain claim. Automated accessibility summary: evidence/site-audit-2026-11-02.json.

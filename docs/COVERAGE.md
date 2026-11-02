@@ -1,7 +1,7 @@
 # Coverage — UX and care revision, 2026-11-02
 
 - 40 companion/aviary species + 5 native educational species, each in Bangla and English: 45 unique species, 90 localized profiles. Native species are in the same explorer but not in pet recommendations. Colour forms remain within their parent species profile.
-- 24 guides per language (46 localized guides). Total 138 localized articles. Three new guides cover cockatiel feeding, seed-mix preparation/storage and a Dhaka buying-budget framework.
+- 24 guides per language (48 localized guides). Total 138 localized articles. Three new guides cover cockatiel feeding, seed-mix preparation/storage and a Dhaka buying-budget framework.
 - Added Lilian’s lovebird, blue-fronted Amazon, umbrella cockatoo, red-crowned kakariki, galah, turquoise parrot, scarlet-chested parrot, crimson rosella, eastern rosella, red-rumped parrot, king quail and double-barred finch. Introductory coverage is deliberately shorter than popular-species care; no local Bangladesh availability is asserted merely from global aviculture relevance.
 - 65 actual photographs, 180 optimized WebP variants, all 45 species pictured. Extra blue budgie, blue ringneck, pineapple and cinnamon green-cheeked conure examples; cinnamon conure is now its primary body-view image. Cockatiel retains the lutino cover. 27 colour/domestic-variety entries live inside profiles.
 - PhotoSwipe replaces the simple dialog. Natural-ratio full-width profile stage, selectable thumbnails, bird-only captions; centralized correct credits and generous separation from facts. Viewer navigation/zoom is local, with native image links as no-JS fallback.
@@ -36,3 +36,7 @@ Exact variety-photo coverage:20/27 groups. Seven example gaps remain: budgie Eng
 ## Shared-content audit
 
 501 repeated long paragraph copies were removed/consolidated across86 localized profiles.216 link-only headings were folded into validated relatedGuides lists. Species-specific information remains in profiles; common procedures live in canonical guides. A new bilingual native-observation guide owns common wildlife context without promoting pet ownership. The duplicate-paragraph build guard now reports zero repeated long prose blocks. Current totals are45 species and24 guides in each language,138 localized articles. This editing audit does not establish veterinary source verification.
+
+## Whole-site audit
+
+The current release adds navigation and validation rather than new species: bilingual health hub, seven-topic searchable guide library, keyboard mobile menu, topic-aware related reading and persistent filter/comparison/search URLs. Shared language anchors are preserved. Counts remain45 species/24 guides per language=138 articles; two health-hub routes increase generated HTML to166 pages. All original source and photo-rights limits above remain. See SITE_AUDIT.md.

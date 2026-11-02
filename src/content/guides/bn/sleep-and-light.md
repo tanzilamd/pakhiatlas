@@ -10,7 +10,8 @@
     "merck",
     "cdc"
   ],
-  "contentStatus": "editorial-draft"
+  "contentStatus": "editorial-draft",
+  "topic": "everyday"
 }
 ---
 

@@ -52,3 +52,7 @@ See [seed planner](SEED_PLANNER.md) for target/stock modes, optional ingredient 
 See [content ownership](CONTENT_OWNERSHIP.md) before adding common care prose. Keep each procedure in one guide and use frontmatter `relatedGuides:["guide-slug"]` on profiles. Validation checks those guide IDs exist in the same language. `npm run validate:duplicates` reports repeated long paragraphs; content builds invoke it automatically. Keep species-specific context and safety cues; do not remove useful facts to satisfy a word count.
 
 Keep a stable id, paired localized names and useful visible-appearance text for every variety. Link only actually matching photos. Natural colour, domestic breed, sex, mutation and species are separate concepts. A product listing saying colour may vary does not support assigning the picture to its advertised mutation.
+
+## Guide topics and navigation
+
+Each guide's frontmatter needs a `topic` value: getting-started, feeding, everyday, behaviour, health, breeding or wildlife. Use the same topic in its bn/en files. The scaffolder starts with getting-started; change it to the correct topic before publishing. Topic labels and descriptions are in src/data/guide-topics.ts. The library discovers and groups paired guides automatically; do not hand-edit routes. Topic-based related reading is in src/lib/related-reading.ts. The health hub intentionally curates existing guide links; its content is navigation, not another clinical article. See SITE_AUDIT.md and run the full browser suite after changing navigation.

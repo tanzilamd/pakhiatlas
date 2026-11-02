@@ -1,0 +1,18 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import {getCollection} from 'astro:content';
+import {url,t,type Lang} from '../../data/site';
+export const getStaticPaths=()=>['bn','en'].map(lang=>({params:{lang}}));
+const lang=Astro.params.lang as Lang;
+const guides=(await getCollection('guides')).filter(g=>g.data.language===lang);
+const groups=[
+ {en:'Observe changes',bn:'পরিবর্তন বুঝে দেখুন',slugs:['droppings','daily-health-check']},
+ {en:'Prevention & a safer home',bn:'প্রতিরোধ ও নিরাপদ পরিবেশ',slugs:['quarantine','safe-home','bangladesh-weather','cleaning-and-droppings']},
+ {en:'Get help & plan transport',bn:'চিকিৎসা ও যাতায়াতের প্রস্তুতি',slugs:['illness-emergency','travel-care','breeding-readiness']},
+];
+---
+<Layout lang={lang} title={t(lang,'Bird health & safety','পাখির স্বাস্থ্য ও নিরাপত্তা')} description={t(lang,'Find daily observation, droppings, quarantine, household safety and veterinary transport guidance in one place.','দৈনন্দিন পর্যবেক্ষণ, বিষ্ঠা, কোয়ারেন্টিন, ঘরের নিরাপত্তা ও চিকিৎসকের কাছে নেওয়ার প্রস্তুতি এক জায়গায়।')} path="health/">
+  <section class="page-intro"><span class="eyebrow">{t(lang,'OBSERVE • PREVENT • SEEK HELP','খেয়াল করুন • নিরাপদ রাখুন • সাহায্য নিন')}</span><h1>{t(lang,'Notice changes. Know your next step.','পরিবর্তন দেখুন, পরের পদক্ষেপ বুঝুন।')}</h1><p>{t(lang,'Start with what you can observe. Read the relevant guide and prepare useful information for a veterinarian; a symptom or dropping colour alone cannot diagnose a disease.','কী পরিবর্তন দেখছেন, সেখান থেকে শুরু করুন। সংশ্লিষ্ট গাইড পড়ে চিকিৎসককে জানানোর তথ্য গুছিয়ে নিন; একটি লক্ষণ বা বিষ্ঠার রং দিয়ে রোগ নির্ণয় করা যায় না।')}</p></section>
+  <aside class="health-priority" aria-labelledby="urgent-title"><span class="eyebrow">{t(lang,'URGENT SIGNS','জরুরি লক্ষণ')}</span><h2 id="urgent-title">{t(lang,'Do not wait for an online answer.','অনলাইনের উত্তরের জন্য অপেক্ষা করবেন না।')}</h2><p>{t(lang,'Breathing difficulty, collapse, seizures, uncontrolled bleeding, major injury or suspected poisoning need urgent professional help. Call a clinic that sees birds and arrange safe transport.','শ্বাসকষ্ট, ঢলে পড়া, খিঁচুনি, থামছে না এমন রক্তপাত, বড় আঘাত বা বিষক্রিয়ার সন্দেহে দ্রুত চিকিৎসা নিন। পাখি দেখে এমন ক্লিনিকে ফোন করে নিরাপদে নিয়ে যাওয়ার ব্যবস্থা করুন।')}</p><a class="button" href={url(`${lang}/guides/illness-emergency/`)}>{t(lang,'Read the urgent-care guide','জরুরি অবস্থার গাইড পড়ুন')} →</a></aside>
+  {groups.map(group=><section class="section health-topic"><div class="section-heading"><h2>{lang==='bn'?group.bn:group.en}</h2></div><div class="guide-grid">{group.slugs.map(slug=>{const g=guides.find(g=>g.data.slug===slug)!;return <a class="guide-card" href={url(`${lang}/guides/${slug}/`)}><h3>{g.data.title}</h3><p>{g.data.summary}</p><span class="text-link">{t(lang,'Read guide','পড়ুন')} →</span></a>})}</div></section>)}
+</Layout>

@@ -1,3 +1,5 @@
 # Add an original bilingual care guide
 
 Follow AGENTS.md and docs/RESEARCH_STANDARDS.md. Read the current coverage and source ledger. For the requested subject, retrieve primary/authoritative sources and map major claims to passages. Do not claim access if blocked. Record dates and uncertainties. Never fabricate local availability, legal permissions, veterinarian review, numbers, photos or citations. Keep taxonomy canonical, variants separate, slugs stable and Bangla prose natural. Preserve essential information in both languages. Use licensed local media with attribution. Avoid unsafe procedures or generalized medications. Run content validation, Astro check/build, link checks and relevant browser checks. Report exactly what remains draft, what passed, and whether actual Pages deployment was verified. Never change a custom domain without permission.
+
+Set the same valid topic in both frontmatter records: getting-started/feeding/everyday/behaviour/health/breeding/wildlife. The library discovers and groups the new guide automatically. Read docs/CONTENT_OWNERSHIP.md and docs/SITE_AUDIT.md before creating overlapping content.

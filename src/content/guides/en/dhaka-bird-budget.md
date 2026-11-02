@@ -9,7 +9,8 @@
     "aav",
     "cdc"
   ],
-  "contentStatus": "editorial-draft"
+  "contentStatus": "editorial-draft",
+  "topic": "getting-started"
 }
 ---
 

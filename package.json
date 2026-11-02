@@ -12,7 +12,7 @@
     "new:bird": "node scripts/scaffold.mjs birds",
     "new:guide": "node scripts/scaffold.mjs guides",
     "media:add": "node scripts/add-photo.mjs",
-    "test:browser": "node scripts/browser-test.mjs && node scripts/test-interactions.mjs && node scripts/test-seed-browser.mjs",
+    "test:browser": "node scripts/browser-test.mjs && node scripts/test-interactions.mjs && node scripts/test-seed-browser.mjs && node scripts/test-navigation.mjs",
     "validate:duplicates": "node scripts/content-duplicates.mjs",
     "test:seed": "node scripts/test-seed-plan.mjs && node scripts/test-seed-browser.mjs"
   },
